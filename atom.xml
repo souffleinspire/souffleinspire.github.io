@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://souffleinspire.github.io</id>
     <title>港姐 Souffle</title>
-    <updated>2020-03-15T02:13:29.428Z</updated>
+    <updated>2020-03-15T02:52:07.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://souffleinspire.github.io"/>
     <link rel="self" href="https://souffleinspire.github.io/atom.xml"/>
@@ -15,7 +15,7 @@
         <id>https://souffleinspire.github.io/post/design-tree/</id>
         <link href="https://souffleinspire.github.io/post/design-tree/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
+        <updated>2019-11-03T16:08:10.000Z</updated>
         <content type="html"><![CDATA[<p>最近听了很多课程，看了一些书，在思维上有了一些“开悟”。在上周准备动手写文章之前，突然意识到需要先停下来。停下来干什么？直说，我花了整整一周的空闲时间，翻阅了多本经典设计书籍，搜索了多篇国内外关于设计的文章，整理出了我的设计知识树。</p>
 <p>为什么想到要做这样一件事呢？其实源自于对自己的反省吧。刚刚说了，因为一些知识的冲击，导致在认知上有了些升级。于是我开始回顾自己有限的工作经历，发现以前都是以“点”的思维模式在工作，一心想着如何做好当下的事情，如何实现自己的所谓“成功”。然而，<strong>我们每一个“点”都寄居在一些“线”和“面”之上</strong>，它们可能是你的公司，可能是你的家庭，可能是你所在的任何集体，甚至可能是整个社会、国家。看似我们的生活都是为这些“线”和“面”服务，但是仔细想想，<strong>“线”和“面”能够给你的赋能会比你单纯靠个人奋斗获得的能量大得多</strong>。你贡献于此，愿意多为别人和集体付出，无疑也是在提升自己的影响力。</p>
 <p>一旦像这样拔高了自己看事物的角度，就会发现你<strong>需要有更多系统化的思维</strong>，去组织和寻找资源，去协调各种关系，并且按照系统要求的能力不断“拉伸”自己。设计知识树便是我在设计这一块的系统性输出，它让我能更清晰的知道自己缺乏的能力和知识，也能成为我写文章的大纲，所以把它贴给大家。</p>
@@ -26,610 +26,288 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[色彩第九课：色彩解析之青色]]></title>
-        <id>https://souffleinspire.github.io/post/color-09/</id>
-        <link href="https://souffleinspire.github.io/post/color-09/">
+        <title type="html"><![CDATA[色彩第二十课：色彩重心]]></title>
+        <id>https://souffleinspire.github.io/post/color-20/</id>
+        <link href="https://souffleinspire.github.io/post/color-20/">
         </link>
-        <updated>2018-12-09T16:15:04.000Z</updated>
+        <updated>2019-05-26T15:55:27.000Z</updated>
         <content type="html"><![CDATA[<h1 id="前言">前言</h1>
-<p>《荀子·劝学》中有这样一句脍炙人口的名句：&quot;青，取之于蓝而青于蓝；冰，水为之而寒于水。&quot;在文学上，这句话比喻经过学习和教育，后起之秀可以超过老师或前人。同时也揭示了青与蓝的色彩关系。 在所有基础颜色中，青色大概是人们认识最模糊的颜色了，因为它在可见光谱中是介于绿色和蓝色之间的颜色，在文字描述上根本无法确切表达出青色。百度百科是这样教我们分辨青色的：&quot;如果无法界定一种颜色是蓝色还是绿色时，这个颜色就可以被称为青色&quot;。 <img src="https://images.xiaozhuanlan.com/photo/2019/b0fa19bad6a30dad848cf8f04f5d23a5.png" alt="" loading="lazy"> 虽然不可思议，但是还是要说一句，这说法。。。也没啥毛病。</p>
-<h1 id="青色野史">青色野史</h1>
-<ul>
-<li>刘熙的《释名》中说：&quot;青，生也，象物之生时色也。&quot;&quot;生&quot;的甲骨文是草破土而出的象形字，所以青字反映了草木生长的形貌，对应欣欣向荣的春天，青在我国古文化中也有了生命的含义，&quot;青&quot;的基本色调应该是春季植物叶子的绿色。 <img src="https://images.xiaozhuanlan.com/photo/2019/a5564dace5fe714afdf173f717146aca.png" alt="" loading="lazy"></li>
-<li>在古汉语中，青则是一个会意字，它的字形上为生，下为丹，丹又是井字的变形。那时，青色的范围非常大，人们用青、红两色来指几乎所有除了白色之外的颜色，这样的划分类似于现在冷色调和暖色调。在这种划分里，属于青色的有蓝色、绿色、碧色、苍色，甚至于还包括黑色。相对于现在把青色当成某种颜色的名称，它在当时更像一种对色彩的感觉。 <img src="https://images.xiaozhuanlan.com/photo/2019/f355c4087749c55e0c162c04a29b71a3.png" alt="" loading="lazy"></li>
-<li>到了近现代，颜色名称越来越细分，出现了蓝色、绿色等，青色的指代范围也越来越小，直至成为了一种特殊的颜色。</li>
-</ul>
-<p>总结下来，就是说&quot;青&quot;的意义的一个流变过程，不同历史时期、不同人群对青色的理解都不相同，所以尽管世上流传着多种关于青色的名篇佳句，它们描述的&quot;青色&quot;也不同。比如：</p>
-<ol>
-<li>绿水青山、青草中的&quot;青&quot;偏向于绿色；</li>
-<li>青衫、青青子衿、青布、青丝往往是指黑色；</li>
-<li>碧海青天、青冥、青瓷的&quot;青&quot;更倾向于蓝色。</li>
-</ol>
-<h1 id="青色的特性">青色的特性</h1>
-<ul>
-<li>青色是中国古文化的象征。一方面在中国人的空间观念----东、南、西、北、中的五行观中，东方主青色。另一方面，在时间观上，周而复始的春、夏、秋、冬，欣欣向荣的春天也是用青色代表。这一时段，青色往往以靛青为主，也就是青花瓷上&quot;青花&quot;的颜色，除此之外，在一些古画和古代服饰上也随处可见。靛青深邃、浓厚，充满了文化气韵。不过，现在靛青又叫靛蓝，已经划入了蓝色的范畴。 <img src="https://images.xiaozhuanlan.com/photo/2019/937aaf5813f8860281529c08fe1d0775.png" alt="" loading="lazy"></li>
-<li>青色多含有美好、正面、充满生机的气息，也是一种尊贵之色。比如：正气凛然、廉洁奉公的官员称为青天；美丽的少女被称为青娥；道德高隆、秉性高洁的人称为青云之士；仕途平顺，称为平步青云或青云直上...... <img src="https://images.xiaozhuanlan.com/photo/2019/9292603d2a0569f5bb113adb51aff1bc.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/e90cb9aaacb69347366d78ab529872a5.png" alt="" loading="lazy"></li>
-<li>从色彩心理学的角度出发，青色能够减缓压力，让人感到愉快。这个说法并不是空穴来风，青色在理论上是蓝色和绿色或者紫色混合而成，颜色相对柔和、不浓烈，根据英国苏赛克斯大学一位教授的研究表明，组成青色的这些颜色都能让人感觉更快乐。另外，此次研究还同时表明，青色还有助于让人思维更加敏捷。 <img src="https://images.xiaozhuanlan.com/photo/2019/ae428390a27aa200bcaa2d1b35888a22.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/5a29b7dcfc3c274ca9264eb720a43692.png" alt="" loading="lazy"></li>
-<li>在减色系统或 CMYK（减色）中，青色（cyan）可以覆盖在油漆和彩色打印中生成所有颜色。在加色系统或 RGB（加色）色彩模型中，青色是通过混合等量的绿色和蓝色光线制成的。 <img src="https://images.xiaozhuanlan.com/photo/2019/10caf42c0068063a88634a6a380b42be.jpg" alt="" loading="lazy"></li>
-<li>在古代，青色是中国特有的颜色，但主要还是指靛蓝色。如今，随着青色成为一种独立的色彩，它更显活力、年轻，收到了众多设计师的青睐。除了cyan，在英语中，颜色 aqua 与青色同义。 <img src="https://images.xiaozhuanlan.com/photo/2019/e9c127c758aa3f2d5003c6e943d1ac8c.png" alt="" loading="lazy"></li>
-</ul>
-<h1 id="青色的搭配">青色的搭配</h1>
-<p>下面是一张平展的色轮图，不难看出青色的色域相较而言非常小，但是青色可以偏蓝、偏绿甚至是偏黑，依旧可以丰富多彩。 <img src="https://images.xiaozhuanlan.com/photo/2019/f2e4d599d30a52b192d661f766e9e8cb.jpg" alt="" loading="lazy"></p>
-<h2 id="1-蓝青"><strong>1. 蓝青</strong></h2>
-<p>上面说靛青也曾是青色之一，所以偏蓝的青色很容易让人觉得有古风古韵或者少数民族的感觉，延禧多美就都穿过靛青色的衣服。 <img src="https://images.xiaozhuanlan.com/photo/2019/e2188d83a8d1a46b30cf0e3843b2146d.png" alt="" loading="lazy"> 在设计中，用蓝青色结合略带复古的元素，与白色、米黄色等搭配，能够凸显文艺感。 <img src="https://images.xiaozhuanlan.com/photo/2019/11bd39b6c6245bd86b8e43a72eb3a0ef.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/3a4242b55f5d64731356b4d7e0daafa9.png" alt="" loading="lazy"> 如果想要让设计更轻薄一点的话，就应该选择白色或者较亮的颜色搭，甚至是浅青色也可以与深蓝青色搭配。 <img src="https://images.xiaozhuanlan.com/photo/2019/f81149f5241a6513f771f4e813692ebc.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/db7c2651b186857b644bfb7a8e57013e.png" alt="" loading="lazy"> 随着科技的发展，现在的青色基本都趋于亮色了，在表现科技场景和游戏场景的时候，青色大概是最常见的色彩之一了，一眼就觉得很 techonology 的样子。 <img src="https://images.xiaozhuanlan.com/photo/2019/bfd9a629a0c99d54650e929a7391fe59.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/a130e2d139327e951ffb9e18a4b7fa8b.png" alt="" loading="lazy"> 青蓝色的作用当然不限于表现科技元素，它还几乎可以与任何颜色搭配，营造完全不同的气氛。 <img src="https://images.xiaozhuanlan.com/photo/2019/bd1af90a82751ccefb14edbdbd4f1a4b.png" alt="" loading="lazy"></p>
-<h2 id="2-青绿"><strong>2. 青绿</strong></h2>
-<p>深青绿色总让我觉得有种老上海滩的感觉，与暗红色或暗橙色搭在一起，更能强化这种感受，复古又有韵味。 <img src="https://images.xiaozhuanlan.com/photo/2019/d43cabced329db733210543a55a095c8.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/9cfa01e534fd79142b929f94a4324bdd.png" alt="" loading="lazy"> 不过，这种配色还常被用来表现一些荒诞诙谐、夸张的主题，从下图两个例子可以感觉到，仍旧是有一种复古感在其中。 <img src="https://images.xiaozhuanlan.com/photo/2019/52808c4c2a982f247e5d44413a58e271.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/ce10df4f988da42b742946910baabd0d.png" alt="" loading="lazy"> 深的青绿色与深色交织在画面中，加深画面的隐晦、神秘，不过容易让画面显脏，略微有点不适感。 <img src="https://images.xiaozhuanlan.com/photo/2019/071a6fdc504aa796a0ff215c394cdd4d.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/02fe965b291f3be6da7b3f8294861965.png" alt="" loading="lazy"> 浅青绿色温柔安静，淡淡的颜色更适合恬淡、纯真、清透的风格，同样与淡色调或者明色调搭配会更好，营造出放松、温馨的氛围。 <img src="https://images.xiaozhuanlan.com/photo/2019/a53e0e3f093bc35169b5f5f88933426a.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/ce2b466208b90dff02b0650bc14eeb37.png" alt="" loading="lazy"></p>
-<h2 id="3-黑青"><strong>3. 黑青</strong></h2>
-<p>黑青色会显示出沉寂感、庄严感，仿佛一位正直、认真的权威人士站在你的面前，时刻向你显示 ta 的严肃、干练。 <img src="https://images.xiaozhuanlan.com/photo/2019/651e639f8a2cfe70cab06b890c743eb8.png" alt="" loading="lazy"> 若是不想让画面太过严肃和刻板，也需要添加一些亮色的辅助色来平衡。 <img src="https://images.xiaozhuanlan.com/photo/2019/01bfddbe68ef0a73698ab6f0bb9ab434.png" alt="" loading="lazy"></p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/73a781722df7787d49e60ee991aa5742.png" alt="" loading="lazy"> 上图来自于一个网站，勾勒出一副类似香港街头的画面，虽然是线条画，但画的很细致，有节奏，也有秩序。但是，画面中黑色线条与橙红色线条交错，显然抓住眼球的橙色却没有一处特别突出，也就是说，这张图有一个缺点----<strong>缺少视觉重心</strong>。这是因为这张图是 banner 配图，本应有个大标题的，缺少这个元素，即使是美图一张也会失去一定的魅力。 <img src="https://images.xiaozhuanlan.com/photo/2019/5813fe6485bf763865ad90b84c6d9d15.png" alt="" loading="lazy">前面一篇文章中，我表明过自己的观点：<strong>色彩和版式是密不可分的，抛开排版谈色彩就是耍流氓</strong>，所以今天我要普及一下&quot;色彩重心&quot;的知识。</p>
+<h1 id="色彩重心">色彩重心</h1>
+<p>首先，什么是色彩重心呢？说白了，就是<strong>用色彩表达视觉重心</strong>。版面的视觉重心其实没有什么限制，图片、图形、色块甚至是文字都 OK。无论外形怎么变化，我们都能把它看成一个点或者一个组，起到<strong>引导视线、突出重点</strong>的作用。比如说下面的几张图，就有明显的重心点，而且它们主要都是通过与周围环境形成色彩差异形成聚焦效果。 <img src="https://images.xiaozhuanlan.com/photo/2019/59a86626522439952b0b4e873bd7160d.png" alt="" loading="lazy"> <strong>色彩的对比造成色彩重心强度不同</strong>。你看，一模一样的版式，因为灰色更深，右侧这个重心就比左侧的重，带来的视觉冲击力也更大。 <img src="https://images.xiaozhuanlan.com/photo/2019/5c53d04646b9e21c9dd7a9a3f8a44f66.png" alt="" loading="lazy"> 加个颜色看看，是不是对比更强烈了？<strong>色彩差异越大，重心越突出</strong>。 <img src="https://images.xiaozhuanlan.com/photo/2019/a4968287fde60aa9cc340557d5e00995.png" alt="" loading="lazy"></p>
+<h1 id="寻找重心点">寻找重心点</h1>
+<p>上面所有的案例都是理想&quot;模型&quot;，可是很多时候，视觉重心可能不是一个形态相对完整的元素，而是元素上的某个区域。咱们来看一些例子，找找它们的重心。 <img src="https://images.xiaozhuanlan.com/photo/2019/8cf000a67f492e1a540bc058f1339730.png" alt="" loading="lazy">形态完整的元素，无论是图片、图形还是文字等，重心点就是在主题元素的中心。</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/cbc81ed9fba69a94a4cc65128af9492c.png" alt="" loading="lazy">这张 banner 中元素多且呈现非连续的形态，但有很明显的视觉引导效果，所有元素指向中心茶杯的区域，视觉重心便在于此。</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/66198b2dcd4d365259b47aa01e5e2691.png" alt="" loading="lazy">对于非均衡形态的元素，通常会在视觉聚焦的区域寻找重心。</p>
+<h1 id="重心的设置与平衡">重心的设置与平衡</h1>
+<p>能找到重心，再去看更多的设计作品，就能发现一些设置重心的&quot;套路&quot;了，我也为你总结了一些。不仅限于平面作品，插画、UI 中都适用。</p>
+<h2 id="版面中心">版面中心</h2>
+<p>找中心点的方法很简单，因为它就是<strong>版面对角线的交点</strong>，这种重心更适合相对独立的元素。 <img src="https://images.xiaozhuanlan.com/photo/2019/ace90c1d860f209cc2e52736bf902560.png" alt="" loading="lazy"> 简单举个例子看一下。 <img src="https://images.xiaozhuanlan.com/photo/2019/b9c7f60cf2cccb4959bc2289ed37b635.png" alt="" loading="lazy"></p>
+<h2 id="版面中心线">版面中心线</h2>
+<p>中心线指的是<strong>对称线</strong>，这种方式能创造更多的可能。除了交点（也就是中心点），还可以在偏离中心的一些位置上。 <img src="https://images.xiaozhuanlan.com/photo/2019/aa86affe77e4accb85defa748b465baf.png" alt="" loading="lazy"></p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/2b64a4e4eaa9809f9da23ee514fa6bad.png" alt="" loading="lazy">重心元素位于版面水平中心线左侧的设置，比较符合从左到右的阅读习惯，能起到强化主题的作用。</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/66c2cb398e3e569f4eab8b7a487508ca.png" alt="" loading="lazy">重心元素位于版面水平中心线右侧的设置，可以让左右版面受到同等的关注。</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/d78206c7b3b69ba0d4a202aa066015ec.png" alt="" loading="lazy">重心元素位于版面垂直中心线的上方，会根据重心元素的状态呈现不同的效果。如果元素较其他部分更重的话，会有下坠、衰落的感觉。反之，如果元素更轻，感觉是积极向上的。 <img src="https://images.xiaozhuanlan.com/photo/2019/af0208498f165f763c05003d9e552694.png" alt="" loading="lazy"></p>
+<p>重心元素位于版面垂直中心线的下方也是类似的。元素重，让人感觉踏实、可靠；元素轻，产生上升、不稳定感。 <img src="https://images.xiaozhuanlan.com/photo/2019/a67756b8d578b048f42b00524a268ebf.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/bc61c4128b528198b0431f32ef6780a4.png" alt="" loading="lazy"></p>
+<p>如果色彩重心不止一个，也不用担心，版面中心线还是能解决问题。</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/54a0831b0b6916a634cacc9865826c63.png" alt="" loading="lazy">重心元素均匀排列在水平中心线上，可以引导观者视线左右移动，容易带来平静、缓和的感受。<img src="https://images.xiaozhuanlan.com/photo/2019/97d760503232787c4a8e3841d868da45.png" alt="" loading="lazy"></p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/6acf88b669cc876b9ed92f9b81eabb0c.png" alt="" loading="lazy">重心元素均匀排列在垂直中心线上，版面会被拔高，能一定程度提高纵深感。<img src="https://images.xiaozhuanlan.com/photo/2019/9415d927b88c07732a835f8dbae223f9.png" alt="" loading="lazy"></p>
+<p>多个重心元素在中心线上分布的可能性还有很多，就不一一具体分析了。 <img src="https://images.xiaozhuanlan.com/photo/2019/e73bca4fbd6c7689eb62fe91661a21ce.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/b44b108ecc5a2f2f5fffe236a0d8ef55.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/d295822e6098463c0061bb0f13b92ae0.png" alt="" loading="lazy"></p>
+<p>虽然大部分在中心线上设置重心点的版式都不会引起大问题，但需要特别注意以下这种排版。看似稳定的排列，但实际上在中心形成了一个视觉空区，很难让人找到焦点，应该慎用。 <img src="https://images.xiaozhuanlan.com/photo/2019/e6576da06cac33951af213c9caa6dafc.png" alt="" loading="lazy"></p>
+<p>在中心加上一个重心就完全没有问题了，几乎是一种最稳定的结构，而且可以很好地扩展版面。 <img src="https://images.xiaozhuanlan.com/photo/2019/e2d4391db905999665ec812a2b0db3b4.png" alt="" loading="lazy"></p>
+<p>还有需要提醒的是<strong>色彩重心越多，就越需要重视重心平衡</strong>。过于偏向一侧的重心，不便于阅读或者观看，那么就需要更多的技巧去中和。</p>
+<h2 id="版面对角线">版面对角线</h2>
+<p>对于规则的版面来说，除了中心线之外，还有另一种特殊线----对角线。在对角线上设置重心点也是冇问题滴，不同的分布也会带来不同的视觉感受。</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/71b9c9dcd6d1703e330dd6e7440b6445.png" alt="" loading="lazy">左上角、右上角的位置，通常留给人积极的印象。左下角、右下角的视觉重心则展现低调、克制的气质。 <img src="https://images.xiaozhuanlan.com/photo/2019/996e29f2d00174cedc5b42c64127acb2.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/566cc3734559a44f73f7e266ee072008.png" alt="" loading="lazy"></p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/b09eceaf64880f03f8e62f7a5ab5b25c.png" alt="" loading="lazy">多个重心元素出现在同一条对角线上时，观者的视觉会围绕这根线移动，虽然营造了不稳定感，但是能极大地发挥动感。<img src="https://images.xiaozhuanlan.com/photo/2019/bd42b8c9e949b4f64621f1f3cfa56389.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/2f5719bb2dbad7aae06ebc8d21cda507.png" alt="" loading="lazy"></p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/396e1b392c5a4b6972749df1c7da95d5.png" alt="" loading="lazy">当重心形成三角形时，画面效果趋于稳定且不死板。<img src="https://images.xiaozhuanlan.com/photo/2019/608e0198dfafd2d25ac1377bdc81890c.png" alt="" loading="lazy"></p>
+<p>除了这些排版方式外，版面边角区域的色彩重心布局还可以更加多样，感兴趣的小伙伴可以自己常识摸索一下。</p>
 <h1 id="一点想法">一点想法</h1>
-<p>青色在历史上的地位无疑是非常重要的，由于应用的广泛性也使得现代人对青色的理解更为模糊。这虽然是历史的演变，但无疑，像这样更换一个颜色的概念，却很难改变人们的固有意识，造成的问题就是在边界上的不清晰，我爷爷那一代人也几乎都还认为青色就是黑色的别称。这让我想起在罗辑思维上听到的关于司母戊鼎更名的那一期，本质上是有一点类似吧。 现在的社会已经极大地扩展了它的包容性，允许甚至助推了无数的创新与更迭，不过有些观念是根深蒂固的，想要改变绝非一时一刻之事。打破和重建的过程是对强者的层层筛选，注定不是短时间能解决的，很多事情啊，不宜操之过急。</p>
+<p>很多人觉得设计师是完全感性主导的群体，甚至认为像我在金融行业中做设计，是不是会存在感性和理性的冲突。 每次被问到这种问题，我都觉得挺奇怪的。感性和理性本来就是一个人性格的两部分，跟从事什么行业关系好像并不大呀。而且无论从观察还是经历来说，我都认为<strong>理性</strong>和<strong>逻辑</strong>对个人职业发展非常重要，设计师也是如此。有些设计师做出来的东西让人感觉很舒服或者感受极佳，就是因为他们会自觉不自觉地运用上一些理论和逻辑。 所以我希望大家不要对任何行业抱有偏见，也希望设计师不要对一些基本理论视而不见。一个人能走多远，在于他看到的远方有多远。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[色彩第八课：色彩解析之绿色]]></title>
-        <id>https://souffleinspire.github.io/post/color-08/</id>
-        <link href="https://souffleinspire.github.io/post/color-08/">
+        <title type="html"><![CDATA[色彩第十九课：这份色彩测试题，请收好]]></title>
+        <id>https://souffleinspire.github.io/post/color-19/</id>
+        <link href="https://souffleinspire.github.io/post/color-19/">
         </link>
-        <updated>2018-12-03T17:30:53.000Z</updated>
+        <updated>2019-05-12T16:01:10.000Z</updated>
         <content type="html"><![CDATA[<h1 id="前言">前言</h1>
-<p>提到绿色，大家想到的可能是&quot;原谅色&quot;，这种说法虽是一种调侃，但是从色彩学的角度上，也并非毫无道理，绿色确实是色彩中的&quot;治愈色&quot;，不过效果因人而异啦。绿色作为一种非常常见的自然色，其实褒义还是远大于贬义的，只是恐怕要将中国的一些说法排除在外，接下来就来好好说道说道。</p>
-<h1 id="绿色的特点">绿色的特点</h1>
-<ul>
-<li>
-<p><strong>对抗疲劳</strong> 上学时，老师或家长就会告诉你：&quot;看绿色对眼睛好&quot;。这是因为在生理学上，人的视觉细胞层包括三种识别颜色的视锥细胞----红视锥细胞、绿视锥细胞和蓝视锥细胞，人眼感知绿色时，这三种细胞全都会做出反应，从而减轻了视神经的负担，看久了也不会疲劳。所以建议大家在长时间工作或学习的地方摆放绿植、多装点一些绿色，可以一定程度上舒缓眼睛疲劳。 <img src="https://images.xiaozhuanlan.com/photo/2018/c8801bae947e0c76d34ff72cb574359b.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p><strong>有益身心</strong> 绿色对心理的益处则主要是因为进化。自然界中，绿色是分布非常广泛地颜色，人们也往往相信大自然对身体健康是有好处的。看到绿色，让人联想到森林、草地等，便会让人感觉放松、内心安宁； <img src="https://images.xiaozhuanlan.com/photo/2018/8b4e0e1800ad5262dadcf0b89c9f9cff.jpg" alt="" loading="lazy"> 绿色与自然的联系，也让它成为了新鲜、生态、环保等的代表色； <img src="https://images.xiaozhuanlan.com/photo/2018/65872136e5f82c308430e0386e9f0f1b.png" alt="" loading="lazy"> 人们认为绿色与春天关系密切，所以能代表希望、成长和青春； <img src="https://images.xiaozhuanlan.com/photo/2018/79f428aed875fc896cdbd485cbafcee5.jpg" alt="" loading="lazy"> 自然中的绿色非常多，所以绿色在作战时能起到很好的掩护作用，陆军和野战队的制服通常是绿色的。 <img src="https://images.xiaozhuanlan.com/photo/2018/1d9ae1a734dbfde1b17af4ea04c0b63c.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p><strong>&quot;松弛感&quot;</strong> 不同的光线或颜色会让人体肌肉紧张或松弛，用&quot;肌肉紧张度值&quot;能够量化这种紧张感。通过测定，红橙黄等鲜艳的暖色会让人的肌肉紧张度值上升，而绿色、蓝色以及偏中性的色彩则令肌肉松弛。不只是眼睛，我们的皮肤就能感知颜色哦，所以在家装的时候不妨考虑这些颜色。 <img src="https://images.xiaozhuanlan.com/photo/2018/ec2127f46783465390d3f2dad52769dd.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p><strong>表示允许</strong> 绿色有准许行动的意思，因此交通信号灯的绿色表示可前行，安全通道也被称为绿色通道。 <img src="https://images.xiaozhuanlan.com/photo/2018/c8558a06ea1640845b55d79d0afa2499.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p>金融市场上，绿色被广泛应用，亚洲市场上绿色代表跌，欧美市场上代表涨。 <img src="https://images.xiaozhuanlan.com/photo/2018/9e011cef4a2c0eeb4eb7832358c9477a.jpg" alt="" loading="lazy"></p>
-</li>
-<li>
-<p><strong>警惕绿色</strong> 需要注意的是，天然绿色颜料中几乎都含有砷，也就是砒霜，毒性非常强。据说拿破仑在世时非常喜欢用绿色颜料刷墙，他最终死于胃癌，医生解剖他的胃时，就发现其中含有砒霜。当然了，现在大部分的绿色颜料中已经没有砷了，但是大家还是可以多留个心眼哦。 <img src="https://images.xiaozhuanlan.com/photo/2018/09a6facee1b4bcbe8e6c9071a22ecb6a.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p><strong>绿色的消极感</strong> 同样，绿色也有自己的消极含义，比如：绿眼怪 (嫉妒)，脸色苍白 (feeling green around the gills) 以及太嫩了 (be green，表示经验不足)。不过，绿色的消极感在现代文化中已经很少很少了。 <img src="https://images.xiaozhuanlan.com/photo/2018/eadd2ba6a0af7557014789e0b8ca511c.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p><strong>原谅色</strong> 在中国，绿色最不受待见的时候就是在&quot;戴绿帽&quot;中，其实绿色在古代向来是不被看好的颜色。古人将红黄蓝白黑五色视为正色，地位非常高，而其他调和色都是间色，地位相对低下。所谓&quot;绿，苍黄之间色&quot;，也就是说绿色是青、黄调和而成，是一种中性色。 春秋时，有卖自己的妻女求食者，都要裹绿头巾，以别贵贱。《汉书》中记，馆陶公主中年寡居之后，经常与情夫董偃出双入对，董偃则戴 &quot; 绿绩 &quot; 谒见皇帝，为奴才扮相。发展至元朝，凡娼妓之家，其家长亲属男子均要戴绿头巾。到了明朝，规定伶人不仅要裹绿头巾，还要兼穿绿衣，将绿头巾又发展了一步。这些历史说明，绿不仅仅代表卑贱，还是对人的一种侮辱，绿帽发展成为今天的含义也就不奇怪了（图就不放了吧）。</p>
-</li>
-</ul>
-<h1 id="绿色的搭配">绿色的搭配</h1>
-<p>绿色在配色中几乎不能帮助其他色彩，也不能强调整体的氛围，有独自抢眼的倾向，而又无法像红色那样给人以足够强烈的印象。但春天萌新的绿色和秋叶微醺的绿色是完全不同的，所以搭配前需要确定所使用的绿色要表现的是什么感觉，避免影响整体配色的协调。绿色在配色中尽量避免无意义的绿色，这样会显得抢眼。 <img src="https://images.xiaozhuanlan.com/photo/2018/348bdc67888aa963ccfdae2ceb83ce53.png" alt="" loading="lazy"> <strong>1. 绿色+无色彩</strong></p>
-<ul>
-<li>绿色+白色：白色与多种绿色都可以搭。深橄榄绿+白色凸显品质感，典雅安静； <img src="https://images.xiaozhuanlan.com/photo/2018/61bac7e08e244d05692de8d8b4ad6300.png" alt="" loading="lazy"> 深绿+白色最容易搭配，常见是一种颜色作为背景，突出另一种； <img src="https://images.xiaozhuanlan.com/photo/2018/b25fbe1b360a53793f1236541bb167f8.png" alt="" loading="lazy"> 浅绿/黄绿+白色会显得有点轻薄，应该加入一种深色或者降低明度，增强力量感； <img src="https://images.xiaozhuanlan.com/photo/2018/d3f0ca6de7a031b7e4e95852c89672d2.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/6b7f02675066b859aaf745c209bfbd9a.jpg" alt="" loading="lazy"></li>
-<li>绿色+黑色/深灰：集合力量感、神秘感、活力感的搭配，常用于体育行业，用正绿色或偏黄的绿色比较合适； <img src="https://images.xiaozhuanlan.com/photo/2018/e451f5c31f69504bd546dee61bb89da5.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/d5daae6d5204e3822229da9cdc558e12.jpg" alt="" loading="lazy"> 浅绿与黑色/深灰搭配呈现出的感觉是&quot;武不够，文来凑&quot;，削弱了力量感，增加了文化气。 <img src="https://images.xiaozhuanlan.com/photo/2018/784856194022260e201bede29abb9bde.png" alt="" loading="lazy"></li>
-</ul>
-<p><strong>2. 绿色的同色系</strong> 绿色是很灵活的颜色，黄绿色显得很&quot;温暖&quot;，而蓝绿和碧绿又显得有些&quot;冷&quot;，所以利用绿色的同色系就能创造有趣的插画或设计。 <img src="https://images.xiaozhuanlan.com/photo/2018/551f3cba03f640199b65ebeecfca2ee0.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/c4e7ece937bfe66ff77f2e7edcf9d467.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/4c266574bde0b7a725df8075fd1e073a.jpg" alt="" loading="lazy"></p>
-<p><strong>3. 绿色+暖色系</strong></p>
-<ul>
-<li>
-<p>绿色+红色系：绿色的相对色被认为是红色，但准确来说，应该是品红。不过，俗话说&quot;红配绿，赛狗p&quot;，正红和亮绿搭配显然是比较违和的，这时改变一下色调就变得很重要了。比如，用淡色调的粉红和淡色调的浅绿搭配（下图一）或者用淡浊色调的墨绿色（下图二、三）。 <img src="https://images.xiaozhuanlan.com/photo/2018/7e4e3b8f7c60ff6f31d366e0766ddfb7.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/efd59d7aa0cece6da893a04a9d1a693e.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p>绿色+橙色系：绿色与鲜艳的颜色搭配时，要避免100%绿色，另一种颜色也可以相应的降低饱和度。 所以绿色与橙色的搭配时可以选择偏蓝色的绿色，这时的绿色看上去偏冷感，和橙色拉开了距离，增加了画面的活跃感，同时把色彩亮度调高、饱和度调低，会让画面趋向柔和。 <img src="https://images.xiaozhuanlan.com/photo/2018/6e6900570e7a339aeb4ca3b57d4fb1e0.png" alt="" loading="lazy"> <a href="https://images.xiaozhuanlan.com/photo/2018/080d7e28fda5e2dc4718a715f3d70e28.jpeg"></a> 绿色和橙色的撞色也可以 amazing，加入一些灰色会更配哦~ <img src="https://images.xiaozhuanlan.com/photo/2018/f0eeb958e838e71b7cdabad0d5b7de61.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p>绿色+黄色系：与上同理，与黄色搭配也可以用偏冷或偏蓝的绿色； <img src="https://images.xiaozhuanlan.com/photo/2018/fb7e8d029eb8869e79bc37269fc68ce9.png" alt="" loading="lazy"> 淡浊色调的黄色与绿色搭配可烘托复古风格。近乎米色的黄色或橙色与淡浊色调的绿色搭配也有异曲同工之妙。 <img src="https://images.xiaozhuanlan.com/photo/2018/fd0aeeb108aab80429345f861482f23a.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/1f58c2e49130608bf914596e9bee3080.png" alt="" loading="lazy"></p>
-</li>
-</ul>
-<p><strong>4. 绿色+冷色系</strong></p>
-<ul>
-<li>
-<p>绿色+紫色系：由于和冷色调搭配，不妨考虑增加其中一种色彩的诱目性，使用偏黄的绿色，或增加/减淡绿色的亮度，让画面有亮色的部分即可； <img src="https://images.xiaozhuanlan.com/photo/2018/b521cc422f2c0ba54542c0e3c6614e28.png" alt="" loading="lazy"> 如果两种颜色比例相当，应该同时降低两者的纯度，让画面柔和起来； <img src="https://images.xiaozhuanlan.com/photo/2018/650080b30d3fcc4bbd05d811d4293f4b.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p>绿色+蓝色系：绿色和蓝色在色轮上差一个青色，而青色与绿色有非常接近，几个颜色的色彩感受是类似的，所以让绿色慢慢趋向于蓝色形成渐变会很好看； <img src="https://images.xiaozhuanlan.com/photo/2018/7052a09226cd606d9d9243e4378a5781.png" alt="" loading="lazy"> 让蓝色和绿色之前产生明显的明度差也是突出一种色彩的好方法； <img src="https://images.xiaozhuanlan.com/photo/2018/22270a5199ab7cd97f1ec0902d1f74bd.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/d373b4aa0afa882ffb0549ed42a5770e.jpeg" alt="" loading="lazy"> 有一种比较大胆的做法----直接把蓝色和绿色割裂开，形成一种和谐又冲突的感觉，只要这两种颜色不亮瞎眼就行。 <img src="https://images.xiaozhuanlan.com/photo/2018/dc64a015e0b88fd4dad2e17feb641ad7.png" alt="" loading="lazy"></p>
-</li>
-</ul>
-<h1 id="一点想法">一点想法</h1>
-<p>进入冬天，北京几乎看不见多少绿色了，近来空气也一直不咋滴，这时才猛然发现绿色的植物、洁净的空气对自己来说有多重要。人终究是不能缺少自然性的，大多数人表示，自己的心情会受到天气、空气甚至自然万物的影响。我不是个环保主义者，但从自身来说，我们都还是自然的一环，请与这个世界好好相处。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[色彩第七课：色彩解析之黄色]]></title>
-        <id>https://souffleinspire.github.io/post/color-07/</id>
-        <link href="https://souffleinspire.github.io/post/color-07/">
-        </link>
-        <updated>2018-11-25T01:28:16.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
-<p>时常会想一个问题：既然不同物种的可见光范围不相同，那么是不是在其他动物眼中看到的颜色和我们看到的是完全不一样的呢？恰好最近仔细翻阅了之前看过的一本色彩书，觉得仿佛有了答案，所以在文章的主角正式登场之前，请允许我先说说人眼的识色原理，从生物学角度上认识色彩。 首先，我们看到的物体颜色，其实并不来源于自身色彩，而是像月亮一样，是一种反射光。比如：柠檬是黄色的，并不代表它本身就是黄色，而是人眼捕捉到的就是柠檬反射出来的黄色光。 <img src="https://images.xiaozhuanlan.com/photo/2018/d3efafda2cc1959b681c691f0374fba4.png" alt="" loading="lazy"> 神奇的是，黄色也不是直接地被大脑识别为黄色。怎么理解呢？我们之前提到过负责识别颜色的视锥细胞。视锥细胞在接受到黄色光的刺激后，会将其分解为红色光和绿色光，然后将光信号传输到大脑，在脑中再合成为黄色。所以说，如果视锥细胞不同，那么光被分解的颜色就可能不同，最后被合成出来的颜色也可能不同，看到的色彩不同。 <img src="https://images.xiaozhuanlan.com/photo/2018/80547f75dc9192477d5ad009a86a492f.png" alt="" loading="lazy"> &quot;科普&quot;了关于黄色的成色原理，我们再来聊聊黄色给人带来的感性体会以及它的配色技巧。</p>
-<h1 id="黄色的特点">黄色的特点</h1>
-<ul>
-<li>
-<p><strong>敏感性</strong> 习惯于日出而作、日落而息的人类，对光的敏感度是极高。黄色往往被认为是光的颜色，所以人对黄色也极具敏感性。在暗色背景下，黄色非常醒目，如果周围环境的可见度不高，穿黄色的衣物更安全。 <img src="https://images.xiaozhuanlan.com/photo/2018/30a84c7a2ce6f09bf8a64362ce054dd4.jpeg" alt="" loading="lazy"></p>
-</li>
-<li>
-<p><strong>最早可辨识的颜色之一</strong> 人在不同年龄阶段对色彩的偏好不仅受到情绪的影响，还与发育相关。在婴儿早期，识别蓝色的视锥细胞发育不完全，有些颜色婴儿是无法辨认的。而黄色、红色是属于人最早能看到的颜色之一，因此无论男婴还是女婴，都更偏爱黄、白、粉、红等色彩，所以黄色很适合于面向低龄孩童的产品。 <img src="https://images.xiaozhuanlan.com/photo/2018/a809e815bcb9ea8bffcc108a02a1416b.jpeg" alt="" loading="lazy"></p>
-</li>
-<li>
-<p><strong>稳固性</strong> 黄色是一种最稳固的颜色，也就是说，就算是增减饱和度，它也不会偏离本色太远。 <img src="https://images.xiaozhuanlan.com/photo/2018/594fd9c1fef2ed218995835c325b84ec.jpeg" alt="" loading="lazy">同时，作为光的颜色，黄色可以作为挽救黯淡色调的救世主，赋予画面更多活力，起到点亮设计的作用。 <img src="https://images.xiaozhuanlan.com/photo/2018/a6d15bcf3f1f62ca07bc150d782a6fc5.jpg" alt="" loading="lazy"></p>
-</li>
-<li>
-<p><strong>暂停色</strong> 在人们的色彩印象中，黄色也表现为暂停和警示，比如交通信号灯的黄灯、特殊路牌标识等。黄色的这个特性也可以很好的为我们所利用，比如店面设计采用黄色的时候，容易让人们在你的店前停留。 <img src="https://images.xiaozhuanlan.com/photo/2018/4c8588fba1a9ab0119bcbe4d30108072.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/bb77c5cbeb8a388300983c9d6c6cfae7.jpg" alt="" loading="lazy"></p>
-</li>
-<li>
-<p><strong>皇权与富贵的象征</strong> 在中国古代，五行（金、木、水、火、土）对应五德，每一德有一色对应（白、青、黑、红、黄），崇尚土德的王朝一般以黄色代表皇权。所以，黄色也是极其高贵的色彩，曾是不少皇帝的御用色。黄色的权威性至今还影响着我们，中国国旗也采用了红黄配。 <img src="https://images.xiaozhuanlan.com/photo/2018/455986d7296fe7c42de6ea774bb4cbc3.png" alt="" loading="lazy"> 在自然的意义方面，黄色常用来象征灿烂、能量和富有（毕竟金子也是黄色系的）。 <img src="https://images.xiaozhuanlan.com/photo/2018/eedccf6ff3f1dbb86799329c393ea614.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p><strong>成为&quot;色情&quot;之色</strong> 英语中黄色也包含不少贬义，比如妒忌、懦怯、败坏、色情等。美国俚语称呼胆小鬼做 yellow belly；恣意煽情的传媒为 yellow journalism。至于其色情的含义嘛...主要是受到西方的影响，大概是这么回事：</p>
+<p>五一去马来西亚-沙巴逛了一圈（偷了个小懒😁）。旅行中，除了清澈美丽的海、热情洋溢的当地人令我印象深刻，还有就是五彩缤纷且搭配适宜的房子（居民楼也是哦～），相比之下，国内的建筑物就显得高冷许多。在好的色彩氛围下，人们对颜色的感知力一般不会太差，而色感也是对设计师的一项基本要求。今天这篇文章想给你做一套测试题，试试自己的色彩力强弱，也看看在哪方面有待加强，建议用手机看。</p>
+<h1 id="色彩力测试">色彩力测试</h1>
+<p><strong>第一 part</strong>，先来个<strong>基础版</strong>，请看题： <img src="https://images.xiaozhuanlan.com/photo/2019/23f4b46ffa707098e9edc2e72670a0d9.png" alt="" loading="lazy"> 第一道题选膨胀色。颜色可以&quot;放大&quot;或&quot;缩小&quot;物体，像黄色、红色、橙色等暖色，可以使物体看起来更大一些，称为膨胀色。而蓝色、紫色等冷色的作用相反，能起到&quot;收缩&quot;物体的功能，称做收缩色。但是，物体在视觉上的大小，还和明度相关。同色相中明度更高者膨胀感更强。大家根据常识应该也知道答案选 B。</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/db259b2935a5e8c8e1ee713ab05e253a.png" alt="" loading="lazy"> 第二题选后退色，前进色和后退色的知识点可是敲过黑板的。同一平面上，某些颜色看上去会比另一些颜色退后，相应就会有一些颜色显得凸出。与膨胀色类似，红色、黄色等暖色彩度高，一般为前进色；低彩度的冷色，如：蓝色、蓝紫色等为后退色。所以最终答案选 D。</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/3aa67b80f0b60b66c9a6c54333869548.png" alt="" loading="lazy"> 第三题考色彩带来的时间效应。这个我在<a href="https://xiaozhuanlan.com/topic/3450812697">《色彩第五课：色彩解析之红色》</a>的文章中有说过，原文是：</p>
 <blockquote>
-<p>1894年，英国创刊了一家杂志，名字叫《黄杂志》，一批有世纪末文艺倾向的小说家、诗人、散文家、画家等，围绕该杂志形成一个被称为&quot;颓废派&quot;的文艺集团。他们的作品，有时带有一点色情意味，但不能算淫秽。然而第二年4月3日，当时极负盛名的英国剧作家王尔德，因同性恋的罪名遭到逮捕。当时报纸上说，王尔德在被捕时胁下还夹了一本《黄杂志》，于是人们想当然地认为这杂志和王尔德同样是不名誉的，第二天就有人到《黄杂志》的出版商门前示威，用石头将橱窗玻璃砸得粉碎，黄色也因此背上了色情淫秽的黑锅。</p>
+<p>餐店的装潢以红色、黄色等暖色为主，除了可以让人兴奋、刺激食欲之外，还能让人觉得时间过得很慢，所以在快餐店等人是很难熬的。这大概是因为我们的血液是红色的，人们看到外界的红色容易加速脉搏，升高血压，在这样的环境中待得越久，会让人越发焦躁。反之，冷色调能让人内心平静、心情舒缓、放松，和适合用在咖啡馆、高档餐厅或者会议室里。</p>
 </blockquote>
-</li>
+<p>答案不言而喻，让人觉得时间漫长的是 B 选项。</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/835a4961ef48cb986c29e6fe171cb1a5.png" alt="" loading="lazy"> 第四题需要在组合中挑选可视性最高的一组颜色，&quot;可视性&quot;也就是容易分辨的意思。首先，纯度和明度高的颜色肯定是更好辨认的。其次，两种颜色的差异越大，可视性就越高，差异性主要体现在色相差异、明度差异、纯度差异上。上面几组配色中，最亮眼的无疑是黄黑搭配，如果留心观察，会发现生活中很多警示标志就是用的这种配色。答案是 C。</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/5406031bf76a363bfde4ba144ab5cebb.png" alt="" loading="lazy"> 第五题选择橙色的互补色，这是考验色相关系。光学上的互补色是指以适当比例混合能产生白光的两种色光。在色轮上就是指互成180°夹角（互相面对）的一组颜色。调动一下脑子里的色轮图，橙色的互补色是蓝色哦～应该选择 A。</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/628dbfc7e193a78513e4a798f6f3c9e5.png" alt="" loading="lazy"> 第六题不仅考察色彩力，还需要有一定的观察力。题干上的颜色从左至右的明度是越来越低的，纯度没有变化，应该还是比较简单的，正确答案是 C。</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/a5d344e23458e129388c8f7d2b42cb8c.png" alt="" loading="lazy"> 第七题还是和明度有关。比较难分辨的应该在暖色和中性色中选择，颜色越亮的明度越高。明度从高到低排列应该是 D &gt; A &gt; B &gt; C，所以是选 D。</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/54ba5b3b3e240e1e43222df2f0873244.png" alt="" loading="lazy"> 第八题选纯度最高的，也就是色彩最纯的。四个选项中，B 和 D 显然颜色是比较淡的，其中 B 最淡。A 的明度更低，有经验的话会发现低明度的颜色会感觉纯度高一些，但事实并非这样，假设 A 和 C 的明度相同的话，是 C 的纯度更高，答案就选这个啦。</p>
+<p>现在进入<strong>第二 part，进阶版</strong>： <img src="https://images.xiaozhuanlan.com/photo/2019/e5d5fe1e7a40a66ff369a4fd857f1d2a.png" alt="" loading="lazy"> 进阶版第一题，选出最适合用于儿童产品设计的颜色。儿童，尤其是幼童，对色彩的辨识能力还没有那么成熟，他们会更喜欢黄色、粉色之类的暖色，而且明度要高，所有暗沉的色彩都被认为是不适合儿童类产品的。那么就应该选择 A。</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/42647ba56f8f22d34844959e1d131213.png" alt="" loading="lazy"> 第二题选择最适合西式面包店包装的颜色。西点店几乎都是面粉制品，烤出来的糕点呈焦黄色，香味很浓郁。为了最大体现食物的美味，最好就是用和面包、糕点差不多的颜色来唤起大众的心理印象，也就是偏暗一点的黄色调，选择 B。</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/1b4b209c3839615e2c4498d2e571f8dc.png" alt="" loading="lazy"> 第三题需要结合常识，看哪个颜色和新版5元人民币的主色最接近。先来一张高清图让你看清5元钱上毛爷爷的英姿： <img src="https://images.xiaozhuanlan.com/photo/2019/40b647b28c9616fee138f5b78144a669.png" alt="" loading="lazy"> 所以是偏低明度的紫色，选 D。A是10元纸币主色，B是1元纸币，C的明度太高了，你有没有选对？</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/b1f6053fd9a880bfced58ac50b942996.png" alt="" loading="lazy"> 第四题选出2019年的年度潘通色----珊瑚橙。与近几年的年度潘通色不同，珊瑚橙是一种浓艳又充满活力的颜色。而潘通研究机构选择这个颜色可不仅仅是为好看，还是想借以警醒世人珊瑚的严峻生存状况，小编本人在浮潜的时候就发现来很多白化的珊瑚。话说回来，珊瑚橙是长这样的： <img src="https://images.xiaozhuanlan.com/photo/2019/1fa348572b4ba72b55534ca63680c2f4.png" alt="" loading="lazy"> 选项中 B 就是珊瑚橙本橙了，A、C分别是2017和2018年的潘通色，D的颜色比较&quot;脏&quot;，是很难当选潘通色的。</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/96af05a42c8f6480ac28112d0e0199d4.png" alt="" loading="lazy"> 第五题选出题干两个颜色混合后的颜色。青色+深蓝灰色混合后色相值是在两者之间的，而且明显青色的纯度高一些，所以颜色应该偏青。另外，明度的差别也比较大，最后的颜色肯定比青色深，比深蓝灰色浅。这么分析还是不清楚的话，我来模拟一下： <img src="https://images.xiaozhuanlan.com/photo/2019/864d96b7c2d229de1f960b4e4419c09d.png" alt="" loading="lazy"> 结果显而易见了，选择 A。</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/0c277404fc659b70f5fca533bb362ff9.png" alt="" loading="lazy"> 第六题也是颜色的混合，只是换了一种描述方式。按照上一题的分析，青色和品红混合后，色相应该是介于两者之间的蓝色至紫色之间。青色的比例是50%，而品红是100%，所以颜色偏向红色，结果呈紫色，选 D。 <img src="https://images.xiaozhuanlan.com/photo/2019/409d3ac90fd7a1b6d30f1f3f43bc1409.png" alt="" loading="lazy"> 模拟结果如上图。</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/5ef269367596cb73c95ffe24d13fc574.png" alt="" loading="lazy"> 前面两题是颜色的混合，第七题考察颜色的分解，会稍难一点，但是依旧可以用第五题的思路倒推。绿色在色带中介于黄色和青色之间，所以基本可以锁定答案在 C、D之间。绿色比较亮，D 选项里的两个颜色明度都较低，不可能产生高明度色彩，答案只能选 C。</p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/f6cd6ddd29c3215dfff6690b28159464.png" alt="" loading="lazy"> 最后一题依照 RGB 色值匹配对应的颜色。做这一题，首先需要知道 RGB 分别代表红色R、绿色G、蓝色B。其次，RGB 是一种加色模型，三色以适当比例组合可以产生白色。再有就是，在 RGB 模式中三个值在0～255之间。因为涉及到三个颜色，所以我们拆开来想。R（红色）的值为210，G（绿色）的值100，红色和绿色混合为黄色，红色更多，那就会偏橙色。因为是加色，加入B 值为56的蓝色基本主要影响的就是明度，会比之前的橙色更暗一点。这样得出的结论是选择 C。让我们来验证一下，bingo！ <img src="https://images.xiaozhuanlan.com/photo/2019/0fa8867237e25b94a5bc5982bcaf3c92.png" alt="" loading="lazy"></p>
+<h1 id="一点想法">一点想法</h1>
+<p>上面的16道测试题你做对了多少呢？如果有全对的，可以在留言区举个爪哦～～如果没有全对，那在哪个地方卡壳了呢？相信你心里对色彩的把握度已经有数了，对症下药慢慢改善吧。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[色彩第十八课：我的快速配色法]]></title>
+        <id>https://souffleinspire.github.io/post/color-18/</id>
+        <link href="https://souffleinspire.github.io/post/color-18/">
+        </link>
+        <updated>2019-04-14T15:51:40.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
+<p>上篇说过，对我来说最简单的配色方法：<strong>找准风格 → 找同风格的作品 → 吸色填充 → 微调</strong>。但这并不意味着不需要有自己的思路，今天用几个例子示范一下。</p>
+<h1 id="案例一">案例一</h1>
+<p>下图是案例一中的插画草图。对于简单的构图，我多数情况下是参考其他一些插画里的元素，在 PS 里直接用钢笔勾勒轮廓，复杂的画会用画笔打底稿。你可以看到，我就是用黑白灰来占位的，因为比较习惯构图结束之后专门配色（毕竟不是专业插画师，没有那个底气）。 <img src="https://images.xiaozhuanlan.com/photo/2019/3456f0e4598d0eefd45388279383d7fe.png" alt="" loading="lazy"> 这个插画构图非常简单，抱着钥匙的人物是前景，问号是中景，房子是后景，重点是问号和钥匙。整体的风格希望是<strong>明丽、清新</strong>的，忽略不必要的细节，突出重点。根据这些特征，在平时收集的图片中找了一些比较相符的图片。 <img src="https://images.xiaozhuanlan.com/photo/2019/0854d6b4b552b55004e20fdfbdac5294.png" alt="" loading="lazy"> 接下来要分析一些更加具体的配色细节了。</p>
+<ul>
+<li>在自然光线中，<strong>越靠近自己的事物光影越强、越清晰</strong>。为了保持画面的风格，我会选择色调淡但是较明亮的颜色填充后景，用比较明艳的颜色处理前景。</li>
+<li>因为不追求细节，所以不用太讲究光影效果，但也要体现出主要物体<strong>适当的体积感</strong>，因此参考中最好是包含同色系的颜色。</li>
+<li>重叠部分需要用色彩对比区分开来，所以需要有<strong>一定的色相差异</strong>。 做了这些初步的考虑后，我选择了下面这张图的配色作为主要的参考。它虽然也是平面插画，但层次感处理得非常好，色彩也比较丰富。当然，我的构图简单得多，不会用到这么多颜色，按需选择。 初步配好颜色之后是这样的： <img src="https://images.xiaozhuanlan.com/photo/2019/28ee872bbe319b30dbaf86d3b16f95a9.png" alt="" loading="lazy"></li>
 </ul>
-<figure data-type="image" tabindex="1"><img src="https://images.xiaozhuanlan.com/photo/2018/07a6167a5e97761173a0d9851882cc3d.png" alt="" loading="lazy"></figure>
-<h1 id="黄色的搭配">黄色的搭配</h1>
-<p>画面上即便只有两种色彩，只要有黄色，其他颜色也会偏黄。比起抢眼的点睛色，黄色更适合用于调节画面的气氛。如果想改变画面的整体感觉，只要改变黄色就可以了，而黄色的搭配也因此更加多样和有趣。 <img src="https://images.xiaozhuanlan.com/photo/2018/928ec0e61bbc845caa3a0cee3fae92b1.png" alt="" loading="lazy"></p>
-<p><strong>1. 黄色+无彩色</strong></p>
+<p>还是会有一些问题，比如说：问号正面和侧面色彩区分度不够导致体积感较弱；背景建筑物太暗，和整体色调不搭；前景不够突出，抱钥匙的&quot;大哥&quot;裤子太显眼；缺少必要的细节。</p>
+<p>针对问题慢慢调整，增添必要的细节。效果如下，基本满足要求。除了调整色彩之外，还给钥匙增加了闪光，给人物添了影子。 <img src="https://images.xiaozhuanlan.com/photo/2019/68ffcde0b611b7578e647b4d48bc3fe3.png" alt="" loading="lazy"></p>
+<h1 id="案例二">案例二</h1>
+<p>接下来这个案例是我平时练习的海报，全部由长方形、三角形、圆等几何元素构成。设计上没有什么特殊的含义，所以可以充分发挥色彩的魔力。 <img src="https://images.xiaozhuanlan.com/photo/2019/cd8e0695e9c81de7c2283a91f69194c1.png" alt="" loading="lazy"> <a href="https://images.xiaozhuanlan.com/photo/2019/1ccbcd26bf0a5a04445851f43c0109d7.png"></a> 我想尝试用尽可能少的颜色演绎不同的风格，但是也需要注意一些问题：</p>
+<ul>
+<li>因为有不少叠加效果，颜色至少要在<strong>3种以上</strong>；</li>
+<li>配色不用讲究很多，但是色彩之间一定要<strong>有强烈的对比</strong>；</li>
+<li>整体的色彩协调非常重要，尽量让不同色彩的占比舒服。 虽然做的是海报，但参考图片不需要局限在平面作品上，可以来自于 UI 、品牌、插画，甚至是文章。平时看到好的配色，应该毫不&quot;吝惜&quot;地收藏起来。我用这个设计做了三种风格。 首先是时尚风👇。结合上一篇《说风格与色彩》，时尚的色彩纯度高、明度高，一般会出现暖色，还经常使用撞色的技巧。根据这些特点，找了一张 UI 设计图做参考，很喜欢这组搭配，既有色相的强烈对比，也有明度的对比，还有冷暖的对比，完美！ <img src="https://images.xiaozhuanlan.com/photo/2019/b5be148a4ccd386b829ed85f832f764e.png" alt="" loading="lazy"> 然后是一张复古风的👇。我选择了两个暖色+一个冷色的搭配，显然是偏女性的轻复古，所以明度也应稍高一些。参考的是一个冰淇淋品牌设计图，三种颜色整体偏灰调，纯度上的对比非常明显。上面另一边的那组色彩也很不错，感兴趣的同学可以试试。 <img src="https://images.xiaozhuanlan.com/photo/2019/ed63f54ddf59673329666659b18cb863.png" alt="" loading="lazy"> 最后一张是走了偏力量感的风格👇。以冷色系为主，色相变化不是很大，主要靠饱和度和明度来充实。参考图也是平面作品，也是设计时候的参考图之一啦~不过我的色彩比例和参考图的差异很大，主要突出了亮色。 <img src="https://images.xiaozhuanlan.com/photo/2019/73fa5e6788447ec87421ab4786f87d9f.png" alt="" loading="lazy"></li>
+</ul>
+<h1 id="一点想法">一点想法</h1>
+<p>不管对谁而言，免不了要和各种图片啊、文档啊、文件打交道，光凭记忆力去找真是很痛苦的事情，我们也完全没有必要把时间浪费在搜索上，所以养成及时整理的习惯很有必要。而对设计师而言，图片可能占据了我们存储的很大一部分，而图片又是非常难整理好的。我有一个同事就是把各种图片、文件全部堆在桌面上，那叫一个乱啊。所以我墙裂推荐使用 <a href="https://cn.eagle.cool/">Eagle</a> 来收集和整理自己的图片，不是打广告，我自己真的很喜欢用，细节不说了，有需求的读者自行下载吧。</p>
+<p>以上参考图均来自于 dribbble</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[色彩第十七课：说风格与色彩]]></title>
+        <id>https://souffleinspire.github.io/post/color-17/</id>
+        <link href="https://souffleinspire.github.io/post/color-17/">
+        </link>
+        <updated>2019-04-07T17:26:14.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
+<p>上一篇文章分析的是从产品角度选择色彩的思路，不同的产品都会有自己的风格。那么在风格既定的情况下，如何把配色落地呢？今天就来一本正经&quot;传授&quot;一下本&quot;野生设计师&quot;的经验。</p>
+<h1 id="风格与配色">风格与配色</h1>
+<p>「工作导向配色派」并不能随心所欲地用色，而需要依据既定风格。面对这样的局限，肚子里总还是要有点货的，你需要知道什么样的风格对应的色彩特征有哪些。我为你总结了以下一些普遍风格的典型特征：</p>
+<p><strong>鲜明、活力、时尚、张扬</strong> <img src="https://images.xiaozhuanlan.com/photo/2019/c921f785d0873c0f642647847387f61b.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/b037548aca6db489a34b09f7d746a5c2.png" alt="" loading="lazy"> 这类风格的颜色会比较纯且明亮（饱和度S：80~100，亮度B：85 以上），暖色很少会缺席。还常常用撞色来增加醒目感，所以搭配时不用害怕大面积的色块，也可以大胆选择色相差异较大的色彩，比如对比色、互补色。代表APP：美图、淘宝。</p>
+<p><strong>浪漫、梦幻</strong> <img src="https://images.xiaozhuanlan.com/photo/2019/3d547a4bc2bf4af63337b1d7c96ec6b6.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/9832b3d3851fa5d8fb15a590834dfa5a.png" alt="" loading="lazy"> 梦是轻盈的、缥缈的，所以梦幻感的营造应该使用轻薄的颜色（饱和度S：5~20，明度B：最好在95以上）。在这种风格中，冷色和暖色的区分不再那样明显，所以搭配相对比较自由，很适合渐变效果。代表APP：有期、岛读。</p>
+<p><strong>纯净、可爱、清新</strong> <img src="https://images.xiaozhuanlan.com/photo/2019/a8a61cf92083e053be6778a3099b40ac.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/3bad7288f004928556bf039ceccbcb6d.png" alt="" loading="lazy"> 这种甜而不腻的色彩比梦幻风的色彩浓重一些，明度也不会过于刺激（饱和度S：多在30<sub>60之间，明度B：80</sub>90），看上去更沉稳一点，算是使用比较多的风格吧。代表APP：Headspace、滴答清单。</p>
+<p><strong>文艺、极简、品质感、平静</strong> <img src="https://images.xiaozhuanlan.com/photo/2019/c96c3efe358f0abdb661a290ad5ffa05.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/3aaa968c6f73b019034548538bdef1aa.png" alt="" loading="lazy"> 纯色中加少许灰调是文艺类风格的典型特征。作为背景的颜色，明度B多在90以上，饱和度S一般小于10。而视觉重点上的用色，明度B高于80的都比较少，饱和度的跨度就可以比较大了。代表 APP：网易严选。</p>
+<p><strong>沉稳、复古、文化感、成熟、典雅</strong> <img src="https://images.xiaozhuanlan.com/photo/2019/fffe08e030f51fee094696439fa1bb53.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/bf1a1e1479248311641885b4b9e28255.png" alt="" loading="lazy"> 颜色偏暗沉，看上去有些年代感（明度B：30<sub>65，饱和度S：20</sub>70较多）。配色时一般少与亮色搭，如果要避免太闷，画面中可以保留一两个类似风格的暖色。如果偏向女性些的风格中，暖色比例应适当多一些，明度稍高一点。代表 APP：网易蜗牛读书。</p>
+<p><strong>商务、严肃、力量感、男性</strong> <img src="https://images.xiaozhuanlan.com/photo/2019/7cddc3e97647ec21552f5c4e2984e5e3.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/dc310f90dbcfc2ba3162b3199cf2f42f.png" alt="" loading="lazy"> 商务感强的设计，在用色上会比较节制，多数使用冷蓝色、冷紫色、灰色、咖啡色等等。除此之外，金色的使用率也比较高，在商务风格中是一种很好的调和色。配色时色相H 一般在较小范围内变化，充分发挥饱和度和亮度的作用。代表 APP：Keep。</p>
+<p><strong>科技、智能、虚拟</strong> <img src="https://images.xiaozhuanlan.com/photo/2019/bb50ce874c60c8005ecb89d5ecf08c38.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/d5dd00a690c628aa4cbc99dbfe5c954b.png" alt="" loading="lazy"> 很多文章会把科技风和商务风放在一起，但是在我看来，科技风配色中往往不失亮色的点缀，而且这些亮色的饱和度S 多数还比较高，所以和商务风是有区别的。亮紫色、亮蓝色、青色能在明度B 较低的环境下突出出来，体现虚拟感。代表 APP：Design+Code。</p>
+<h1 id="我到底怎么配色">我到底怎么配色？</h1>
+<p>说明一下，以上风格和色彩特征并非绝对一一对应，有时候复古风色彩也能营造极简风，鲜亮的颜色也能显得可爱。<strong>配色也是离不开排版的</strong>，排版不同，选择就可以不同。那为什么花这么多的篇幅将风格的色彩特征呢？因为对我来说，最简单的配色方法就是：<strong>找准风格 → 找同风格的作品 → 吸色填充 → 微调</strong>。虽然看似很粗暴，但确实是亲测最高效的方法。先别急着说我是&quot;大猪蹄子&quot;，事实上当然不会这么简单，只有一定的知识存货，才能真正让做出来的东西既美观又实用。下一篇再通过几个🌰来详细说明。</p>
+<h1 id="一点想法">一点想法</h1>
+<p>好多设计师都告诉新手设计师要多去临摹别人好的作品。嗯，临摹确实是绝大多数设计师必经历的过程，我也这么和别人说过，但是我也不会忘提醒一句，临摹的意义在于<strong>培养设计思维</strong>。所有不带脑子思考的临摹都是耍流氓，止步于学习画图的都是机器，透过设计作品探索到设计师的脑回路才是王道。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[色彩第十六课：APP 配色之路]]></title>
+        <id>https://souffleinspire.github.io/post/color-16/</id>
+        <link href="https://souffleinspire.github.io/post/color-16/">
+        </link>
+        <updated>2019-03-31T16:04:52.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
+<p>想写这个话题是因为很多人跟我说过，关于配色的道理我都懂，但用起来还是不会。我倒觉得，这不应该成为焦虑的来源，因为极少有人天生对配色那样敏锐，无非是看得多、练得多、想得多罢了。看和练不说了，但我想聊聊&quot;想&quot;这件事。 关于这点，我个人是深有体会的。市场上从来不缺教授方法和技巧的教程，想当初初涉设计界时，半年内学了9个软件，做了一堆图标、界面，甚至动效，但心里完全没底气。因为几乎没人教我该按照什么方式思考、在什么时候该干什么.......而这些问题，在工作中简直&quot;无孔不入&quot;。缺少这种产品思维，才是前行路上真正的阻碍，就连配色这样看似感性的方面也不例外。Here we go!</p>
+<h1 id="用户在面对什么样的产品">用户在面对什么样的产品？</h1>
+<p>一个APP，不论你对它熟悉还是陌生，从看到它的第一眼开始，你的心里就会层出不穷地出现一些形容词。你所感受到的这些，就是这个 APP 「调性」的一部分。不妨试一试，我把手机里的部分电商 APP 首页截图放在了一起，请你想想会用什么形容词来描述它们。 <img src="https://images.xiaozhuanlan.com/photo/2019/6b504d9ebb187c0ebc75ef10462ddd02.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/b2ae8beebf08c57e3c2c6194cc351a60.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/ad352b23de69ebd76a0ce30ba41d3d51.png" alt="" loading="lazy"> 首页，我们已经不难感受到「淘宝」、「京东」的热闹非凡，「小米商场」的青春洋溢，「网易严选」、「一条」、「有品」的淡雅别致，「想去」的简洁个性、「公路商店」的大胆张扬。 我们的这些感受源自设计方方面面的传达，其中配色发挥着巨大的作用。 <img src="https://images.xiaozhuanlan.com/photo/2019/2187319b03cd3303ef0e3fd5e5acf044.png" alt="" loading="lazy"> <strong>用户只能看到你给他们看到的。作为产品方，需要用我们的理念、特质感染同样认同我们的用户，也需要根据用户的特点来表达自己的产品。<strong>映射在配色上，第一步就是</strong>通过研究产品和用户，认真选择主题色</strong>。 <img src="https://images.xiaozhuanlan.com/photo/2019/ceeb1157c0632f27566501612c316028.png" alt="" loading="lazy"> 主题色不仅是整个 APP 设计的灵魂之一，还往往关乎到一个公司的形象，需要有足够的逻辑支撑。设计师可以经常性拿一些熟悉的产品刻意练习，增强自己对配色的理解。用「淘宝」和「网易严选」举个例子：</p>
+<ul>
+<li>首先，它们都是电商品牌，当然希望用户能有购买欲。<strong>暖色系比冷色或中性色更能激发人的情绪</strong>，所以两者都选择了暖色作为主色。再看看其他 APP，主题色多数也是暖色。</li>
+<li>从产品的角度看，淘宝的 slogan 是「淘！我喜欢」。第一人称视角具有<strong>亲和感</strong>，把&quot;我喜欢就淘&quot;的观念传递给每一个用户，尽显<strong>活力</strong>和<strong>鲜明</strong>的个性。在所有的色彩中，橙色算是&quot;活力&quot;的代表了。另外，饱和度和明度高的颜色更能烘托活跃的氛围。 而网易严选的 slogan 是「以严谨的态度，为中国消费者甄选天下优品」，以第三人称突出「严谨」、「甄选」、「优品」，无处不透露着&quot;节制&quot;二字。对于严选而言，偏灰调的纯色更适合。</li>
+<li>不同的理念，吸引来的消费者一定是不同的。 根据淘宝的用户分析，主力用户越来越年轻化，这意味着无论从个人偏好、消费水平，还是使用场景上来说，都要更加多样。<strong>丰富的色彩和渐变都是增加多样性的方法</strong>。 相比之下，网易严选对目标用户的要求要高一些，来这里的人们追求品质生活。严选希望能传递出<strong>品质、简约、平静</strong>的感觉，所以淡色调会比较符合要求。 <img src="https://images.xiaozhuanlan.com/photo/2019/871421720e308e1d6b9d276093b03daa.png" alt="" loading="lazy"> 总结一下，看看我们从分析产品和用户中得到了哪些对配色的指导？ <img src="https://images.xiaozhuanlan.com/photo/2019/da11f12637047bcf0f2a1c32b5d2a399.png" alt="" loading="lazy"></li>
+</ul>
+<h1 id="颜色看起来怎么样">颜色看起来怎么样？</h1>
+<p>想象是丰满的，但现实可能是骨感的，你想要的颜色与你实际要用的颜色之间还差了十万八千里。一来，一个颜色包含无数色相，每个色相可以用不同饱和度和明度呈现，细微之处能显示大不同。二来，不同屏幕的显像效果不同，需要综合考虑。三，主题色不止会出现在按钮、背景等大色块上，还很可能用在文字、图标上，这就要考虑到显色度、普适性之类的问题。当然，还有其他一些问题，比如说视觉缺陷用户能不能快速找到他想去的地方等等。 <img src="https://images.xiaozhuanlan.com/photo/2019/9239cc7f4e70b9b277607c9047d5d1c5.png" alt="" loading="lazy"> 在这个过程中，任何想象都是虚妄的，<strong>必须去试，反复去试</strong>。可以先在几个页面里调试，充分照顾到上述的一些情况，直到选出的颜色能在屏幕上传达出你想要的&quot;味道&quot;。 <img src="https://images.xiaozhuanlan.com/photo/2019/e06d02f7563f645288636b401f10f2b2.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/8477c599a56caa81e19744a02730e0b9.png" alt="" loading="lazy"> 提醒一个小细节哦，关于<strong>显色度</strong>，也叫对比度，就是在背景色上一个颜色有多明显。可以借助这个网站：<a href="https://contrast-ratio.com/%E3%80%82%E4%B8%80%E8%88%AC%E8%AE%A4%E4%B8%BA%E5%AF%B9%E6%AF%94%E5%80%BC%EF%BC%9E3%E6%97%B6%EF%BC%8C%E5%AF%B9%E8%89%B2%E5%BD%A9%E7%BC%BA%E9%99%B7%E7%94%A8%E6%88%B7%E6%89%8D%E6%AF%94%E8%BE%83%E5%8F%8B%E5%A5%BD%E3%80%82">https://contrast-ratio.com/。一般认为对比值＞3时，对色彩缺陷用户才比较友好。</a> <img src="https://images.xiaozhuanlan.com/photo/2019/5a3d48e0da87e786febe8f4a666ff547.png" alt="" loading="lazy"></p>
+<h1 id="辅助色-装饰色">辅助色、装饰色</h1>
+<ul>
+<li>辅助色的重要度仅次于主色，用于弥补单色搭配的缺陷。<strong>辅助色主要依据需求选择</strong>。当主色使用面积较大，辅助色要用在强调或者引起用户注意的位置时，那么它和主色之间的差别应该大一些，重点考虑主色的互补色、对比色。如果辅助色只是起到陪衬主色的作用，那视觉上应该比主色弱，这时低饱和度色会更合适。 <img src="https://images.xiaozhuanlan.com/photo/2019/cef33a8595f4c573675de0ea94b6af54.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/632bc1b240a4d79fb373fc5a575a9737.png" alt="" loading="lazy"> 当然，功能简单、以无色系为主、图片或文字占比多的时候，也不需要特定的辅助色，比如：「ONE一个」、石墨文档等等。 <img src="https://images.xiaozhuanlan.com/photo/2019/f4b1958b6d8c4d025a1a1c488f9f0de0.png" alt="" loading="lazy"></li>
+<li>装饰色主要在一些需要多种色彩的位置，比方说主入口图标、图表之类的。按照整个色彩的风格走，注意风格一致、视觉舒适即可。还有一些行业有敏感颜色，也要注意避免，像金融行业就要注意绿色系和红色系的使用。 <img src="https://images.xiaozhuanlan.com/photo/2019/4a50364b7ee6c064d4ef3ef7af0255d8.png" alt="" loading="lazy"></li>
+</ul>
+<h1 id="一点想法">一点想法</h1>
+<p>这篇文章篇幅很长，希望能帮你拨开一些迷雾，最后分享一篇网易资深设计师的文章----《<a href="https://xiaozhuanlan.com/topic/3201784965">新人设计师该如何提升设计思维？</a>》。其中展示了一个设计思维金字塔，产品思维是自上而下的第一层。</p>
+<blockquote>
+<p>三个层面就像一艘要开往远处的船，产品思维能帮助我们知悉最终要去的目的地，而视觉策略就是那张航海图，指导船员如何避免航行障碍物（礁石、浅滩等），保证航行的顺利。视觉驱动是舵手、水手的专业技能。要想顺利航行到目的地，三者缺一不可。 <img src="https://images.xiaozhuanlan.com/photo/2019/8c6614af5b3b24fadeff2a3186150abb.png" alt="" loading="lazy"></p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[色彩第十五课：色彩解析之金色、银色]]></title>
+        <id>https://souffleinspire.github.io/post/color-15/</id>
+        <link href="https://souffleinspire.github.io/post/color-15/">
+        </link>
+        <updated>2019-03-16T17:47:58.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
+<p>我觉得金色和银色是假得真实又真得很假、有点偏门又广泛可见的颜色。为什么这么说呢？金色、银色被称作材质色，就是模仿现实生活中部分金属的颜色。而人们之所以认为是金色和银色，靠的其实是联想力。可是你会发现，世界各地的人们都十分青睐它们，所以&quot;出镜率&quot;往往还不低。</p>
+<h1 id="金色-银色的特性">金色、银色的特性</h1>
+<p>金色和银色也属于无色系，但像上面说的，它们就是与众不同的色彩。别急，让我慢慢跟你说。</p>
+<p><strong>渐变方有金、银</strong> 下面是色彩中定义的金色、银色以及对应色值。 <img src="https://images.xiaozhuanlan.com/photo/2019/ea113372554f3ddcdb6468a1246ffc42.png" alt="" loading="lazy"> 希望没看跌你的眼镜。嗯，没唬你，这么一看，金色就是黄色，银色就是灰色而已，一点没有高大上的气质。别急，再看看这一组。 <img src="https://images.xiaozhuanlan.com/photo/2019/dfcd8d51e5695e8bc929e1a338f08cf3.png" alt="" loading="lazy"> 同样的色相，明显第二组更符合我们平时对金色和银色的认识，相信你也找到了原因----渐变。如果接触过 3D 模型，就会知道材质色之所以呈现不同的光泽基本都是源于「反射」，比如说银色的反射值就很高，大概是0.98左右。所以，我们看材质色其实是一种 3D 的视觉经验。</p>
+<p>稍微展开讲讲。光照射到物体上之后会分成两个主要部分，一部分被物体吸收，另一部分反射出来。如果反射出来的光被人眼捕捉到了，那我们就能看到颜色。不同物体反射出这两部分光的比例是不一样的，一般来说，金属会有50%以上反射出来，非金属的绝缘体在20%以下。 <img src="https://images.xiaozhuanlan.com/photo/2019/3a9ff99d6ff89dabae1f589da3e4b1c9.png" alt="" loading="lazy"> 物体总归是有形状和体积的，金属各个部分接收到的光的数量都不一样，而反射又很强，因此眼睛接收到的光也就有差异，这种差异就导致了渐变。</p>
+<p><strong>夜与光芒</strong> 如同皎洁的月光，银色代表夜晚的力量，神话中只有银制的步枪子弹才能杀死变成了人的狼，银质的家庭财物具有强大而神奇的防御力量。 <img src="https://images.xiaozhuanlan.com/photo/2019/2145841e5fa67b6149ae13b175f14dc1.png" alt="" loading="lazy"> 银色给人寒冷的感觉，这是因为它和白色、灰色、蓝色等冷色接近，让人联想到冰凉的勺子、皑皑的白雪等等。金色也一样，因为属于暖色系，不由地想起温暖的火焰、阳光之类的，暖意油然而生。 <img src="https://images.xiaozhuanlan.com/photo/2019/9150241c25c6585666ad60cccf8aac58.jpg" alt="" loading="lazy"> 浅色的物体容易反射光，降低自身热度，所以很多需要避免高温的金属制品，在满足必要条件的情况下，会尽量选择银色金属，比如：高速移动的飞机、疾驰的汽车，甚至是古代的箭。就这样，银色成为了「快」的标志色。</p>
+<p><strong>因为高级，所以高级</strong> 黄金和白银是储量相对稀有金属，但是又还没到没得用的地步。再加上化学性质稳定不易生锈、熔点较低容易塑性、密度适中方便携带、光泽度高 blingbling 等因素，从而被世界各国作为高档奢侈品。 <img src="https://images.xiaozhuanlan.com/photo/2019/5cb2751ad7776aad03fa17f1177f8f5b.png" alt="" loading="lazy"> 进一步来说，黄金的颜色是金色，金色也就代表着至高无上，因此世界上大多数国家的皇族颜色都是以金色为基调, 金色更能象征着高贵、光荣、华贵和辉煌。 <img src="https://images.xiaozhuanlan.com/photo/2019/77d639de3df44c9e767852e17f049e52.png" alt="" loading="lazy"> 如今，金色和银色依旧保留着高贵的形象，被运用到方方面面。比如：引领数码潮流的苹果公司，在2002年开始大规模使用银色，当年主推的 iPod 就是前白后银的工业设计，苹果官网首页上的蓝色苹果Logo被更换成了银色。11年后，iPhone 5s 推出，新增了「土豪金」色，一经推出，就被大量消费者喜爱。 <img src="https://images.xiaozhuanlan.com/photo/2019/00dca79931a88998a97d16bcbdca7cac.png" alt="" loading="lazy"></p>
+<p><strong>两种色彩，两类性格</strong> 我们听说过「沉默是金」，但是你可能不知道还有一句「雄辩为银」。不过，咱们联系一下实际，反倒会觉得金色比较张扬、夸张，银色更为寂静和理智。</p>
+<p>这是因为金色具有极醒目的作用和炫辉感。它具有一个奇妙的特性，就是在各种颜色配置不协调的情况下，使用了金色就会使它们立刻和谐起来，并产生光明、华丽、辉煌的视觉效果。但如果大片的运用金色，对空间和个体的要求就非常高，这是因为金色属于膨胀色，非常容易放大优缺点，如果用在着装上，一不小心就像个暴发户。相比之下，银色更加内敛含蓄，不会显得如此炫耀。 <img src="https://images.xiaozhuanlan.com/photo/2019/0f7d23dae8284428ed626779eb015f8c.png" alt="" loading="lazy"></p>
+<p><strong>金银铜奖牌制度</strong> 在大多数比赛中，都用金、银、铜分别表示冠军、亚军和季军。究其原因，你可能想到了这三种金属的稀有性，甚至想到了稳定性。可是比黄金更珍贵的金属多得是，为什么偏偏是它们？ 这就要说到我们全球最盛大的运动会----奥运会的历史了。其实，奥运会奖牌也并不是一开始就是这样的，直到第三届，也就是1904年，才开始启用「金银铜牌制度」并延续至今。 <img src="https://images.xiaozhuanlan.com/photo/2019/0c2d0c020f8da23f1641a8442d0298b8.png" alt="" loading="lazy"> 金银铜的次序来源于公元前800年的古希腊著诗人「赫西奥德」在&quot;Works and Days&quot;一诗中的&quot;Ages of Man&quot;。他认为上古最美好的三个时代是：人类和神混居的黄金时代 Golden Age、青春不老的白银时代 Silver Age、英雄辈出的青铜时代 Bronze Age。象征着勇敢、智慧和坚韧的奥运会奖牌就这样诞生了。 <img src="https://images.xiaozhuanlan.com/photo/2019/4e25399449e00212080fb68f61444063.png" alt="" loading="lazy"></p>
+<h1 id="金色银色的搭配">金色/银色的搭配</h1>
+<p>那么问题来了，如何才能&quot;优雅&quot;地使用金色和银色呢？注意，我们不谈质感，只谈色彩。</p>
+<p>金色和银色是无色系，按理说就几乎是百搭色。但是这两种色彩有自己的特殊含义，所以适用性上并不如黑白灰广泛。</p>
 <ul>
 <li>
-<p>黄色+黑色：黄色自带光感，作为暗色调的伴色非常好。它可以极大的点亮一个黑色的设计，而且极具吸引力，可以创造很好的工业化效果。 <img src="https://images.xiaozhuanlan.com/photo/2018/395e5f7ff4f450c8dafb2fe96c76a0cc.jpg" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/d4fbf10f7b9a72007e526dd3ce481d51.png" alt="" loading="lazy"></p>
+<p>在使用金色的时候，尤其在 UI 设计中，不用完全按照规定的色相设计，可以一定程度上弱化质感。比如<strong>偏橙色、明度偏低的金色会更加舒服</strong>，但是不要忘记渐变。 <img src="https://images.xiaozhuanlan.com/photo/2019/cfea284f4bc5e7ac16ee88c93c13a6c4.png" alt="" loading="lazy"></p>
 </li>
 <li>
-<p>黄色+白色：与黑色相反，黄色自身比较亮，在白色背景下识别度反而会弱很多。所以黄与白的搭配更多会出现在界面设计或平面设计中，干净、明亮而又不是很抢眼，辅之以简单的元素就能创造很好的效果。 <img src="https://images.xiaozhuanlan.com/photo/2018/2df7aa2360b984d238ffc82bc5658b3d.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/0349784fbf82cfa42dc78bcab3d0ec0a.png" alt="" loading="lazy"></p>
+<p>金、银两色自带反光感，运用在实物上，本就吸引眼球。这时<strong>如果和明度、饱和度相对较高的颜色放在一起</strong>，如：大红、橙色，<strong>那视觉点就太多了，容易让人眼花缭乱</strong>。如果要用，银色会比金色要好，暗金色比亮金色好。 <img src="https://images.xiaozhuanlan.com/photo/2019/b82d951d09a4bb22c9a792450aa520d7.png" alt="" loading="lazy"></p>
 </li>
 <li>
-<p>黄色+灰色：黄色+中度或深度的灰 与 黄色+黑色 有异曲同工之妙，黄色+浅灰 则和 黄色+白色 类似。这种搭配被广泛应用在室内设计和产品设计中，极简而又不显得阴沉。 <img src="https://images.xiaozhuanlan.com/photo/2018/e2b8f2da0234b8bfcf6d3f5c97deecfd.jpg" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/3878410a6ce71f94f4ebadb304a0ed0f.jpg" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/7185aaefbb89febbdc918787fbe63a13.png" alt="" loading="lazy"></p>
-</li>
-</ul>
-<p>在纯正的黑白灰中，加入一点黄色都能使画面整体呈现舒适安宁的氛围，也能改变画面整体的印象，表现出贴近自然的感觉。 需要注意的是，黄色和无色彩搭配时切忌画面过复杂，否则会有一种无序的混沌感。</p>
-<p><strong>2. 黄色+相近色</strong></p>
-<ul>
-<li>
-<p>黄色+橙色：还记得上一篇说过这两种色彩自然能形成一种渐变效果么？不同深浅的黄色和橙色就能创造丰富的层次，不妨在插画设计中尝试。另外，黄橙渐变也是UI 设计中很容易出彩也容易掌握的配色。 <img src="https://images.xiaozhuanlan.com/photo/2018/9c652a1fd8d7d3509754babdd0dce554.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/6a512004fb5e23768633ece427f23d0c.png" alt="" loading="lazy"></p>
+<p>金色／银色无疑是华贵高雅的不二之选，为了做到豪而不土，那<strong>最好与暗色系颜色搭配</strong>。像咖啡色、黑色、灰色之类的暗色系带有沉稳、冷静、成熟的感觉，会与金色、银色的强烈表现力相得益彰，显得高贵典雅。 <img src="https://images.xiaozhuanlan.com/photo/2019/282d52f2eef199779ac923973662199f.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/bd4c169254a3106b70374d37e57b953b.png" alt="" loading="lazy"></p>
 </li>
 <li>
-<p>黄色+红色：为了避免冲突，原黄最好不与正红搭配。偏柔和的粉红或偏暗的红都比较合适，但传达的感觉不同。 与粉红色的搭配中画面容易显得轻，所以最好还加上一种或两种冷色，烘托活力缤纷的气氛。 <img src="https://images.xiaozhuanlan.com/photo/2018/dfac12252b3df833e07e79236ada1b0c.png" alt="" loading="lazy"> 暗红色与冷黄是绝妙的搭配，画面既有冲突，又有和谐。让偏暗的红色作点睛色，冷黄色作主色，起到点亮画面的作用。 <img src="https://images.xiaozhuanlan.com/photo/2018/ecefea835233ad979e522be3c9a6c0b9.png" alt="" loading="lazy"></p>
+<p>金色和白色，是一组更加清透的搭配，在清新、素雅中体现品质。这个时候可以用一些比较亮的金。如果觉得色彩过于清淡，可以加上少量彩色进行修饰。 <img src="https://images.xiaozhuanlan.com/photo/2019/5de735f42181636e37f7394b57831178.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/4fe444207b1dcc2a1eed380dc3e2e026.png" alt="" loading="lazy"></p>
 </li>
 <li>
-<p>更偏白的黄色与粉红、嫩绿、淡蓝这样的颜色搭配起来更协调。 <img src="https://images.xiaozhuanlan.com/photo/2018/c8d13ba231de549edbe926eee8fe95ab.jpg" alt="" loading="lazy"></p>
+<p>银色担当主体的情况，在产品和平面设计中较常见，这时可以用亮的材质或者渐变体现光泽感。作为背景色的话，一般颜色偏浅灰，降低光泽度好。 <img src="https://images.xiaozhuanlan.com/photo/2019/193dcfb81b2ac91ea3ee2f6141a1df2c.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/10c0bd636eb5d59dd22d241c665c2918.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/ef2d770dd373d53dfa909f515fe11bcd.png" alt="" loading="lazy"></p>
 </li>
 <li>
-<p>趋向咖色的黄色比较黯淡，适合与浊色调搭配，营造出浓厚的复古感。 <img src="https://images.xiaozhuanlan.com/photo/2018/380d6c89206737d0993c9e24b0f0359f.png" alt="" loading="lazy"></p>
-</li>
-</ul>
-<p><strong>3. 黄色+冷色系/中色系</strong></p>
-<ul>
-<li>
-<p>黄色+绿色：黄色和绿色是两个相邻的颜色，其色彩对比的张力不够，而且黄色偏暖，而绿色为中性色，所最好需要加入另一种偏冷的颜色或者把绿色的明度降低以作均衡。 <img src="https://images.xiaozhuanlan.com/photo/2018/71df25d852ec210e3e65de1ab2fad5b1.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/125a744c2b4f474b02d7eed496ffb4ad.png" alt="" loading="lazy">除此之外，黄色和绿色各自所占的比例应该有较为明显的差异，但纯度应该一致或相近。 <img src="https://images.xiaozhuanlan.com/photo/2018/3b0abfe8a0ae896c213cf35f401e300c.jpeg" alt="" loading="lazy"></p>
-</li>
-<li>
-<p>黄色+蓝色：黄色与蓝色两种色彩一冷一暖能很好的相互协调。 深蓝和黄色搭配时，较多使用黄色作为点睛色，科技感、孤独感会比较强。 <img src="https://images.xiaozhuanlan.com/photo/2018/35e84d593fd0065f61b486109f65e747.png" alt="" loading="lazy"> 黄色与较浅或纯度较低的蓝色搭配会更有童趣的感觉。 <img src="https://images.xiaozhuanlan.com/photo/2018/f9fcd50fbbc93d45cf3e2a50617c2d76.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p>黄色+紫色：紫色是黄色的对比色，两者在同一画面上冲突感很强，原黄与正紫的搭配就是典型的&quot;妖艳贱货&quot;风，所以很少见。如果一定要用这两种颜色搭配，就肯定需要改变其中至少一种的色调。 <img src="https://images.xiaozhuanlan.com/photo/2018/b462bb24be841ab493e6d0b1385832bb.png" alt="" loading="lazy"></p>
+<p>金色、银色可以与其他颜色相陪衬，但它们尽量不要同时存在，在同一空间使用金或银的一种。</p>
 </li>
 </ul>
 <h1 id="一点想法">一点想法</h1>
-<p>黄色无论是被视为皇权的象征还是被冠以&quot;色情&quot;的帽子，都说明色彩不仅仅会因为自身特征被运用，还会因为人类赋予的各种社会意义而存在。这种现象不止出现在颜色上，甚至是很多自然之物上，比如：花语、乌鸦和喜鹊的象征意义。仔细想想，这些好像严重地影响了我们的喜恶、选择和态度，可这并不是事物本身具有呀，所以我们是不是还应该保留 剥去这些&quot;外衣&quot;去看清本质 的思考角度呢？</p>
+<p>世上很多人或事物，因为一些附加在之上的故事，而广为人知，比如：被当做奖牌的金、银，被奉为神的关羽，被当做传奇的企业家等等。不少人会觉得 ta们那叫「幸运」，可能这些人也宣称自己是因为「幸运」。 但是，金、银如果不能很好地被锻造、不能方便地携带、没有好的光泽感，我相信不会被如此多的人喜爱。它们能有这些特性，也是因为不断地积累、转化。 对于人也一样，没有人永远幸运，也不会有人只靠幸运就能达到如此境地。彩票中大奖的人足够幸运吗？你应该听过到最后依旧一贫如洗的实例。说自己只是因为幸运，99%都是骗人的，你如果相信，那可能只会羡慕别人、哀叹自己。 最后是马爸爸的一句话：</p>
+<blockquote>
+<p>永远不要跟别人比幸运，我从来没想过我比别人幸运，我也许比他们更有毅力，在最困难的时候，他们熬不住了，我可以多熬一秒钟、两秒钟。</p>
+</blockquote>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[色彩第六课：色彩解析之橙色]]></title>
-        <id>https://souffleinspire.github.io/post/color-06/</id>
-        <link href="https://souffleinspire.github.io/post/color-06/">
+        <title type="html"><![CDATA[色彩第十四课：色彩解析之灰色]]></title>
+        <id>https://souffleinspire.github.io/post/color-14/</id>
+        <link href="https://souffleinspire.github.io/post/color-14/">
         </link>
-        <updated>2018-11-19T13:54:19.000Z</updated>
+        <updated>2019-01-16T15:58:07.000Z</updated>
         <content type="html"><![CDATA[<h1 id="前言">前言</h1>
-<p>十二色轮中，橙色在黄色和红色中间，也由这两种颜色混合而成，有人也把橙色叫做金黄色或者橘色。一提到这种色彩，我就联想到成熟的橘子🍊。小时候，秋天时总喜欢爬到山上去摘着吃，所以橙色在我的童年里仿佛就代表着收获、新鲜和快乐。<br>
-可是，橙色的象征意义还远远不止这些，下面为你详细解读。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/23a537d531b5ff964df0dc3756517c12.png" alt="" loading="lazy"></p>
-<h1 id="橙色的特点">橙色的特点</h1>
-<ul>
-<li>
-<p><strong>最暖的颜色</strong><br>
-最鲜明的橙色是暖色系中最温暖的颜色，使人联想到太阳的光芒、金秋的硕果，是一种容易给人快乐感的颜色。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/5fef65aee9bad116523bac56108822e8.png" alt="" loading="lazy"><br>
-万圣节的橙色南瓜灯就能在恐怖的气氛中保留一些温暖的感觉，还有点莫名反差萌呢。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/6f7803f4da3607b60d16463c2b3d9f93.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p><strong>富贵之色</strong><br>
-橙色和金色接近，自然流露出富贵、辉煌的气质，给人庄严、尊贵、神秘的感觉。这个特性在古代往往象征着权贵或宗教人士，在现代则作为标志色和宣传色使用。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/26bf2a39146aa84c3b964a17570f51e1.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p><strong>警戒色</strong><br>
-橙色在空气中的穿透力仅次于红色，明度较高时，可以作为警戒色，预示着一些潜在性的危险，让人提高警惕，提升安全度，比如环卫服、救生衣、登山服等。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/5986a973b700167dea09592210d66410.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p><strong>荷兰群众的“国色”</strong><br>
-世界上最喜欢橙色的国家应该就是荷兰了，荷兰人民在节假日中会穿橙色的服装、用各种橙色的点缀物来表达喜庆和欢腾，足球队的队服也是橙色的。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/163046887923ba17e7befed9481697f3.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p><strong>活力与青春</strong><br>
-自然界中橙色的魅力在于它的健康和活力，平时穿橙色衣服会传达出你非常积极的一面，而且显得比较精神、干练。但是不得不说，橙色对黄色皮肤确实不太友好，反正连张梓琳都 hold 不住的颜色，我是不会去轻易尝试滴。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/7aff19074028576d4bc27689899c23bd.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p><strong>成熟系的橙色</strong><br>
-说到服装，值得一提的是，橙色系中包含了近年很流行的焦糖色和大地色系，是高级、典雅的色彩，对男女都友好。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/9fc4ea18132fa57a7dab6d0e28bbb688.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p><strong>复古感的“红色”</strong><br>
-欧美复古风的插画中，一般不会使用纯红色，而是用偏红的橙色代替。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/7b86d9f8325efdff3a4d596dd1e9cbd6.png" alt="" loading="lazy"></p>
-</li>
-</ul>
-<h1 id="橙色的搭配">橙色的搭配</h1>
-<p>橙色的明度差异可以很大，色相范围其实也比较广，这样的广泛性特别要求设计师能够“具体问题具体分析”，但正如前一篇红色篇中所说，只要掌握色彩的个性和配色的规律，便不再是一件困难的事情。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/af98b7cbf805432caca4d14ed5d0f498.png" alt="" loading="lazy"></p>
-<p><strong>1. 橙色+无色系</strong></p>
-<ul>
-<li>
-<p>橙色+白色：高明度的橙色本身有一种清新亮丽的感觉，与白色搭配会强化这样的色彩印象，让画面干净且充满活力。橙色还有很强的前进性，足够吸引眼球，很适合教育、食品、外卖、电商等行业。这样的搭配在品牌设计、界面设计中都是非常常见的（莫名想到 得到 app 的猫头鹰）。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/c91d67c4e0240d49434d54cec5d32b19.jpg" alt="" loading="lazy"><br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/272f1aefc29ee36676163127cbe78028.jpg" alt="" loading="lazy"></p>
-</li>
-<li>
-<p>橙色+黑色：橙色作为最温暖的颜色，即使很少量，也可以有效减弱黑色的沉闷，凸显稳固感。同时，橙色还能提升安全性，所以非常适合运动产品。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/354ef88d01c0da0513e426c060846e3c.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/ebddeb4370b84f8fea51ebdf383754bd.jpg" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/3193dd52a4b3d4375da109327e356d4b.jpg" alt="" loading="lazy"></p>
-</li>
-<li>
-<p>橙色+灰色：根据灰色明度的不同，与橙色的搭配会形成完全不同的 style。橙色与浅灰的搭配非常柔和，容易带出灰色的高级感，而且重点信息突出，层级关系显而易见。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/c7a08ebd770f9d3e03d7d5ec38f05e19.jpg" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/0326af860220475d6377be41243235f9.jpg" alt="" loading="lazy"><br>
-而橙色+深灰时，很容易让橙色有点脏脏的，画面也因此变得消极，是一种很难掌握的配色。但是，如果能利用这种冲突感，用色彩比例和趣味性的元素创造出反差，也会让画面变得诙谐有趣。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/c01fb649d06de65dc017548003c0a09b.jpg" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/48a926f03c6880b863a9718050b15fc5.jpg" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/bf413cbdcc846147d064263e13b077cb.jpg" alt="" loading="lazy"></p>
-</li>
-</ul>
-<p><strong>2. 橙色+暖色系</strong></p>
-<ul>
-<li>橙色+红色：亮橙色与正红色的诱目性和温暖感不相上下，所以在同一画面中会有争抢眼球的效果，视觉上极易产生疲劳。</li>
-</ul>
-<p><img src="https://images.xiaozhuanlan.com/photo/2018/d1718bef08e0d154aacdbe0b6ce95338.jpg" alt="" loading="lazy"><br>
-毕竟一山不容二虎，这时降低其中一种的明度或者纯度会显得比较自然轻松一些。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/029a10dab4649bfb5c34316dc974dcbc.jpg" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/5e23780995d457b8b995d0310d6cd61f.jpg" alt="" loading="lazy"></p>
-<ul>
-<li>
-<p>橙色和黄色是两种视觉冲击很强的颜色，但因为色相相近，所以自带层次感，不会产生像与红色那样的冲突。不过，还是很忌讳在同一界面或产品上两者比例相当，仅选择一种作为主色即可。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/44f40bc345db3d82d266dfc8f7babbfa.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p>如果不可避免的要大面积用橙色+黄色/红色，也有两种常见的解决方法。其一是可以选择加一种或两种冷色来平衡过于强烈的画面冲击力，给作品“降温”，如：<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/0444be58fdaef9c5f2dcf39b0d44b140.png" alt="" loading="lazy"><br>
-第二种方法是，将两种颜色混合成渐变色，化冲突为过渡，将明显的割裂感化于无形。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/be9d815ec4cf8d490a92dd20f719042d.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/b7a6e64cf1803c1df48869400367ed0e.jpg" alt="" loading="lazy"></p>
-</li>
-</ul>
-<p><strong>3. 橙色+冷色系</strong></p>
-<ul>
-<li>
-<p>橙色+蓝色：橙色的对比色是蓝色，不过橙色与蓝色却比其他对比色组合要好搭得多，几乎整个蓝色系都能和橙色搭。﻿淡蓝+橙色有些小清新；偏深的蓝色+橙色更强调品质感；橙色+蓝绿色也是极好的，充满活力。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/cdd2ba03a5426af2db2650b493df3c03.jpg" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/40aeb47c9f46edd2eae52fff2e50331d.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/120b8631e45f399c2f7c50890082856a.png" alt="" loading="lazy">  <img src="https://images.xiaozhuanlan.com/photo/2018/2fd2d0a36a9102d51de3590e3ea846c0.jpg" alt="" loading="lazy"></p>
-</li>
-<li>
-<p>橙色与绿色组合自带田园风，很有夏天的感觉，画面清爽而充满希望，给人无限希冀的美好感受。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/ab8ded1622e305573065bb13c94eaabb.jpeg" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/f7c33e78f1f0d5034deac930ad3dba30.jpg" alt="" loading="lazy"></p>
-</li>
-<li>
-<p>橙色+紫色：紫色是一种冷感非常强的颜色，与橙色的视觉感受恰好是两个极端，所以是不太容易协调的搭配，尤其是深紫色会让橙色变得晦涩、不干净。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/a6deb8b6c73df513e4cfd2f2148b7957.jpg" alt="" loading="lazy"><br>
-与橙色搭配时，尽量选择积极性强的粉紫色，避免画面出现跳脱感。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/3c16140dfb8fbecd41c35410eb893064.jpg" alt="" loading="lazy"></p>
-</li>
-</ul>
-<h1 id="总结">总结</h1>
-<p>明亮的橙色是最温暖的颜色，这种特性为它赋予了很多美好的象征含义，但同时带来了许多搭配上的困难。这就好像要把一件事情做到极致，就必然需要牺牲其他的一些东西，色彩尚且如此，更不用说做工作和生活，所幸不要妄图求得一切，可能才是真理。幸运的是，我们可以自主衡量和主动做出选择和取舍，可以像找到配色规律一样，从每一次选择中寻觅生活的规则。愿你我同行~</p>
+<p>有人说，生活时而阳光，时而灰色，时而黑暗。灰色在日常表达中仿佛就是&quot;阴郁&quot;的代名词，然而在设计中，灰色却能发挥着举足轻重的作用。它是一种介于黑与白的中间色，是一种美丽的平衡。</p>
+<h1 id="灰色的特性">灰色的特性</h1>
+<p>灰色是介于黑白之间的无彩色，没有色相，也没有饱和度，只有明度的变化。正如上面提到的，灰色有着某种不够注目又不可或缺的价值。</p>
+<p><strong>简单优雅</strong> 灰色不会给人强烈的感觉，大大削弱了色彩对感官情绪的影响，这是黑色、白色和其他所有颜色都做不到的。相信你听过高级灰，这种高级感在于灰色营造出的低调、安静、简雅的格调，简单即优雅。 <img src="https://images.xiaozhuanlan.com/photo/2019/f952d9e1df7a8c8048c5d67e99143530.png" alt="" loading="lazy"></p>
+<p><strong>&quot;灰姑娘&quot;</strong> 在中世纪之前，灰色的主要来源是未经过染色的羊毛，而且灰色耐脏，所以大多数农民和穷人穿的都是灰色衣服，灰色也自然成为社会地位低下的色彩象征，甚至影响到对较底层人们一些称呼，比如&quot;灰姑娘&quot;。许多宗教僧侣也会穿戴灰色服饰 ，比如英格兰的灰色修道士、中国的僧人。 <img src="https://images.xiaozhuanlan.com/photo/2019/f1e5db63e40448a718642b114694398e.png" alt="" loading="lazy"></p>
+<p><strong>灰色之于艺术</strong> 到了文艺复兴时期，黑色成为贵族最青睐的颜色，由于黑色兴起，白色和灰色也变得重要起来，灰色开始在艺术和时尚领域扮演重要角色。灰色对油画非常重要，当时诞生了一种叫做&quot;纯灰画法&quot;的绘画技巧----先用灰色和白色画图，然后用带色彩的颜料作为一层薄釉铺在画面上，现在看来......好像就是在黑白画上加了一层蒙层。 <img src="https://images.xiaozhuanlan.com/photo/2019/b755dbe1bc4bf8dee634be3ebbccc860.png" alt="" loading="lazy"> 19世纪，艺术家们更是将使用不同灰度来创作的技法&quot;发扬光大&quot;，这些融入了蓝灰调、绿灰调等各种灰色的油画，不似以往印象派那样的色彩明丽，反而呈现了柔和的质感，深深影响了后世的油画创作风格。 <img src="https://images.xiaozhuanlan.com/photo/2019/aa6b1b5faa19f1a59af9528fae529c19.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/83f6c30d707c4a319360618bbfbb3c52.png" alt="" loading="lazy"></p>
+<p><strong>灰色与战场</strong> 相比于蓝色、红色等艳丽的色彩，灰色在战场上显然是不易突出的，所以在步枪时代。灰色是有效的伪装色。美国内战期间，南方同盟军（下图右）的制服是灰色的，北方的制服（下图左）以蓝色为主，所以这场内战又被称为蓝色和灰色的战争。 <img src="https://images.xiaozhuanlan.com/photo/2019/867266f142ffde672df4e74ffbe1ece6.png" alt="" loading="lazy"></p>
+<p>正因灰色与战争的联系，在20世纪，灰色成为了战争和工业化的象征，同样反映在艺术领域上。新世纪的艺术大师----毕加索在这一时期的绘画主色调便是灰色，比如在那副著名的《西班牙内战·格尔尼卡》中，毕加索就利用灰调、支离破碎的器官和躯体展现战争的恐怖和失望（表示小时候完全看不懂）。 <img src="https://images.xiaozhuanlan.com/photo/2019/07022b4939abccc5ebe7c63517a99309.png" alt="" loading="lazy"></p>
+<p><strong>日本的灰色</strong> 日本人非常善于运用灰色，这在日系创作中显而易见。其实早在江户时代，以&quot;鼠色&quot;为主的灰色就在百姓中流行起来。江户幕府禁止百姓生活过于奢侈，甚至对衣服的材料和颜色都作了限制。于是，在百姓中产生了以&quot;鼠色&quot;为主的灰色文化。日本有&quot;四十八茶百鼠&quot;这样一个颜色谱系，指的就是灰色的各种变化。实际上，并没有480种灰色，这只是江户时代的人们一种夸张的表达方式。当时，人们大多使用银鼠、利休鼠、深川鼠和梅鼠等灰色。这些灰色系深深影响着现代时尚圈。 <img src="https://images.xiaozhuanlan.com/photo/2019/4c5419ad86b59634f46b74a12383ffc7.png" alt="" loading="lazy"></p>
+<p><strong>年迈之色</strong> 灰色还是代表年迈的色彩，因为大家觉得死亡是黑色的，通往&quot;黑色&quot;的道路就该是灰色的。 <img src="https://images.xiaozhuanlan.com/photo/2019/64c25c54ec648c1e97e3c7baccd79c61.png" alt="" loading="lazy"></p>
+<p><strong>边缘颜色</strong> 灰色不仅有正面和负面的含义，还能表示处于边缘地带的情况。灰色行业指触及违法边缘，但又一般不违法的行业，灰色收入指获得工资、津贴之外或者不完全符合法规的收入。 <img src="https://images.xiaozhuanlan.com/photo/2019/5c4834637ddb4fa86e4431091d614ab4.png" alt="" loading="lazy"></p>
+<p><strong>忽视</strong> 在 UI 设计里，禁用的按钮、未能加载的页面是灰色的，原因很简单，灰色不被重视，可以降低用户的注意力。 <img src="https://images.xiaozhuanlan.com/photo/2019/7749a1477c52bcd55234cd84fcad00fa.png" alt="" loading="lazy"></p>
+<p><strong>Grey or Gray？</strong> 标题上的 Gray 我原本是写的 Grey，一直觉得 grey？gray？傻傻分不清楚。其实可以 don't care，因为 it just depends on where you live，grey 是英式英语的&quot;灰色&quot;，gray 是美式英语中的表达。</p>
+<h1 id="灰色的搭配">灰色的搭配</h1>
+<p><strong>1. 充当背景色</strong> 在 UI 设计中，把灰色作为背景色屡见不鲜，甚至不一定比白色为背景色的情况要少。相比于白色，灰色更温和、不刺眼，更易营造高级感。在灰色背景下，无论是明艳的颜色还是比较淡的颜色，甚至连白色和黑色都有前进感，只是少量使用就能引起视觉关注。 <img src="https://images.xiaozhuanlan.com/photo/2019/0884be1943664a343bac68c9c809accf.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/6a9099e5d70abfa8f537e2d634465083.png" alt="" loading="lazy"> 在卡片式和模块化大行其道的今天，偏灰色的背景既不明显，又容易把不同模块区隔开来，体现信息的层级关系。 <img src="https://images.xiaozhuanlan.com/photo/2019/890b1ef3e61ac0cd8f17faf2111a9e40.png" alt="" loading="lazy"></p>
+<p><strong>2. 营造简约风</strong> 简约风主张化繁为简，这种风格大量依赖无色彩，白色和黑色相对单调，而灰色因为明度范围很广，能创造更多的可能性，而更受到青睐。无论背景还是图片，都可以以各种灰调，尤其是明度偏高的灰调为主。这种色调，给人距离感但不严肃，显得简约高雅有内涵。 <img src="https://images.xiaozhuanlan.com/photo/2019/213e09d66ef6044ca2811955132844f8.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/8bb3e47ececbea9fdbedf2baebf566c6.png" alt="" loading="lazy"></p>
+<p><strong>3. 灰色+有色彩</strong> 相比色彩缤纷的画面，纯灰色还是太过黯淡，所以在设计中直接使用灰色的情况较少，大部分灰色其实是带有色彩的，而且灰色的含量和明度都会影响到整体的色调。 <img src="https://images.xiaozhuanlan.com/photo/2019/462040fb8abc855c24fcddbf65f5ee18.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/06961e81ed3545f46b314c5a561d0e3b.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/716f5c60bfe110e6a34cdbabfcf41743.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/858b4fbe816ec079ade27e035aa8203a.png" alt="" loading="lazy"> 在灰色明度较高时，无论是清凉舒适的绿灰色、安静沉稳的蓝灰色、优雅理性的紫灰色还是甜美温柔的粉灰色、温润恬静的黄灰色、温暖平和的橙灰色，都让人觉得舒服、高贵。前段时间因为《延禧攻略》火起来的莫兰迪色系大多属于这种。 <img src="https://images.xiaozhuanlan.com/photo/2019/3962670badd2e428e8c8c738e98826d0.png" alt="" loading="lazy"> 而明度较低的时候，混在什么颜色中都会比原本这个颜色低沉黯淡许多。 <img src="https://images.xiaozhuanlan.com/photo/2019/a71bb425b7fb0fa37ffade8989c7a0c2.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/6545229b04d6b0a5c911949307425a3a.png" alt="" loading="lazy"></p>
+<h1 id="一点想法">一点想法</h1>
+<p>许多人常会出现消沉颓废，郁闷不乐等不良心理状态，尤其是中年人，这种状态被称之为&quot;灰色心理&quot;，用今年的流行语来说，就叫做&quot;丧&quot;。然而，&quot;丧&quot;绝不仅仅出现在中年人身上，我就认识这样一个我觉得很丧的人，经常抱怨生活和工作，觉得所有的心想事成都和自己没什么关系。 其实这种&quot;丧&quot;主要还是源于内心不够自信，可能是暂时的，也有可能相伴一生。但，&quot;灰色&quot;的人于自己痛苦，于他人，会觉得你太脆弱，不如&quot;开心点，人间不值得&quot;。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[色彩第五课：色彩解析之红色]]></title>
-        <id>https://souffleinspire.github.io/post/color-05/</id>
-        <link href="https://souffleinspire.github.io/post/color-05/">
+        <title type="html"><![CDATA[色彩第十三课：色彩解析之黑色]]></title>
+        <id>https://souffleinspire.github.io/post/color-13/</id>
+        <link href="https://souffleinspire.github.io/post/color-13/">
         </link>
-        <updated>2018-11-12T13:47:20.000Z</updated>
+        <updated>2019-01-10T02:38:50.000Z</updated>
         <content type="html"><![CDATA[<h1 id="前言">前言</h1>
-<p>昨天刚过了双十一，不知道大家的手是否还安好啊~~有一段时间没有更新了，作者我本人终于良心发现了。<br>
-从这篇文章开始，我们将进入基础色彩的解析系列。作为设计师，配色无疑是我最头疼的设计知识，我也问过很多身边比较优秀的设计师，却并没有人能确切地讲出自己技巧，难道配色真的无迹可寻吗？为何又有那么多关于配色的课程呢？<br>
-回答问题之前，先问一个问题：我今天戴了一条红色的围巾。在你的第一反应中，它到底是哪种红色呢？粉红？大红？还是深红或者其他？同样的问题，询问不同的人得到的答案不尽相同。这恰是色彩的神奇之处——我们可以把它们归于大类，但却无法准确描述清楚任何一种具体的颜色；我们能够有个模糊的印象，但却因不同的偏好和性格等影响我们的选择。因此，我们可以做的就是去了解色彩，摸清它们本身的“个性”，并与设计的受众群体的个性做尽可能大的交集。说了这么多，接下来进入对第一种基础颜色——红色的探索吧！</p>
-<h1 id="红色之于人类">红色之于人类</h1>
-<p>正如之前提到的，红色是光的三原色之一，它能和绿色、蓝色混合叠加出任意色彩。红色是波长最长的颜色，普通人无法看到波长长过红色的射线（红外线）。对红色的认知是人类进化史的重要事件。早期的灵长类祖先需要适应丛林生活，它们的视网膜进化出了新的视锥细胞，使之可以在绿色的叶子中找出亮红色的果实，后来这样的认知不断被强化，进而影响了我们的社会行为。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/873add4dea21f911b165ab142daff3bc.jpg" alt="" loading="lazy"><br>
-相比于男性，女性在原始社会中主要负责采摘果实，所以对红色更加敏感，这就是为什么市场上的口红色号如此繁多，女士们乐此不疲，而男士们往往一脸懵逼。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/49a7bdc7f903085bf00f5720f8ecec54.jpeg" alt="" loading="lazy"></p>
-<h1 id="红色的特点">红色的特点</h1>
-<ul>
-<li><strong>温暖感</strong><br>
-人类能够感知红色之后，除了能看到成熟的果实，还帮助人们找到了火，这对人类文明发展的重要性不言而喻。所以大多数时候看到红色，能使我们联想到火、太阳等，从而感受到温暖、热情、积极，在寒冷的冬天待在红色或橙色装饰的房间里是个不错的选择，但是暖色过多的话容易使人焦躁。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/1814b1060cae7a2ecc553ac18dfaf6c8.jpeg" alt="" loading="lazy"></li>
-<li><strong>诱目性</strong><br>
-红色的诱目性很强，也就是说红色是非常容易引起人们注意的颜色，所以许多危险警告标记都用红色的文字或图像来表示，比如禁烟标志、交通信号灯里的红灯、APP 里的错误提示。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/cdf3373098d67af6ed44cbe2208a50a1.jpeg" alt="" loading="lazy"><br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/d73297a5b56168031c78ed10d309dce0.jpg" alt="" loading="lazy"><br>
-餐饮行业也会在门口装点一些红色元素以招徕客人，电商、购票、餐饮业的设计使用红色作为主题色也能一定程度上刺激消费。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/0846b5fb2528470d3d7adffeabd4cb91.jpg" alt="" loading="lazy"><br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/de44c1dd6285e669e4c079d6743310ba.jpg" alt="" loading="lazy"></li>
-<li><strong>时间指向性</strong><br>
-快餐店的装潢以红色、黄色等暖色为主，除了可以让人兴奋、刺激食欲之外，还能让人觉得时间过得很慢，所以在快餐店等人是很难熬的。这大概是因为我们的血液是红色的，人们看到外界的红色容易加速脉搏，升高血压，在这样的环境中待得越久，会让人越发焦躁。反之，冷色调能让人内心平静、心情舒缓、放松，和适合用在咖啡馆、高档餐厅或者会议室里。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/c47c8bf0f9195b8c620fd95dc9a5b539.jpg" alt="" loading="lazy"></li>
-<li><strong>文化含义</strong><br>
-在一些国家和民族中，红色代表着权威，比如中国古代皇宫和庙宇的墙壁主要是红色的、皇帝批阅奏折用的是朱砂笔。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/74705493f1c97d1aaff85db2622e4b37.jpeg" alt="" loading="lazy"><br>
-同样，红色在中国还是喜庆的色彩，传统结婚婚俗中大量使用红色装饰、新人穿红色衣服，过年挂红灯笼、贴红色的对联等等。在西方，红色也是圣诞节的主要用色，营造欢喜的氛围。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/d1c7d418f618333dc42236b35e61fcb1.jpg" alt="" loading="lazy"><br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/3d9e6de98fe7e45ef9e5562992581b60.jpg" alt="" loading="lazy"><br>
-在金融方面，红色受到文化的影响而呈现完全相反的含义，在北美股市中红色代表着股价下跌，而在东亚股市上，红色表示股价上升。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/9e0e7eba7be884852a45bbe11f0eca98.jpg" alt="" loading="lazy"></li>
-<li><strong>热情与魅惑</strong><br>
-Red means love 几乎是人类对于爱的共同认知，大红色的玫瑰表达热烈的爱，而偏粉的红色更偏浪漫、幸福之意。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/29b694c55780643b9c7fe5b582f5d9c4.jpg" alt="" loading="lazy"><br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/a91777eeee58ec8e62c872f3fcc92517.jpg" alt="" loading="lazy"><br>
-红色有时也能体现女性的大气知性、勇敢坚强，添加一些红色元素可以让人更有吸引力。喜欢穿红色的人往往是比较外向、开朗的，比如 wuli 青霞姐啊~<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/de4326bfe5fadadeeb4469eebebba0cd.png" alt="" loading="lazy"></li>
-<li><strong>消极感</strong><br>
-鲜红还能是权威、血液的代表性颜色，与深色搭配常常传达给人们挑衅、叛逆、邪恶、恐怖、血腥等负面感受。这样的消极感既要适时利用，有时也要避免。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/f501578499acbdb9fc2b2a5697514f47.jpg" alt="" loading="lazy"><br>
-不过有趣的是，我们还会发现，红色有时还能借助深色传递出力量感，甚至凸显英雄形象。这时就一定要注意色彩的比例和色调，选择偏黄一些的红色更好。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/0df09fa0f49c919aa315e5432734a42c.jpg" alt="" loading="lazy"><br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/cb4cf177130f202bba59f61b1d355703.jpg" alt="" loading="lazy"></li>
-</ul>
-<h1 id="红色的搭配">红色的搭配</h1>
-<p>红色的种类非常多，常见的就有三四十种，以上是从选择的一些，需要注意的是，每一种红色也不仅仅表示单个的色相，而是与之相近的一个范围。“永固红”大致相当于我们眼中的正红色。拿之与其他色对比，会发现有的偏黄、有的偏紫、有的偏灰等，不同的色调传递的感觉不同，搭配也会不同：<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/a0645bca14e4d04a6fabd39f5ec77c6a.png" alt="" loading="lazy"></p>
-<ul>
-<li>强调红色的积极性，可以使用泛黄的红色或者明度较高的粉红色系，比如宝贝粉、贝壳粉、粉色、绯红等。如果要给人更温暖的感觉，可以将红色与黄色、橙色搭配，通常用在表现儿童、食物、自然等作品中。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/5eb15792226d83242f44e5926a8f30a4.png" alt="" loading="lazy"><br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/7482b7ff4f1318f723876041d29804ed.jpeg" alt="" loading="lazy"><br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/6706cae8ad78ceaa95f567762cc0783b.png" alt="" loading="lazy"></li>
-<li>如果想表现消极感，则适合使用暗红色或泛紫的红色，如覆盆子色、洋红、深红等。偏紫且明度较低的红色可以与战争、邪恶相关联。而红色与黑色搭配，会给人带来恐怖感。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/53bd2d7f5416deda60ae089457f1f69a.png" alt="" loading="lazy"><br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/97f9650117378dc86b7f699452ddaadf.jpeg" alt="" loading="lazy"><br>
-如果不想让消极氛围过于浓厚，可以加入黄色或橙色中和一下。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/5935fb96aba526929f406083711a21f9.jpeg" alt="" loading="lazy"></li>
-<li>红色与白色或米色搭配，可以用在简约复古风格中。偏橙且明度较低的红色也能有复古感，但是风格更浓一些。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/6ae9ff1f32b759f82e8b07c36618ab20.jpg" alt="" loading="lazy"><br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/a8bf1c117e9c8f0a5a92322889a81944.png" alt="" loading="lazy"><br>
-少量红色作为点睛色，在大面积的白色、灰色背景下，很容易打造时尚感。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/3c71a0ef62cc494eebaee520719f0103.jpg" alt="" loading="lazy"><br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/bbc0e83c93937e0ce8323d2f8afba944.jpg" alt="" loading="lazy"></li>
-<li>色彩环中，红色的互补色是绿色。红色与绿色的搭配最常见就是在圣诞节中了。不过在中国，俗话说“红配绿，赛🐶p”，说明这两个颜色搭不好，极显俗，所以一定一定要注意比例和色调的对比。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/6b9bccd3f7cfc69169356fa8f2fdc510.png" alt="" loading="lazy"></li>
-<li>红色与其他色相搭配时，为了避免抢夺视觉效果，可以适当降低颜色（其他颜色或红色）的明度和饱和度。比如暗红色和亮蓝色、亮红色（如粉红色）和深蓝色的搭配效果都比较好。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/9b0fed9e29192a4a029a5ba9f9146bea.jpg" alt="" loading="lazy"><br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/d2e4c4dca4990657eb970732c1279bb5.jpg" alt="" loading="lazy"><br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/1804eeeffbe137fb184e28d66eb93c89.jpg" alt="" loading="lazy"></li>
-</ul>
-<h1 id="总结">总结</h1>
-<p>红色最大的特点就是易引起人们的注意，而且很容易引起情绪上的波动。如果与类似的颜色组合，便会成倍地加强这种情绪，相反，如果则会削弱情绪，往平衡的方向走。只要遵从着这一点，配色的种种问题其实就不难解决了。</p>
+<p>今天继续聊聊无色彩系中的黑色。所谓&quot;无彩色&quot;是指不包含在可见光谱中的颜色，先说明一点，尽管在之前写过有色彩与无色彩的搭配，但不意味着无彩色系只包含黑白灰，金色和银色也是属于这类。 无色彩太过常见，又是白搭色，所以存在感很低，但是就像前面说过的，每种颜色都有自己的个性，无色彩的作用在设计界无可撼动的，同时也不是那么轻易能驾驭的。如果仔细观察，就会发现无色彩完全可以扭转设计传递出的感觉。</p>
+<h1 id="黑色的特性">黑色的特性</h1>
+<p><strong>世界最黑</strong> 当物体不反射任何颜色的光的时候，吸收了光谱内的所有可见光，人眼的感觉就是黑色的。如果将三原色的颜料以恰当的比例混合，反射的色光也会降到最低，也会被认为是黑色。 目前人类制作的最黑的物质是用碳纳米管制作的，碳纳米管之间的间隙的不规则表面会降低反射率，从而使表面能吸收99.9%的可见光，总反射率只有0.045%。所以，这种物质可用于制造隐形武器。 <img src="https://images.xiaozhuanlan.com/photo/2018/3470f85fa1e0e00dead36d4f032c93d3.png" alt="" loading="lazy"></p>
+<p><strong>时尚宠&quot;色&quot;</strong> 黑色是一个很强大的色彩。在时尚界，黑色被誉为&quot;永不过时的颜色&quot;，它表现出来的庄重和高雅是其他任何颜色都不能代替的。我大赫本就是将小黑裙演绎到极致的女神之一，很喜欢黑色衬托出来的她那种高贵典雅的气质。黑色还被视为收缩色，能将目光分散到四周较光亮的范围，从而达至视觉上&quot;纤瘦&quot;的效果。 <img src="https://images.xiaozhuanlan.com/photo/2018/050063a9208a2cc27206579e29b6590b.png" alt="" loading="lazy"></p>
+<p><strong>刚正之色</strong> &quot;唱黑脸&quot;在京剧中代表的是刚正不阿的包拯包公，所以黑色是正直、严肃、无私的象征。 <img src="https://images.xiaozhuanlan.com/photo/2018/da83397ee9081dda1f7a78b60b52a123.png" alt="" loading="lazy"> 在正式场合，男士们往往穿黑色的西装、袜子和皮鞋，体现着一个人的严谨、沉稳以及对场合的尊敬。 <img src="https://images.xiaozhuanlan.com/photo/2018/f18b260a8f82068e82aced94f0282b2e.png" alt="" loading="lazy"></p>
+<p><strong>水德</strong> 前面提到过，在中国古代，权势阶层崇尚五德三统，每一个朝代都有与金木水火土五行相应的德，五德相生相克，每一德都有对应的一色，金德对白、木德对青、水德对黑、火德对红、土德对黄，每一个称帝之人，都会给自己的朝代赋予一种&quot;德&quot;，整个国家的颜色随之改变。在历史中，秦朝则尚水德，所以军旗、帝服、皇宫装饰等，一律以黑色为主。 <img src="https://images.xiaozhuanlan.com/photo/2018/bcd1ff1d87cf6f1546b72fbe97a9f90e.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/b7ed1546869f96b866ebbae4e67e893f.png" alt="" loading="lazy"></p>
+<p><strong>青红皂白</strong> 我们已经知道古代的&quot;青&quot;是黑色的一种名称，但你可能不知道&quot;皂&quot;也有黑色的意思。所谓&quot;青红皂白&quot;的含义，其实是来自于青和红、黑和白两类相对的颜色。 <img src="https://images.xiaozhuanlan.com/photo/2018/dccb4b83ec54f4d8a0f9a6be1d00c651.png" alt="" loading="lazy"></p>
+<p><strong>邪恶与神秘</strong> 虽然实际上是因为没有可见光才会使人看到黑色，但在人们的联想中，黑色是一种能够吞噬万物的邪恶、隐秘的力量，宛如&quot;黑洞&quot;一般。在日常用语中，常常用&quot;黑&quot;这个字来表示一些不好的现象或人，比如：试图恶意破坏电脑网络安全的人叫&quot;黑客&quot;；内心邪恶、表里不一的人是&quot;腹黑&quot;；良心泯灭、道德沦丧的人被称为&quot;黑心&quot;；没有公开散发信息的系统或操作叫做&quot;黑箱&quot;等等。 <img src="https://images.xiaozhuanlan.com/photo/2018/5aeb112dcfb24e5df3498ecaada519f5.png" alt="" loading="lazy"></p>
+<p><strong>黑五</strong><br><br>
+在美国，&quot;黑色星期五&quot;指的是感恩节（11月第四个星期四）的后一天，因为感恩节是不营业的，所以这一天会有很多人购物，慢慢演化成了大型购物节，不亚于中国的&quot;双十一&quot;。 <img src="https://images.xiaozhuanlan.com/photo/2018/c8a26bd20908e37531328bd08c8cf23e.png" alt="" loading="lazy"> 那为何一个买买买节日会是黑色的呢？我们都知道在西方，13一般被认为是一个不吉利的数字。且宗教信徒认为耶稣死于星期五。而圣骑士团（法国中世纪天主教军事组织）是在1307年10月13日遭到屠杀，这一天也是星期五，两者结合令人相信13号又恰逢星期五的日子就是不幸的。 在绘画、文学作品和电影中，黑色常被用来渲染死亡、恐怖的气氛。因此，人们在这个特殊的星期五前冠以&quot;黑色&quot;来表达悲伤和凄凉。 <img src="https://images.xiaozhuanlan.com/photo/2018/996e55ee186a48d4d6054e8ee08ea636.png" alt="" loading="lazy"></p>
+<p><strong>黑色幽默</strong><br><br>
+Black Humor 黑色幽默指在荒诞不经、冷嘲热讽的玩笑中包含了苦闷和痛苦、忧郁和残酷，可能在苦涩的笑声中包含着泪水，甚至愤怒。 <img src="https://images.xiaozhuanlan.com/photo/2018/de2d4f584ffb0a2dcf62db860f96d457.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/cd5ea2bd8dee114d3fb97d6ad4a33d52.png" alt="" loading="lazy"></p>
+<h1 id="黑色的搭配">黑色的搭配</h1>
+<p><strong>1. 作为背景色</strong> 晴朗的白天和静谧的夜晚对立，彩色跟黑色也是对立的。黑色或暗色占比较多，画面传达的信息往往更加高端商务范，同样的内容换成白色背景会明显清新简约一些，因此除非产品调性要求，大部分 UI 设计还是以白色或浅色系背景为主。 <img src="https://images.xiaozhuanlan.com/photo/2018/a1df151500978641d1ad87f4c2a8eeeb.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/f78e1ebe9806dec0cc6d9aeeb858b1fe.png" alt="" loading="lazy"> 但如果把黑色看做一类人，那么它一定是一个深沉而睿智的长者形象，是一个甘于退居后线、充当绿叶衬托主色的人。这是因为黑色具有强烈的沉积感和后退感，可以包容任意亮色，同时亮色又能给黑色带来热闹活泼。这一点有别于白色，白色本身明度高，所以自然会分散一部分视觉。把亮色用在重点信息处，将黑色作为画面的背景色，能起到突出画面主题，强化视觉焦点的作用，并呈现出大气、直率的视觉效果。常与黑色搭配的亮色有：金色、红色、绿色、黄色、青蓝色、橙色等。 <img src="https://images.xiaozhuanlan.com/photo/2018/5317673d4e5a8efafa025ff8866c5ce6.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/d659df0acbf88769f78832aa7ccb212c.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/021d46ef3fd4f1e646c98a0a30fa62f3.png" alt="" loading="lazy"> 如果产品也是黑色，那是不是就不能用黑色背景呢？未必，黑色产品配合黑色背景一般更能凸显质感，这时应该把产品亮度提高，但这种做法对产品和图片的细节要求非常严格。 <img src="https://images.xiaozhuanlan.com/photo/2018/2e5c299c42f4f477573c17aaf0df15e9.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/fa0781f76a6f4dbd3fb0b6f99131041c.png" alt="" loading="lazy"></p>
+<p><strong>2. 作为主角登场</strong> 在提倡&quot;简风格&quot;的今天，无色彩系发挥了重要的作用，他们不再是配角，转而被搬上了&quot;大银幕&quot;上，黑白灰的重要性也在舍弃色环后显现出来。日本平面设计大师福田繁雄、原研哉、佐藤晃一等都非常善于利用黑白灰关系进行设计，在他们的作品中至少运用了一种无彩色系颜色进行设计。 <img src="https://images.xiaozhuanlan.com/photo/2018/d65d15ccb347e13bc6e2491583efa757.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/72e00cb3324cc753470f12a004946d55.png" alt="" loading="lazy"> 在中国，其实早就有利用黑白灰结构丰富画面结构的作品----水墨画，所以黑色有时也能带来深厚的文化气质。 <img src="https://images.xiaozhuanlan.com/photo/2018/d0c71362eda44d20679117b7f7cb0176.png" alt="" loading="lazy"> 同时，全黑白灰的设计容易让人觉得是没做完的设计，所以这也要求无色彩设计向情感化或文化感方向走，让大家感受到黑白背后蕴藏的丰富想象空间。 <img src="https://images.xiaozhuanlan.com/photo/2018/a52d627c1a8ec6d473b2212e15bb487c.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/baf2b98c021f9668ba71218e69293fd2.png" alt="" loading="lazy"> 久而久之，黑色就有了这样的优势，所以一些极简风格的电商和一些阅读类、音乐类应用往往会充分利用这个优势来体现独特性和文艺特质。 <img src="https://images.xiaozhuanlan.com/photo/2018/bf9c1ab22d3e25f21212999315e5ee0f.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/ae0c4192afd7ad693255db9809ab60ef.png" alt="" loading="lazy"></p>
+<p><strong>3. 黑色的空间属性</strong> 除却色彩属性，黑白灰还是美术上空间结构组成的要素。素描画体现透视感和空间感依赖的就是明暗度的对比，白色表示最亮的位置，黑色则表明最暗部。营造空间感的黑白灰能使画面主体物与背景拉开距离，形成虚实、前后的对比关系，突出视觉焦点。 <img src="https://images.xiaozhuanlan.com/photo/2018/ea6541b53c2c05858f41cbb3007e999b.png" alt="" loading="lazy"> 设计上也有不少需要注意光影的地方，比如拟物化中的阴影、电商产品的投影等等。如果弄错了，虽然表面看起来没大问题，但是容易让人觉得很不自然。关于光影的学问，我们以后再专门讲讲。</p>
+<h1 id="一点想法">一点想法</h1>
+<p>文前我们提到&quot;无彩色&quot;，这是一类往往被忽视的颜色，但是不可或缺。在设计中，黑白灰能发挥极大的作用，比如：当白色的字放在浅色背景上很不显眼，不一定就得换掉白色，可以尝试很多方法：复制文字，改为一种显眼的颜色，然后放在白色字的下方，向右下或左下或其他方向偏移一点；给文字加上较深色的投影；在文字和背景之间增加蒙版...... 在工作中我笃信一点：给我一个需求，我就能做出设计，重要的是这个需求值不值得做。当然，其中妥协是一定会有的，各方的调整也是不可避免，这都不是重点，如何拿有限的资源做出合适的&quot;产品&quot;却是每个人都可以努力的方向。思考是个好东西，记得每天带着。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[色彩第四课：色要搭配才出彩]]></title>
-        <id>https://souffleinspire.github.io/post/color-04/</id>
-        <link href="https://souffleinspire.github.io/post/color-04/">
+        <title type="html"><![CDATA[色彩第十二课：色彩解析之白色]]></title>
+        <id>https://souffleinspire.github.io/post/color-12/</id>
+        <link href="https://souffleinspire.github.io/post/color-12/">
         </link>
-        <updated>2018-10-28T13:43:04.000Z</updated>
+        <updated>2019-01-01T15:54:41.000Z</updated>
         <content type="html"><![CDATA[<h1 id="前言">前言</h1>
-<p>都说听过了很多道理，但还是过不好这一生，而很多设计师会发现，知道了很多色彩知识，但还是搭配不好颜色。其实这很正常，因为大多数中国人都是坚挺的实用主义派，骨子里缺少一些浪漫色彩，创造出来的事物其实就不那么讲究美感。不过，作为设计师，我们不仅要提高自身审美，还要承担起提升大众审美的使命，所以今天我们一起来讨论配色的问题，希望能够帮助你设计出更美的作品。</p>
-<h1 id="色轮">色轮</h1>
-<p>大家对色轮可能都不陌生，但这里还是要啰嗦几句，因为这和配色有着莫大的关系。先看一下👇这个十二色轮，简单的色轮加上我们之前讲过的 HSB，实际就包含了配色所需的基础知识。<img src="https://images.xiaozhuanlan.com/photo/2019/d84564d9905498ec6c57f23ab29febae.png" alt="" loading="lazy"><br>
-要了解色轮，就必须要知道原色、次色（间色）和三次色。</p>
-<h2 id="原色">原色</h2>
-<p>所谓“原色”，指的是美术上的三原色：R（红）、Y（黄）和B（蓝）。在十二色环中，它们位于正三角位置上：<img src="https://images.xiaozhuanlan.com/photo/2019/a71edf3aa85a6fea97f17b0cd985edfc.png" alt="" loading="lazy"></p>
-<h2 id="次色间色">次色（间色）</h2>
-<p>将三原色两两均匀混合就会得到次色，红色和黄色混合成橙色、黄色和蓝色混合成绿色、红色和蓝色混合成紫色：<img src="https://images.xiaozhuanlan.com/photo/2019/c0cfbded2f1e02cab595bcb26cc10a65.png" alt="" loading="lazy"></p>
-<h2 id="三次色">三次色</h2>
-<p>进一步将原色和次色均匀混合就会得到更多的颜色，也就是三次色，十二色环中的三次色有：红橙色、黄橙色、黄绿色、蓝绿色、蓝紫色和紫红色。<img src="https://images.xiaozhuanlan.com/photo/2019/8c82b33feda963d7d54a5688738e64e7.png" alt="" loading="lazy"></p>
-<h1 id="色彩关系中的配色技巧">色彩关系中的配色技巧</h1>
-<p>对于设计而言，非常非常重要的设计技巧就是——对比。在这里我们主要是突出色彩的对比，除了对比之外，配色还要给人和谐、舒服的感觉。但是配色的技巧如果细说，是很难讲得清楚的，所以在这里我主要聊聊色彩关系。</p>
-<h2 id="互补色">互补色</h2>
-<p>互补色是在色轮上呈180°的两种颜色，比如说黄色和紫色、红橙色和蓝绿色等。<img src="https://images.xiaozhuanlan.com/photo/2019/cf31130565e384ffb110a29ca7b1bcca.png" alt="" loading="lazy"><br>
-因为两种颜色完全相对，所以视觉上的冲击感很强烈，一般会形成冷暖对比或强烈的色相对比。如果不加入其他的对比因素，视觉冲击感就会过于强烈，看久了容易疲劳。<br>
-当然，作为设计师，我们是不能被吓到的。要把互补色搭配好，还是可以有技巧的。最常见的就是调整比例和色调。通过调整饱和度和亮度，让其中一种或两种颜色更柔和一些，从而中和色彩的反差：<img src="https://images.xiaozhuanlan.com/photo/2019/40b07e6df9f67f0299a2a9c1c3a39065.png" alt="" loading="lazy"><br>
-还可以增加不同色彩比例的对比，把一种颜色作为主色，另一种作为少量的突出色：<img src="https://images.xiaozhuanlan.com/photo/2019/6be6d2bbc1ef3be18b01ae50e8b07744.png" alt="" loading="lazy"><br>
-不仅可以是两种互补色，有时还会出现多种互补色在同一画面中，但问题就是会显得比较杂乱，因此我们可以把互补色的面积都减小，通过留白来平衡视觉的跳跃感，这样的配色很适合用在儿童类产品中，能充分展现孩子活泼、可爱的特点：<img src="https://images.xiaozhuanlan.com/photo/2019/8ef4d622aced9e394b581d5712ef2570.png" alt="" loading="lazy"><br>
-互补色能轻易地抓住眼球，所以在设计领域非常常见，下面是一些例子，大家可以看看不同领域好的设计都是如何处理互补色的冲突。<img src="https://images.xiaozhuanlan.com/photo/2019/5b620672fb765126e5c3f3c0e1e5d8fc.jpeg" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/f83c6ed7771fed60673f7adeeec56fbe.jpeg" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/35d4ef25b8b10e9cf8b1dd6a836946d2.jpeg" alt="" loading="lazy"></p>
-<h2 id="分散互补色">分散互补色</h2>
-<p>分散互补色并不取色轮上完全相对的颜色，而是取与所选颜色的互补色的相邻两种颜色搭配。比如黄色的互补色是紫色，但是我却要取蓝紫色和紫红色来搭配黄色：<img src="https://images.xiaozhuanlan.com/photo/2019/2cb9281af2cbcb5ec5d777aecad2393f.png" alt="" loading="lazy"><br>
-这种配色不会有互补色那样强烈，但也能非常丰富，是很讨喜且容易掌握的色彩关系。当然，如果只用纯色搭配也会有与上面同样的问题，所以我们也同样可以通过改变明暗和深浅度搭配：<img src="https://images.xiaozhuanlan.com/photo/2019/f7f0544f5110e00ace55ddc49056b5e0.png" alt="" loading="lazy"><br>
-分散互补色也是设计师最喜欢的配色之一，通过这种色彩关系，可以有效地突出重点。<img src="https://images.xiaozhuanlan.com/photo/2019/f933827a21fd8be31851976bad75b7da.jpeg" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/c348d5e05d7f60facba40c87ac4cac6b.jpeg" alt="" loading="lazy"></p>
-<h2 id="相近色">相近色</h2>
-<p>相近色是色轮上相邻的三种颜色，它们的色相相近，比如红橙色、橙色和黄橙色，紫色、蓝色和蓝紫色等都是很好的相近色：<img src="https://images.xiaozhuanlan.com/photo/2019/6423ebcd2bb941d4766669d2bce79e49.png" alt="" loading="lazy"><br>
-相近色本身带有一种渐变感，很容易创造层次：<img src="https://images.xiaozhuanlan.com/photo/2019/5e6fad302fa08c961720c6fb11ce552f.png" alt="" loading="lazy"><br>
-为了让层次更丰富，我们还可以给同一种色相加渐变色，创造更有情感的作品：<img src="https://images.xiaozhuanlan.com/photo/2019/fcbbd78cc830967702a014da40dd728f.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/ba2a7898d570585bd19a80a2457f052b.jpeg" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/191d199e7053d1fc9979e13bfbe6d9e7.jpeg" alt="" loading="lazy"></p>
-<h2 id="三角色">三角色</h2>
-<p>在色环上创建三角形，取三个角上的颜色。三个原色之间、三个间色之间其实都能构成三角色，当然还可以找到更多的，而且三角色并不仅限于正三角。<img src="https://images.xiaozhuanlan.com/photo/2019/d8d7d60dff5e19c530e77e470beff2f3.png" alt="" loading="lazy"><br>
-三角形是最稳固的基础形状，三角色也是一种很稳的配色方式，比较容易掌握，创造柔和的画面：<img src="https://images.xiaozhuanlan.com/photo/2019/a7e90251d502de708fbfedd88d691bea.png" alt="" loading="lazy"><br>
-三角配色还很利于高饱和度、高亮度的界面配色，只要遵循一定的比例就很出彩。<img src="https://images.xiaozhuanlan.com/photo/2019/e271a5caedbda0f8414a2b15166c3dd9.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/e88c24c8658c53c40588b69e609bf2fe.jpeg" alt="" loading="lazy"></p>
-<h2 id="四角色">四角色</h2>
-<p>四角色也分为两种，一种是在色环上取正方形四个角上色颜色（下图一），另一种是用一个长方形取色（下图二）：<img src="https://images.xiaozhuanlan.com/photo/2019/abd8724a4f4199dd001ae28f87895f0b.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/e0a898d56a209b8e5b01807ea6e78f2d.png" alt="" loading="lazy"><br>
-四角配色也是一种稳固的配色，但是因为色彩较多，所以视觉上有和谐也有冲突，需要注意比例的搭配：<img src="https://images.xiaozhuanlan.com/photo/2019/1b37fc8003725b58572d405d22a4038a.png" alt="" loading="lazy"><br>
-四角色更适合比较柔和的明色调和淡色调，可以大大降低色彩的冲突性。<img src="https://images.xiaozhuanlan.com/photo/2019/cf1fa0eb76848d049a3c7bf033f9bd78.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/7faf1e88a4b6dfc4aa635a3a9ac91dcd.jpeg" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/25a5924cdd39975af60740618007dcaa.jpeg" alt="" loading="lazy"></p>
-<h1 id="总结">总结</h1>
-<p>我们围绕着色轮讲了多种色彩关系，以及利用这些关系去创造配色，不仅可以看出不同的颜色搭配会传递出不一样的色彩情绪，还能看到色彩饱和度、亮度以及色彩的比例对配色的重要性。希望这篇文章能给设计师、插画师们带来一点配色的方向。</p>
-<p><font color=#999999>以上设计相关图片来自于网络，版权归作者所有</font></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[色彩第三课：图像与色彩模式]]></title>
-        <id>https://souffleinspire.github.io/post/color-03/</id>
-        <link href="https://souffleinspire.github.io/post/color-03/">
-        </link>
-        <updated>2018-10-24T13:38:07.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
-<p>周会，同事聊到光与色彩三原色，突然想起之前为了增（zhun）长（bei）知（mian）识（shi），特意去搜索了一下色彩模式，可是网上写得都比较零散或者模糊。于是总结下来写成了这篇你大概不知道的关于色彩模式的事儿。</p>
-<h1 id="图像与色彩模式">图像与色彩模式</h1>
-<p>既然提到色调，就不得不讲讲图像和色彩模式，了解它们的好处就是：你可以明确地知道在什么场景下应该用什么模式，以及利用这些模式带来更丰富的设计作品。</p>
-<h2 id="cmyk-模式"><strong>CMYK 模式</strong></h2>
-<p>CMY分别表示青色（cyan）、品红（magenta）和黄色（yellow），三色叠加成色。三种颜色各100% 调配会近似于黑色，但无法达到全黑，因此加入了K（black）值。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/a0fc20009113575396b0858544d38220.png" alt="" loading="lazy"><br>
-这种模式广泛地应用在印刷领域。在PS 中，点击“图像”→“模式”可选择。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/191833340d1214c698cd2fb81a1ae3bb.png" alt="" loading="lazy"></p>
-<h2 id="rgb-模式"><strong>RGB 模式</strong></h2>
-<p>由光的三原色——red（红色）、green（绿色）和blue（蓝色）组合的色彩模式，适用于电脑、手机等显示设备中。与CMYK 模式相反，RGB 模式利用的是“加色原则”成色，也就是说，当三种颜色均等调配时，会形成无色：<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/98869b62f9c6bb4b59442dcce5ab403f.jpg" alt="" loading="lazy"><br>
-在RGB模式中有256级亮度，即0~255，数值越高颜色越偏黑，数值越低颜色越偏白。</p>
-<h2 id="lab-模式"><strong>Lab 模式</strong></h2>
-<p>L为无色通道，a为red-green通道，b为yellow-blue通道。这种色彩模式既不依赖光线，也不依赖于颜料，它在理论上包括了人眼可以看见的所有色彩。Lab 模式在转换成CMYK 模式时色彩没有丢失或被替换，因此把RGB 模式图片转换成印刷用图片的最佳避免色彩损失的方法是：<em>先把RGB 模式转换成Lab 模式，再转换为CMYK模式打印输出</em>。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/cb2e847c09d3db9b57836d471d840e47.png" alt="" loading="lazy"></p>
-<h2 id="位图模式"><strong>位图模式</strong></h2>
-<p>位图模式的图像也叫作黑白图像，因为只用黑白色来表示图像的像素，因此会丢失大量细节。一般图片包含大量的色彩信息，所以PS 不能直接转换成位图模式，需先把当前图像转换成灰度模式，再把灰度模式转换成位图模式。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/79c9fc7d79edaa666f410f59be7d0834.png" alt="" loading="lazy"></p>
-<h2 id="灰度模式"><strong>灰度模式</strong></h2>
-<p>灰度色，就是指纯白、纯黑以及两者之间的过渡色。黑白照片应用的其实是灰度模式。灰度的通常表示方法是百分比，范围从0％到100％，但与RGB 模式不同，灰度模式中0% 时表示的是纯黑，100% 表示纯白。不过，虽然灰度可以显示多达 256 种灰阶，但印刷机上每种油墨只能重现约 50 种灰阶。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/2193fd7af5c63990b816904c367fe9d1.png" alt="" loading="lazy"></p>
-<h2 id="双色调模式"><strong>双色调模式</strong></h2>
-<p>双色调模式是采用2-4种彩色油墨来创建由双色调（2种颜色）、三色调（3种颜色）和四色调（4种颜色）组成图像色彩的模式。它与灰色模式相似，但是不一定是黑白灰的色调。记得曾经用华为手机的时候就自带了双色调滤镜，但是会觉得比较粗糙。双色调很有趣，曾经也是风靡一时的色彩模式，现在一些网页也还会使用这种技巧：<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/36446923d6ccce963925a6c88a295f32.png" alt="" loading="lazy"><br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/57ed9739a9cc94393fe6c21dc0af717c.png" alt="" loading="lazy"><br>
-这种色彩模式除了能在相机APP 中看见，当然我们强大的PS 也能调处来（操作方式可以问问浏览器），但是我发现了一个更快的方式。推荐给大家一个网站：https://duotone.shapefactory.co/ ，这里有默认的一些配色，你也可以点击上面的两个色盘自定义颜色，除此之外，它还支持自动导入Unsplash 的图片哦~简直不要太贴心！下面第二张图是我用该网站处理得到的双色图片，点击Download 一键下载，即可收入囊中😝。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/956e168f3ea0383140b410bbfdfb27b5.png" alt="" loading="lazy"><br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/1b323f5b86e38672e03bad10143a2b26.png" alt="" loading="lazy"></p>
-<h2 id="索引颜色模式"><strong>索引颜色模式</strong></h2>
-<p>索引颜色图像包含一个颜色表，其中包含近256种颜色。当彩色图像转换为索引颜色的图像时，Photoshop 会在256色中索引图像中包含的颜色，但如果不能用256色表现的话，PS 就会挑选一种最相近的颜色来代替，从而减小图像文件的尺寸。处理出来的照片仔细观察的话还是能看出区别的：<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/8c3f506ac31b077dd25ac400b9f86fdc.png" alt="" loading="lazy"><br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/db9a727c0a0f39d78cd4e3ef695b8843.png" alt="" loading="lazy"></p>
-<h2 id="多通道模式"><strong>多通道模式</strong></h2>
-<p>多通道模式适用于一些色彩简单且对有特殊打印要求的图像，能减小图像文件大小，但是对于复杂的色彩，会出现非常明显的失真现象：<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/e427e56311ca1593d7e2b80d3523eff5.png" alt="" loading="lazy"></p>
-<h2 id="hsb-模式"><strong>HSB 模式</strong></h2>
-<p>严格来说，HSB 不算一种图像模式，它只是根据人对色彩的感觉而衍生出来的调色模式，所以没有位列 PS 图像模式“仙班”。HSB 分别代表色相（Hue）、纯度（Saturation）和亮度（Brightness）。因为之前在《色彩第一课：自然人眼中的色彩》已经详细介绍过，这里便不多说。</p>
-<h1 id="总结">总结</h1>
-<p>最后，让我来想想了解色彩模式有什么作用？首先，色彩模式来自于对图像的分析，善用于印刷和屏幕的不同，了解这些有助于我们更清晰地在设计之初选择合适的色彩模式；其次，双色彩模式的流行可以启示我们，用好了色彩模式可能会给你的设计带来独特的“风味”，比如说为位图模式就很有复古风，可能为我们带来更多的灵感。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[色彩第二课：色调详解]]></title>
-        <id>https://souffleinspire.github.io/post/color-02/</id>
-        <link href="https://souffleinspire.github.io/post/color-02/">
-        </link>
-        <updated>2018-10-23T13:32:42.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
-<p>书接上回，上一篇我们探讨了为何高级灰会显得高级，从而代入了色彩三要素、色彩的特性，还留下一个关于色调的“关子”，所以这一篇我们就一起来看看色彩的调性带来的情绪以及它们是如何影响设计的。</p>
-<h1 id="色调">色调</h1>
-<p>颜色可分为有色彩和无色彩两种，无色彩基本指的是黑白灰，有色彩就是指各种色相的颜色。而色调，就是这两类“纠缠”在一起创造出来的更多的颜色，也就是说，如果在纯色（不混合其他颜色的色彩或色相）中掺入不同比例的黑、白、灰，就会构成不同的色调。所以色调实际上是将饱和度和明度结合起来阐述颜色的一种表现形式。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/fcbd86078abef4b7463cb70bb6ff4b2f.png" alt="" loading="lazy"><br>
-好像有点绕是吧？没关系，下面我会分别介绍8种常用的色调并用一个示例告诉你色调到底怎么回事。</p>
-<h2 id="纯色调"><strong>纯色调</strong></h2>
-<p>纯色调是一种亮度中等（B: 50~80）、饱和度高（S: 45~100）的色彩系列，几乎不掺杂黑、白或灰色。顾名思义，这种色调的颜色纯净、艳丽、醒目且充满动感，往往能表达积极、活泼、健康感的情绪，但同时也有易花哨、显庸俗的弱点，一般会与其他色调搭配使用。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/fed325d1948f2b22a55b57b6e95e4ec4.png" alt="" loading="lazy"><br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/ecfcb4e55ec6a53f42a95fdd3981363d.png" alt="" loading="lazy"></p>
-<h2 id="明色调"><strong>明色调</strong></h2>
-<p>明色调由纯色加入较少量的白色得到，明色调色彩的明度较高（B: 50~100）、饱和度中等（S: 30~80），显得干净、简洁、有清爽感，易引起用户好感，但视觉效果不突出，有时也易显廉价、平庸感，画面容易不稳定，显得轻飘飘的。为了达到平衡，最好与一些暗色搭配。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/1c8a74f5770b4537c5c4d034e3363e83.png" alt="" loading="lazy"><br>
-明色调在插画中大量运用，柔和又比较清新，不刺眼，容易渲染氛围。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/a7848dc1cf89a8f01148fbb6512470a8.png" alt="" loading="lazy"><br>
-产品设计中也往往偏好于明色调，凸显干净、品质感。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/32439b5857f22ebd5fc93de3f7ec868f.png" alt="" loading="lazy"></p>
-<h3 id="淡色调"><strong>淡色调</strong></h3>
-<p>淡色调在纯色中加入的白色更多，所以色彩明度更高（B: 85<sub>100），但色彩也被相应稀释了，故饱和度低，S值一般在30以下，主要是10</sub>20。淡色调更能显示纯洁、温油 感，但单个色彩缺乏个性和积极性，甚至有一些冷淡感。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/88073d399f56bcc6a7e68a6d61ba45fd.png" alt="" loading="lazy"><br>
-淡色调色彩作为主色时容易不稳定，所以应与互补色或深色搭配。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/ec048c721cee1cbc2cc0044687e745d7.png" alt="" loading="lazy"></p>
-<h2 id="白色调"><strong>白色调</strong></h2>
-<p>亮度高于95，饱和度小于5 的颜色都可以算做白色调，所以白色调的色彩也可能是带有一些颜色偏向的。这种色调朴素、干净，有种文艺感，适合文艺气息浓厚的设计、极简风格等，在低调中透露一些高级感。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/45ccec3ccb63c39e698a1a20f3f606d3.png" alt="" loading="lazy"><br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/accc77fed43ed9b2755b21b536dff974.png" alt="" loading="lazy"><br>
-近年来，化妆品行业很喜欢用白色调凸显清洁、轻薄的感觉。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/ffd22bc42bcce9f5e96005c80bf3379f.jpeg" alt="" loading="lazy"></p>
-<h3 id="淡浊色调"><strong>淡浊色调</strong></h3>
-<p>淡浊色调介于淡色调和浊色调之间，由浅灰色+纯色或少量黑色+淡色形成。属于饱和度低（5<sub>25）、明度较高（65</sub>80）的色调。淡浊色调有种优雅、成熟但不乏稳重的感觉，是能凸显品味的色调。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/f8ab9a57bbe0fe073cb324b4fc4e4c39.png" alt="" loading="lazy"><br>
-很多轻熟风的服装大致就是这样的色调，比如卡其色、烟灰色，贴一张我女神的照片。但是该色调也包含一点消极感，可用一些亮色来平衡。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/da7392c2a2c4f5274dbe7c6e7b8d8c9a.png" alt="" loading="lazy"><br>
-需要透露一些历史感或者文化感的设计，也可以用淡浊色调。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/0f365cf08a244e79d7379c525b8b67b0.png" alt="" loading="lazy"></p>
-<h2 id="浊色调"><strong>浊色调</strong></h2>
-<p>浊色调是一种中等亮度（30<sub>60）、偏低饱和度（20</sub>60）的色调。理论上是由灰色+纯色构成，实际上也可用明色调+黑色得到。该色调的色彩有些浑浊，但给人稳重、沉着的感受，比较柔和又不显得沉闷。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/053e24174b9119007554244aceff392c.png" alt="" loading="lazy"><br>
-浊色调的这种品质感适合高端、文化、复古、奢华主题。不过这种色彩过于内敛，不适合开放、亲切的风格。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/c8bd32bc61255584ff7d18eec7aae9e2.png" alt="" loading="lazy"></p>
-<h2 id="暗色调"><strong>暗色调</strong></h2>
-<p>暗色调是在纯色上叠加较多黑色得到，因此兼具了黑色的神秘感和纯色的力量感，饱和度中等（30<sub>70），亮度低（20</sub>40），比较有男性偏向，带有理性、成熟、威武、严肃甚至恐怖的感觉。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/3bc55031988945acb85c2b127a6dd338.png" alt="" loading="lazy"><br>
-暗色调更适合于与男性、电子、科技相关性更强的领域，适合高端、商务等主题。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/2299c4554bfe9de9d7da696e7ef7301e.png" alt="" loading="lazy"></p>
-<h2 id="黑色调"><strong>黑色调</strong></h2>
-<p>黑色调饱和度和亮度都很低，B 值和S 值大概都在0~20之间的可称作黑色调。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/6cac38cfbc3ee1443ff34c5c30e050b8.png" alt="" loading="lazy"><br>
-这些深灰或黑色充满着力量感、神秘感和厚重感，是一种绝佳的调和色，一般用于与高端、奢华、商务、科技有关的使用场景中。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/f4541ff5756420ab4da2c224346b1be7.png" alt="" loading="lazy"><br>
-把黑色调作为背景，即使加上五彩斑斓的图形，也不会显得辣眼睛。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/12b1bbe484a247c8d947e1f52ee20bd7.png" alt="" loading="lazy"></p>
-<h2 id="灰色"><strong>灰色</strong></h2>
-<p>除了以上8种色调，还有一种特殊的无色彩——灰色。灰色的范围非常广，亮度值可以在20~95之间，不同的亮度带来的色彩情绪是不一样的。亮度较高的灰色更有高贵、安静、性冷淡的感觉，而亮度低的灰色则有严肃、深沉的感觉。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/cb50ed41577fb84fc2551af5150d5bb6.png" alt="" loading="lazy"></p>
-<h1 id="色调实例解读">色调实例解读</h1>
-<p>知道基础色调后，我们来试试不同色调对设计的整体风格的影响。这里借用一张很好看也很火的海报作为示例，原图如下：<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/4a6605f588462f7cb04aea83316dfe54.png" alt="" loading="lazy"><br>
-我们从配色中可以看出，现在的配色是一种淡浊色调，饱和度和明度都比较低，色相感淡薄，带有几分暗沉，给人含蓄、稳重的感觉，视觉感柔和。<br>
-如果换成明色调👇，就显得鲜明、艳丽，比原图要活泼、欢快一些，视觉上要刺眼一点。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/84671c14fc28a2a3da935dc5061a4291.png" alt="" loading="lazy"><br>
-换成更浅的淡色调，单纯从色调上看显得很轻盈、明快了许多。不过不适合这张海报的主题，缺少了沉重感，更像是青年之间的青涩感情。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/ca335c51f0367fa9a93f1c909ac21619.png" alt="" loading="lazy"><br>
-浊色调（右图）比原图亮度更低，饱和度更高，画面也显得更沉稳。这种色调带有一些复古风，更适合带有年代感的主题。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/b887cc978d59f7f601fce22a49163175.png" alt="" loading="lazy"><br>
-再往深色一点的暗色调就会呈现出一种严肃、正经的氛围，但在这里有些恐怖、阴森感。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/dc66d0212d25bc3164c437dfc82a4155.png" alt="" loading="lazy"><br>
-把图片转换成灰色，会有一些文艺感，但是也会显得很冷淡，难以激起人们的兴趣，不太适合于宣传物。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/725b6cff60bf262f8187811c080fbb31.png" alt="" loading="lazy"></p>
-<h1 id="总结">总结</h1>
-<p>此篇文章详细地介绍了8种主要色调，并运用实例来体验色调给人带来的不同感受。作为设计师，在设计作品的时候非常需要注意根据主题、内容和风格来选择色调，并且能够保持作品内色调的基本统一。<br>
-同一色调的颜色，即使色相不同，给人带来的印象也比较和谐。所以，如果你对色彩把控不好的话，可以试试先找到一种颜色，再保持饱和度和明度不变，只改变色相来创造其他搭配色。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[色彩第一课：自然人眼中的色彩]]></title>
-        <id>https://souffleinspire.github.io/post/color-01/</id>
-        <link href="https://souffleinspire.github.io/post/color-01/">
-        </link>
-        <updated>2018-10-14T13:22:26.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
-<p>一个擅（tian）于（ma）思（xing）考（kong）的同事最近在看一本关于色彩的书，然后向我们发问：为什么高级灰会让人觉得高级呢？当时我说了一通色彩的专业分析balabala，最终却发现他想知道的是为什么人类会在感性上觉得它高级呢？于是我开始意识到尽管设计师和色彩师们写出了无数关于如何使用色彩的文章和书籍，但却鲜有人去解释为什么。这篇文章里是我对该问题的猜想以及一些色彩干货。</p>
-<h1 id="自然造就人类审美">自然造就人类审美</h1>
-<p>我们的地球大概有46亿-50亿岁，而人类从开始有组织的制造工具不过8万年左右。也就是说，非自然物质的出现只有几万年，所有的生物都长期处于纯自然环境中。天空、树叶、花朵、鸟儿、夕阳等等对于人类都是极其自然的，所以我们的大脑更愿意去欣赏这些东西，我们的视网膜更喜欢自然系的颜色。简言之，这是进化带来的结果。</p>
-<p>对于自然色彩的感知造就了现在的色彩心理学，比如说蓝色很难引起人的食欲是因为自然界极少有能吃的蓝色食物，再比如橙红色能让人觉得充满活力可能是因为日出带来的积极感。<img src="https://images.xiaozhuanlan.com/photo/2018/6dee6da051ddb6a3b25e7318497258af.png" alt="" loading="lazy"><br>
-那什么是自然系颜色呢？自然界往往能赋予设计师无限的灵感，有一种很常见的配色方式是从拍摄的自然景物的图片中直接选取几种主要的色彩，比如说这样的：<img src="https://images.xiaozhuanlan.com/photo/2018/af545634b6bdad5fd9b2a93e52b7362e.png" alt="" loading="lazy"><br>
-事实上，iPhone 系APP 取色也多数来源于自然界赋予的灵感：<img src="https://images.xiaozhuanlan.com/photo/2018/f190e62d43b658db2c42b3ec397b168d.png" alt="" loading="lazy"><br>
-自己试试用一款名叫 <em>ColorViewfinder</em> 的APP 把手机里图片的色彩pick 出来，就会发现尽管颜色各不相同，但它们都非常柔和舒服，几乎没有特别亮丽晃眼的。</p>
-<h1 id="色彩三要素">色彩三要素</h1>
-<p>既然讲到了明丽与柔和，那么就必须提到色彩的三要素：色相、纯度和明度，也就是设计师们非常熟悉的HSB。</p>
-<h2 id="色相hue"><strong>色相（Hue）</strong></h2>
-<p>色相指的就是我们平时说的颜色。比如说我们说下面这个banner 主要是“红色”的，其实就是说的色相，它也是区分色彩的主要依据。<img src="https://images.xiaozhuanlan.com/photo/2018/cb81c5c91384e8df088086e397599da3.jpg" alt="" loading="lazy"><br>
-红橙黄绿青蓝紫就是最基础的标准色相：<img src="https://images.xiaozhuanlan.com/photo/2018/9972a231b46c761d14a3b2c52171595e.png" alt="" loading="lazy"></p>
-<h2 id="纯度saturation"><strong>纯度（Saturation）</strong></h2>
-<p>纯度也叫色度、饱和度，指色彩中含有标准色成分的多少。纯度高的颜色不掺杂其他颜色，而纯度低的颜色则加入了较多的黑色、灰色或者白色。下图表示在HSB 模式下，纯度数值越大，颜色越“正”；数值越小，颜色越灰。<img src="https://images.xiaozhuanlan.com/photo/2018/d9221fe8e79e2ce2deef36fe05a59050.png" alt="" loading="lazy"><br>
-下面这一组图是保持色相和明度不变，只改变纯度得到的结果：<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/0385ef9a491f8c26bddb5ccf2306f9b0.png" alt="" loading="lazy"></p>
-<h2 id="明度brightness"><strong>明度（Brightness）</strong></h2>
-<p>色彩明度指的就是明暗变化。明度数值越大，颜色越亮；数值越小，颜色越暗。<img src="https://images.xiaozhuanlan.com/photo/2018/406eabf4246f161194f3c04ebe908844.png" alt="" loading="lazy"><br>
-不同的色相存在的明度差别也很大，六标准色中黄最亮最浅，紫最暗最深，橙和绿、红和蓝则处于相近的明度。<img src="https://images.xiaozhuanlan.com/photo/2018/c3c04cad0bf15833f59526cfccae3bfc.png" alt="" loading="lazy"></p>
-<h1 id="高级感颜色">高级感颜色</h1>
-<p>看看下面的图片，左边的模特穿了一件骚绿骚绿的衬衣，看起来像是便宜的地摊货，而右边穿上降低了纯度的衣服的男模则秒变高级~ 所以说，即使色彩的明度比较高，但是纯度较低的话，颜色会更显高档。<img src="https://images.xiaozhuanlan.com/photo/2018/1813cc9f70e8375eadc6c3b7f7fb1ea2.jpg" alt="" loading="lazy"><br>
-同时你也会发现，自然界中像这种明度和纯度都很高的颜色是极少极少的，人类对颜色的选择与“上帝”对自然的选择如出一辙，我们都更倾向于纯度较低、明度也不是很高的色彩，这些颜色唤醒了人类作为自然人的偏好。这也就解释了高级灰为何高级，即使作为无色系，灰色也有深浅的区别，高级灰就是通过调和使纯度偏低的一个色系。<img src="https://images.xiaozhuanlan.com/photo/2018/566170441a91fb62c0e1b551c3bb0bc7.jpg" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2018/fba6c4a19b29ae8fe704164ff13834e7.jpg" alt="" loading="lazy"></p>
-<h1 id="色彩特性">色彩特性</h1>
-<p>色相、纯度和明度不同都会大大改变颜色给我们带来的心理感受，因而会有不同的色彩特性，我们常说的色彩特性有冷暖感、轻重感、进退性和色调。</p>
-<h2 id="冷色和暖色"><strong>冷色和暖色</strong></h2>
-<p>色彩心理学上认为红、橙、黄可以让人联想到阳光、火焰等，能提高血压以及心跳次数、刺激自律神经系统、增强食欲，因此把它们称为暖色调。而青、蓝色与寒冷、夜晚联系，让人觉得静谧、消极等，故名为冷色调。还有一部分色彩能使人产生轻松的情绪，叫做中性色调，包括紫、绿、黑、灰、白。<img src="https://images.xiaozhuanlan.com/photo/2018/6ab9bc9aa1329d0b746be3e58496d4f0.png" alt="" loading="lazy"><br>
-暖色系的纯度越高，给人带来的温暖感就越强；冷色系的纯度越低，冷的感觉越强。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/faebe057994fe258d8b97ddbb3e396a5.png" alt="" loading="lazy"></p>
-<h2 id="轻重感"><strong>轻重感</strong></h2>
-<p>不同的纯度会给我们带来不同的质感，纯度比较高的颜色会显得画面更重，因此更适合氛围浓厚的情况，而纯度低的颜色会显得更轻盈。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/0ea59202197bed89e902d0bf6f02fcc5.png" alt="" loading="lazy"></p>
-<h2 id="前进与后退"><strong>前进与后退</strong></h2>
-<p>影响色彩的进退性与多种因素有关，一般来说遵循以下的规律：</p>
-<ul>
-<li>暖色比冷色的前进性更强。同一画面中同时存在冷色和暖色，那么暖色一般是起到点睛作用的。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/1407dff2179d91bc366f0f3d14423acb.png" alt="" loading="lazy"></li>
-<li>色相相同或相近的颜色，亮度和饱和度高者前进性更强。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/a3f581447ce1c631a9547137946e9ba4.jpg" alt="" loading="lazy"></li>
-<li>在黑白灰背景下，即使是冷色也更具有前进性。<br>
-<img src="https://images.xiaozhuanlan.com/photo/2018/5f353c71714fb008f7563c948b63908b.png" alt="" loading="lazy"></li>
-</ul>
-<h2 id="色调"><strong>色调</strong></h2>
-<p>如果我们把纯色（纯度为100%的颜色）到黑色或白色之间用色调区分的话，大致可以划分为明色调、浊色调和暗色调，划分依据就是纯度的高低，即掺入白色、灰色或黑色的多少。关于色调，一时半会儿无法说完全，先卖个关子，在后面的文章中再来详细说一说。</p>
-<h1 id="总结">总结</h1>
-<p>关于高级灰为何高级的问题，我的猜想是源于人类对自然环境的适应，而使人类在面对不同色彩使会产生不一样的心理感受，自然界中的颜色往往亮度和纯度都不会很高，因此这样的色彩更符合我们的选择。要使用好色彩，我们就必须要知道色彩的三要素，并且了解它们各自会带来怎样的色彩特性。</p>
+<p>2019年了，大家新年快乐啦~~19年第一天，在家颓废...立了不少 flag，但是还没写 plan🤣。南方又遇了近几年难得的大雪纷飞，然而身在北京的我还在萧索的冷风中瑟瑟发抖。想起前段时间看到被收容在加拿大的非洲难民孩子在初雪下欢呼雀跃的视频，感觉好像不管是没见过雪的还是经常看见雪的，对它都有一种特殊的情怀，或许这种情怀并不来自于那些雪花，而是在于白色带给我们的浪漫而纯净的感受吧。我在期待着2019年的第一场雪，也为大家带来这一篇关于白色的文章。</p>
+<h1 id="白色的特性">白色的特性</h1>
+<p>光谱中，所有可见光混合便是白光。光的三原色：蓝色、红色和绿色，按一定比例混合也能得到白光。白光是全色光，代表着光明，但白色通常被认为是无色的。在绘画中，白色无法被调出来，只有白色颜料能描绘白色。</p>
+<p><strong>贵气&amp;干净</strong> 白色是明亮、干净、朴素的，它没有强烈的个性，但会让人觉得清洁、雅致，所以酒店会大量使用白色，主打清洁的护肤品也越来越多使用白色包装，白色的建筑物令人觉得干净圣洁。 <img src="https://images.xiaozhuanlan.com/photo/2018/7454f6df0661b91ddde9789cd4fa3c2f.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/79081caccc707c2127affe74bfd56fdc.jpg" alt="" loading="lazy"> 在西方国家中，白色还常常和贵气、财富扯上关系，几乎成为古代贵族的专用色。即使到了现在，英国伊丽莎白女王、凯特王妃，西班牙王后 Letizia 等在重要场合都是身着白色。而原因嘛......一个字：白色容易脏。（just kidding）其实这一点大家应该都深有体会，在没有漂白物、洗衣纯靠手搓的时代，白色衣物绝不是尽沾&quot;人间烟火&quot;的普通人消费得起的。 <img src="https://images.xiaozhuanlan.com/photo/2018/7471d3bae5964440626652d2e53e9f2e.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/6017604daabb3bd9d94287d15bc42e53.png" alt="" loading="lazy"> 世界上最古老的大满贯赛事----温布尔登网球公开赛（温网）秉承传统，为了体现对王室的尊重，球手必须保持整洁，一律要求穿全白，甚至严（bian）格（tai）到内衣内裤也得是白的。去年青少年男双现场，中国选手吴易昺和搭档皮洛斯，就因为内裤颜色不合格，当场被裁判要求换掉... <img src="https://images.xiaozhuanlan.com/photo/2018/62774f7c0e031030b723002d6f3517b0.png" alt="" loading="lazy"></p>
+<p><strong>More space</strong> 我们都知道，素描中用黑白灰来表达光影的变化，从而呈现出空间感，其中白色是高光部分，有凸起效果，所以白色起到在视觉上扩充空间的作用。房间装修成白色，并不只是营造干净整洁的感觉，还能让空间显得稍大一点。 <img src="https://images.xiaozhuanlan.com/photo/2018/c4f9e8b55c6ea2ba3b1a257e9ac805fe.jpg" alt="" loading="lazy"></p>
+<p><strong>留白</strong> 适当的留白是被推崇的艺术表现形式。生活中，一物一景里，素白随处可见；设计里，一屏一幕间，白色不可或缺。白色的角色是多变的，它可以是大多数设计中的背景色，可以是浓重背景下的点睛色，可以是调色过程里的调和色，可以是极简主义中的主题色... <img src="https://images.xiaozhuanlan.com/photo/2018/f03ea3a0c6acdfbba518765b8eaf97a4.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/03b38ed8733f2833334630c33ac3a793.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/1f1fdfa79d8dacee6612ff9e731ea3de.jpg" alt="" loading="lazy"> 不过，极简不一定是白色的，确切地说，极简风格不依赖于任意特定的颜色。同样，&quot;留白&quot;也不代表留的就是白色。 <img src="https://images.xiaozhuanlan.com/photo/2018/daed3c6ec8b245d5ce2c5edfe60071a8.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/f0d0b4fc1725760e015540b1ea24155d.png" alt="" loading="lazy"> <strong>贞洁 &amp; 宽容</strong> 在西方人们心中，白色绝大多数情况下是真诚、贞洁的代表。牧师穿的是白色的袍子，象征着光和神性；刚收到洗礼的基督徒身着白衣，表明他们获得重生的纯洁；受到宗教的影响以及英国维多利亚女王的&quot;带货&quot;，白色婚纱成为婚礼礼服的标志。 <img src="https://images.xiaozhuanlan.com/photo/2018/886e9d64d7eeb9e6d5bda97e8b35fdc5.png" alt="" loading="lazy"> 白色还象征着宽恕，在《以赛亚书》一书中，主说：&quot;你们的罪虽像朱红，必变成雪白；虽红如丹颜，必白如羊毛。&quot; <img src="https://images.xiaozhuanlan.com/photo/2018/e36750d289aef7927af8ebab280d3008.png" alt="" loading="lazy"></p>
+<p><strong>丧色</strong> 与西方相反，在东方，白色才是丧色。在中国古代的五方说（与之前讲的五德是对应的）里，东方青，西方白，南方赤，北方黑，中央黄。古代常常在秋季征伐不义、处死犯人，这就是影视剧中的&quot;秋后问斩&quot;，而西方是刑天杀神，主肃杀之秋，所以白色是枯竭、无生命的表现，象征死亡、凶兆。专制社会中执政者迫害政治异见人士而导致的社会不安氛围也称为&quot;白色恐怖&quot;。 <img src="https://images.xiaozhuanlan.com/photo/2018/986d9de91cd1b8564e7a363d7172b24f.png" alt="" loading="lazy"></p>
+<p><strong>白色的消极意义</strong> 白色是一种经过强化了的&quot;无色彩&quot;，苍白是缺乏力量、虚弱的，又因受到政治功能的影响，故而象征着保守、腐朽、反动、落后，比如说&quot;白专&quot;比喻那种只知道埋头钻研业务不重视政治学习的人，在那个时代，与&quot;红色&quot;对应。 <img src="https://images.xiaozhuanlan.com/photo/2018/7219bd337e41497223b8ff46da7c7207.png" alt="" loading="lazy"> 白色的消极意义中还包括失败、愚蠢、知识浅薄、无利可得，比如：古代将没有知识的平民百姓称为&quot;白丁&quot;、&quot;白衣&quot;；在战争或争斗中失败的一方总是用&quot;白旗&quot;表示投降；称智力低下的人为&quot;白痴&quot;等等。 <img src="https://images.xiaozhuanlan.com/photo/2018/8cce32c23afbdceabd3fda1d53680b1f.png" alt="" loading="lazy"> 白色还能象征奸邪、阴险，京剧中的&quot;白脸&quot;分为&quot;粉（水）白脸&quot;和&quot;油白脸&quot;，粉（水）白脸表示阴险奸诈、善用心计，如曹操、严嵩、赵高；油白脸一般指刚愎自用的武夫，如马稷、高登。</p>
+<p><strong>白色与天祝藏族</strong> 天祝藏族人民最喜爱白色，因为天祝草原四周雪山环绕，地上的羊群、牦牛，喝的羊奶、戴的毡毛等都是白色。藏区人民将白色视为吉祥、昌盛、胜利的颜色。关于此，还有一个传说。</p>
+<blockquote>
+<p>传很久以前，藏区里的一个部落，在一次战斗中被对手围困。对方首领限必须在天亮前投降，否则就要杀光所有人。在天将亮时，从对手背后杀来一支骑白马、穿白衣、戴白帽、手持银剑的人马，杀得对手丢盔弃甲、四处逃散。原来这支人马是两天前被派出打猎的26个男女健儿，他们为了不让对手发现，就穿戴上与冰山雪地一样颜色的白色服饰。从此，白色成了这个部落崇拜的颜色，而天祝藏族便是这个部落的后裔。 <img src="https://images.xiaozhuanlan.com/photo/2018/80b17de48989504d57a0c562cb5cbeca.png" alt="" loading="lazy"></p>
+</blockquote>
+<h1 id="白色的搭配">白色的搭配</h1>
+<p>白色应该是我们司空见惯的颜色了，因为白色有极大的包容度，是公认的百搭色。而且，白色是最亮的色彩，在任何设计中，只需加入少许的白色便能点亮整个画面。在浓重的色彩间，比如暗红色、蓝色、紫色等，白色能凸显重点，形成鲜明的对比效果。将白色作为背景色，比较容易显得干净整洁，就搭配而言，也没有太多好说的，那我还是来说说白色的&quot;同色系&quot;吧。</p>
+<p>尽管白色出现的场景无计其数，但这个色彩对于 产品 设计来说不太好驾驭。先看看下面这张图片，是不是觉得被子、墙壁、花盆都是白色的？那它们之间有没有色差呢？ <img src="https://images.xiaozhuanlan.com/photo/2018/4ba7855b0c2a99dcc3f8af5d08d778a5.png" alt="" loading="lazy"> 与其他色彩相同，白色不单单是指色值为 #FFFFFF 的这一个颜色，它是一个包括纯白、古董白、乳白色、亚麻白、米白色、纸色、雪白、珍珠白以及象牙白等各种白的色域，潘通色卡中的白色就有这么多： <img src="https://images.xiaozhuanlan.com/photo/2018/55e16b0e4430fa9711a8eed4681f976f.png" alt="" loading="lazy"> &quot;白色&quot;种类繁多，而且极易被&quot;玷污&quot;，在将白色实现成产品的过程中，极易出现各种问题造成色差，比如：生产厂商与设计方对白色的理解不够精确统一、生产工艺中环境不够洁净、涂漆不够均匀等。</p>
+<p>屏幕与印刷色彩系统的不同会带来两种设计思维的不同，产品设计会更关注色值和色彩的还原度，而 UI 设计已经基本能保证对色彩的精准掌控，所以反而容易忽视色彩上细微的差别带来的不同效果。 <img src="https://images.xiaozhuanlan.com/photo/2018/4670b84ae0f947190041d7cb67e60947.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/de603a9bedb5fd2e8d3da8ee3e6b96ba.png" alt="" loading="lazy"></p>
+<p>一般来说，混入少量其他色彩的白色都会比纯白色显得更温和或者不那么僵硬。比如：在白色中混入少量的红，就成为淡粉色，鲜嫩而充满诱惑。如果与纯白色一同使用，质感轻盈，属于比较清新的少女色。 <img src="https://images.xiaozhuanlan.com/photo/2018/84034d779333856c84b1fcf65655e637.png" alt="" loading="lazy"> 在白色中混入黄色，会成为一种米白色，因为更接近实际上书扉和布料的颜色，所以会比纯白更显文艺和朴素，这种颜色与深色和浅色搭配都很容易，画面简单一些更好。 <img src="https://images.xiaozhuanlan.com/photo/2018/deea4e380933e087f5f5c2f219952148.png" alt="" loading="lazy"> 混入蓝色的白色，清新中透露一些安静的感觉，比粉色更柔和。明度再稍稍低一点，则会更文艺、安宁，当然，这对于其他颜色效果也是类似的。 <img src="https://images.xiaozhuanlan.com/photo/2018/0637a528c105128d9b8e9944485bb9c3.png" alt="" loading="lazy"> 白色掺杂紫色，更诱导人联想到淡淡的芳香（可能是被《丁香花》洗脑），感觉更加清冷、洁净，同样适合在纯白中显示差异。 <img src="https://images.xiaozhuanlan.com/photo/2018/a8f91ca964a46cc0c8e2c41ba19b2f22.png" alt="" loading="lazy"> 白色加橙色，稍显干燥，看起来有点像发黄的纸。如果画面想要显得干净，还是绕道而行吧。 <img src="https://images.xiaozhuanlan.com/photo/2018/f16534646f2b314722cf2f5e044fd0d4.png" alt="" loading="lazy"></p>
+<h1 id="一点想法">一点想法</h1>
+<p>2019年的第一篇文章，在最后说说关于设计的事吧。 设计呢，不同于美术，没有什么美术功底的人（比如本人）也可以做。虽然门槛不高，但我从未将它仅仅看成一份职业，投身设计界是兴趣使然，却不曾想设计会给我带来如此的变化。在学设计以前，我是一个非常粗枝大叶的人，经常犯迷糊，还总以&quot;不拘小节&quot;来伪装自己。而现在的自己被&quot;磨炼&quot;得越来越细致，习惯性地对周围的一切保持关注，有了&quot;强迫症&quot;，更喜欢去探索这个世界的规律。可以说，通过设计，自己思考的维度有了很大的不同。 不论你只是想学习设计以解决生活中遇到的基本设计问题，还是真心想投入这个行业，其实最最重要的不是去学软件、学绘图、学技巧，而是学习这门知识的思维方式。罗振宇在跨年演讲中讲的多元思维模型大抵也是想传达这个意思，通过不同的视角，让很多种认识世界的模型在自己的脑子里并存。 希望你记住现在的自己，待回首，愿不负韶光。</p>
 ]]></content>
     </entry>
 </feed>
