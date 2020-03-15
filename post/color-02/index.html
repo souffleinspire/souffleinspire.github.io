@@ -1,0 +1,223 @@
+<html>
+<head>
+    <meta charset="utf-8"/>
+<meta name="description" content=""/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>色彩第二课：色调详解 | 港姐 Souffle</title>
+<link rel="shortcut icon" href="https://souffleinspire.github.io/favicon.ico?v=1584238405149">
+<link href="https://cdn.bootcss.com/font-awesome/5.11.2/css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="https://souffleinspire.github.io/styles/main.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/highlight.min.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/dockerfile.min.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/dart.min.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/go.min.js"></script>
+<script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+
+<!-- DEMO JS -->
+<script src="media/scripts/index.js"></script>
+
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+</head>
+<body>
+<div class="main gt-bg-theme-color-first">
+    <nav class="navbar navbar-expand-lg">
+    <div class="navbar-brand">
+        <img class="user-avatar" src="/images/avatar.png" alt="头像">
+        <div class="site-name gt-c-content-color-first">
+            港姐 Souffle
+        </div>
+    </div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <i class="fas fa-bars gt-c-content-color-first" style="font-size: 18px"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="navbar-nav mr-auto" style="text-align: center">
+            
+                <div class="nav-item">
+                    
+                        <a href="/" class="menu gt-a-link">
+                            Home
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="/archives" class="menu gt-a-link">
+                            UX
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="/tags" class="menu gt-a-link">
+                            UI
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="/post/about" class="menu gt-a-link">
+                            Me
+                        </a>
+                    
+                </div>
+            
+        </div>
+    </div>
+</nav>
+    <div class="post-container">
+        <div class="post-detail gt-bg-theme-color-second">
+            <article class="gt-post-content">
+                <h2 class="post-title">
+                    色彩第二课：色调详解
+                </h2>
+                <div class="post-info">
+                    <time class="post-time gt-c-content-color-first">
+                        · 2018-10-23 ·
+                    </time>
+                    
+                        <a href="https://souffleinspire.github.io/tag/E0Tu2Vs7k/" class="post-tags">
+                            # 配色
+                        </a>
+                    
+                        <a href="https://souffleinspire.github.io/tag/WK_8M1c91/" class="post-tags">
+                            # 设计
+                        </a>
+                    
+                </div>
+                <div class="post-content">
+                    <h1 id="前言">前言</h1>
+<p>书接上回，上一篇我们探讨了为何高级灰会显得高级，从而代入了色彩三要素、色彩的特性，还留下一个关于色调的“关子”，所以这一篇我们就一起来看看色彩的调性带来的情绪以及它们是如何影响设计的。</p>
+<h1 id="色调">色调</h1>
+<p>颜色可分为有色彩和无色彩两种，无色彩基本指的是黑白灰，有色彩就是指各种色相的颜色。而色调，就是这两类“纠缠”在一起创造出来的更多的颜色，也就是说，如果在纯色（不混合其他颜色的色彩或色相）中掺入不同比例的黑、白、灰，就会构成不同的色调。所以色调实际上是将饱和度和明度结合起来阐述颜色的一种表现形式。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/fcbd86078abef4b7463cb70bb6ff4b2f.png" alt="" loading="lazy"><br>
+好像有点绕是吧？没关系，下面我会分别介绍8种常用的色调并用一个示例告诉你色调到底怎么回事。</p>
+<h2 id="纯色调"><strong>纯色调</strong></h2>
+<p>纯色调是一种亮度中等（B: 50~80）、饱和度高（S: 45~100）的色彩系列，几乎不掺杂黑、白或灰色。顾名思义，这种色调的颜色纯净、艳丽、醒目且充满动感，往往能表达积极、活泼、健康感的情绪，但同时也有易花哨、显庸俗的弱点，一般会与其他色调搭配使用。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/fed325d1948f2b22a55b57b6e95e4ec4.png" alt="" loading="lazy"><br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/ecfcb4e55ec6a53f42a95fdd3981363d.png" alt="" loading="lazy"></p>
+<h2 id="明色调"><strong>明色调</strong></h2>
+<p>明色调由纯色加入较少量的白色得到，明色调色彩的明度较高（B: 50~100）、饱和度中等（S: 30~80），显得干净、简洁、有清爽感，易引起用户好感，但视觉效果不突出，有时也易显廉价、平庸感，画面容易不稳定，显得轻飘飘的。为了达到平衡，最好与一些暗色搭配。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/1c8a74f5770b4537c5c4d034e3363e83.png" alt="" loading="lazy"><br>
+明色调在插画中大量运用，柔和又比较清新，不刺眼，容易渲染氛围。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/a7848dc1cf89a8f01148fbb6512470a8.png" alt="" loading="lazy"><br>
+产品设计中也往往偏好于明色调，凸显干净、品质感。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/32439b5857f22ebd5fc93de3f7ec868f.png" alt="" loading="lazy"></p>
+<h3 id="淡色调"><strong>淡色调</strong></h3>
+<p>淡色调在纯色中加入的白色更多，所以色彩明度更高（B: 85<sub>100），但色彩也被相应稀释了，故饱和度低，S值一般在30以下，主要是10</sub>20。淡色调更能显示纯洁、温油 感，但单个色彩缺乏个性和积极性，甚至有一些冷淡感。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/88073d399f56bcc6a7e68a6d61ba45fd.png" alt="" loading="lazy"><br>
+淡色调色彩作为主色时容易不稳定，所以应与互补色或深色搭配。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/ec048c721cee1cbc2cc0044687e745d7.png" alt="" loading="lazy"></p>
+<h2 id="白色调"><strong>白色调</strong></h2>
+<p>亮度高于95，饱和度小于5 的颜色都可以算做白色调，所以白色调的色彩也可能是带有一些颜色偏向的。这种色调朴素、干净，有种文艺感，适合文艺气息浓厚的设计、极简风格等，在低调中透露一些高级感。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/45ccec3ccb63c39e698a1a20f3f606d3.png" alt="" loading="lazy"><br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/accc77fed43ed9b2755b21b536dff974.png" alt="" loading="lazy"><br>
+近年来，化妆品行业很喜欢用白色调凸显清洁、轻薄的感觉。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/ffd22bc42bcce9f5e96005c80bf3379f.jpeg" alt="" loading="lazy"></p>
+<h3 id="淡浊色调"><strong>淡浊色调</strong></h3>
+<p>淡浊色调介于淡色调和浊色调之间，由浅灰色+纯色或少量黑色+淡色形成。属于饱和度低（5<sub>25）、明度较高（65</sub>80）的色调。淡浊色调有种优雅、成熟但不乏稳重的感觉，是能凸显品味的色调。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/f8ab9a57bbe0fe073cb324b4fc4e4c39.png" alt="" loading="lazy"><br>
+很多轻熟风的服装大致就是这样的色调，比如卡其色、烟灰色，贴一张我女神的照片。但是该色调也包含一点消极感，可用一些亮色来平衡。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/da7392c2a2c4f5274dbe7c6e7b8d8c9a.png" alt="" loading="lazy"><br>
+需要透露一些历史感或者文化感的设计，也可以用淡浊色调。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/0f365cf08a244e79d7379c525b8b67b0.png" alt="" loading="lazy"></p>
+<h2 id="浊色调"><strong>浊色调</strong></h2>
+<p>浊色调是一种中等亮度（30<sub>60）、偏低饱和度（20</sub>60）的色调。理论上是由灰色+纯色构成，实际上也可用明色调+黑色得到。该色调的色彩有些浑浊，但给人稳重、沉着的感受，比较柔和又不显得沉闷。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/053e24174b9119007554244aceff392c.png" alt="" loading="lazy"><br>
+浊色调的这种品质感适合高端、文化、复古、奢华主题。不过这种色彩过于内敛，不适合开放、亲切的风格。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/c8bd32bc61255584ff7d18eec7aae9e2.png" alt="" loading="lazy"></p>
+<h2 id="暗色调"><strong>暗色调</strong></h2>
+<p>暗色调是在纯色上叠加较多黑色得到，因此兼具了黑色的神秘感和纯色的力量感，饱和度中等（30<sub>70），亮度低（20</sub>40），比较有男性偏向，带有理性、成熟、威武、严肃甚至恐怖的感觉。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/3bc55031988945acb85c2b127a6dd338.png" alt="" loading="lazy"><br>
+暗色调更适合于与男性、电子、科技相关性更强的领域，适合高端、商务等主题。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/2299c4554bfe9de9d7da696e7ef7301e.png" alt="" loading="lazy"></p>
+<h2 id="黑色调"><strong>黑色调</strong></h2>
+<p>黑色调饱和度和亮度都很低，B 值和S 值大概都在0~20之间的可称作黑色调。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/6cac38cfbc3ee1443ff34c5c30e050b8.png" alt="" loading="lazy"><br>
+这些深灰或黑色充满着力量感、神秘感和厚重感，是一种绝佳的调和色，一般用于与高端、奢华、商务、科技有关的使用场景中。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/f4541ff5756420ab4da2c224346b1be7.png" alt="" loading="lazy"><br>
+把黑色调作为背景，即使加上五彩斑斓的图形，也不会显得辣眼睛。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/12b1bbe484a247c8d947e1f52ee20bd7.png" alt="" loading="lazy"></p>
+<h2 id="灰色"><strong>灰色</strong></h2>
+<p>除了以上8种色调，还有一种特殊的无色彩——灰色。灰色的范围非常广，亮度值可以在20~95之间，不同的亮度带来的色彩情绪是不一样的。亮度较高的灰色更有高贵、安静、性冷淡的感觉，而亮度低的灰色则有严肃、深沉的感觉。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/cb50ed41577fb84fc2551af5150d5bb6.png" alt="" loading="lazy"></p>
+<h1 id="色调实例解读">色调实例解读</h1>
+<p>知道基础色调后，我们来试试不同色调对设计的整体风格的影响。这里借用一张很好看也很火的海报作为示例，原图如下：<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/4a6605f588462f7cb04aea83316dfe54.png" alt="" loading="lazy"><br>
+我们从配色中可以看出，现在的配色是一种淡浊色调，饱和度和明度都比较低，色相感淡薄，带有几分暗沉，给人含蓄、稳重的感觉，视觉感柔和。<br>
+如果换成明色调👇，就显得鲜明、艳丽，比原图要活泼、欢快一些，视觉上要刺眼一点。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/84671c14fc28a2a3da935dc5061a4291.png" alt="" loading="lazy"><br>
+换成更浅的淡色调，单纯从色调上看显得很轻盈、明快了许多。不过不适合这张海报的主题，缺少了沉重感，更像是青年之间的青涩感情。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/ca335c51f0367fa9a93f1c909ac21619.png" alt="" loading="lazy"><br>
+浊色调（右图）比原图亮度更低，饱和度更高，画面也显得更沉稳。这种色调带有一些复古风，更适合带有年代感的主题。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/b887cc978d59f7f601fce22a49163175.png" alt="" loading="lazy"><br>
+再往深色一点的暗色调就会呈现出一种严肃、正经的氛围，但在这里有些恐怖、阴森感。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/dc66d0212d25bc3164c437dfc82a4155.png" alt="" loading="lazy"><br>
+把图片转换成灰色，会有一些文艺感，但是也会显得很冷淡，难以激起人们的兴趣，不太适合于宣传物。<br>
+<img src="https://images.xiaozhuanlan.com/photo/2018/725b6cff60bf262f8187811c080fbb31.png" alt="" loading="lazy"></p>
+<h1 id="总结">总结</h1>
+<p>此篇文章详细地介绍了8种主要色调，并运用实例来体验色调给人带来的不同感受。作为设计师，在设计作品的时候非常需要注意根据主题、内容和风格来选择色调，并且能够保持作品内色调的基本统一。<br>
+同一色调的颜色，即使色相不同，给人带来的印象也比较和谐。所以，如果你对色彩把控不好的话，可以试试先找到一种颜色，再保持饱和度和明度不变，只改变色相来创造其他搭配色。</p>
+
+                </div>
+            </article>
+        </div>
+
+        
+            <div class="next-post">
+                <div class="next gt-c-content-color-first">下一篇</div>
+                <a href="https://souffleinspire.github.io/post/color-01/" class="post-title gt-a-link">
+                    色彩第一课：自然人眼中的色彩
+                </a>
+            </div>
+        
+
+        
+
+        <div class="site-footer gt-c-content-color-first">
+    <div class="slogan gt-c-content-color-first">A life-long student</div>
+    <div class="social-container">
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    </div>
+    Powered by <a href="https://github.com/getgridea/gridea" target="_blank"> Souffle </a> | <a href="https://souffleinspire.github.io/atom.xml" target="_blank">RSS</a>
+</div>
+
+<script>
+    hljs.initHighlightingOnLoad()
+</script>
+
+
+    </div>
+</div>
+</body>
+</html>
