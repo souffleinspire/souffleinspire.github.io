@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://souffleinspire.github.io</id>
     <title>港姐 Souffle</title>
-    <updated>2020-03-15T03:21:30.861Z</updated>
+    <updated>2020-03-15T08:30:14.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://souffleinspire.github.io"/>
     <link rel="self" href="https://souffleinspire.github.io/atom.xml"/>
@@ -10,6 +10,357 @@
     <logo>https://souffleinspire.github.io/images/avatar.png</logo>
     <icon>https://souffleinspire.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 港姐 Souffle</rights>
+    <entry>
+        <title type="html"><![CDATA[字体第五课：字体也有个性？]]></title>
+        <id>https://souffleinspire.github.io/post/font-05/</id>
+        <link href="https://souffleinspire.github.io/post/font-05/">
+        </link>
+        <updated>2020-02-23T18:33:55.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
+<p>俗话说&quot;字如其人&quot;，就是说从一个人写出来的字就能大致看出此人的性格，所以每一种字体的外形都能透露一种个性，字体个性影响了适用场景。在什么场景下该用什么字体？往下看。</p>
+<h1 id="字体的三个基本要素">字体的三个基本要素</h1>
+<p>字体由三个基本要素构成，分别是<strong>字形结构、笔画和细节特征</strong>。 <img src="https://images.xiaozhuanlan.com/photo/2020/ed435654b350b9b946c16447e2bc96af.png" alt="" loading="lazy"></p>
+<h2 id="字形结构">字形结构</h2>
+<p>字形结构是字体的&quot;骨架&quot;，对字体个性的影响最直观。和人一样，字形结构就是看字体的高矮胖瘦。</p>
+<h3 id="高瘦-vs-矮胖">高瘦 VS 矮胖</h3>
+<p>纤瘦、高挑的字形提升了字体重心，更清雅秀丽，具文艺气息，偏女性化。扁平矮胖的字形重心靠下，更沉稳、庄重。 <img src="https://images.xiaozhuanlan.com/photo/2020/0f4c4dce231cd2e5dc9370cde6896702.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2020/93b75845da83ad30a316c33abfba2767.png" alt="" loading="lazy"></p>
+<h3 id="松散-vs-紧凑">松散 VS 紧凑</h3>
+<p>字体内部留白较多，字面率小的字形给人轻松、透气、舒缓的感觉。内部空间压缩较严重，笔画紧凑而粗重则会营造紧张感，但也更具力量感。 <img src="https://images.xiaozhuanlan.com/photo/2020/e9d3b88814f507dbbb40ec7a8df4516a.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2020/ac63418713b961fad6873b7eb94af0b0.png" alt="" loading="lazy"></p>
+<h2 id="笔画">笔画</h2>
+<p>笔画是构成字体最基本的单位，是文字的&quot;肌肉&quot;，笔画的个性主要是粗细曲直的不同。</p>
+<h3 id="粗-vs-细">粗 VS 细</h3>
+<p>笔画越细，就像人越瘦，更加轻盈、透气。笔画越粗，则越有分量，有厚重、压迫感，更醒目、有力量。 <img src="https://images.xiaozhuanlan.com/photo/2020/3ebf1ebfed73c281c16540345048d237.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2020/9b5b8162346bb36ec2651e2c5373ef07.png" alt="" loading="lazy"></p>
+<h3 id="曲-vs-直">曲 VS 直</h3>
+<p>在字体里面，笔画为直线，起落处一般是尖角或方角，尖角锐利刚硬，方角干脆利落，这样的字形大方、果断。相反，笔画以曲线为主，转角为圆角，有柔和婉转、可爱圆润的感觉。 <img src="https://images.xiaozhuanlan.com/photo/2020/2c1c862ec495079c3d6e18cdd364ada5.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2020/194d1c1ac68d1461e42620d120be77f1.png" alt="" loading="lazy"></p>
+<h2 id="细节特征">细节特征</h2>
+<p>字体细节起到画龙点睛的作用，是文字的&quot;衣服&quot;，能进一步凸显个性。细节的处理多种多样，包括断笔（断）、省略（舍）、拆解（离）、连接、图形替代、纹理质感等，当然这些主要是对汉字而言的。</p>
+<h2 id="断笔断和分离离">断笔（断）和分离（离）</h2>
+<p>断笔就是把笔画做断开处理，这是设计艺术字体的常用手法，可以根据字形结构和字的组合进行恰当设计。断笔一般有三种方式：封闭笔画断开、笔画连接处断开、根据造型断笔。 <img src="https://images.xiaozhuanlan.com/photo/2020/d3af4dae11453bd6a08d27c0ece41a5e.png" alt="" loading="lazy"> 分离笔画的第一步往往就是断笔，在此基础上再进行创意组合，比如加阴影营造远近关系、旋转角度构成空间文字、分散笔画等。 <img src="https://images.xiaozhuanlan.com/photo/2020/7308a7cfac3b02e8f0c0dbb7c1bf4f57.png" alt="" loading="lazy"></p>
+<h2 id="省略舍">省略（舍）</h2>
+<p>省略笔画不是随意舍弃，而是<strong>去繁就简</strong>，保留文字基础结构，也就是说舍弃的笔画不应影响对字的辨认。汉字是表意文字，最基础笔画就是点横竖撇捺，因此竖钩（亅）的&quot;钩&quot;、横折提（㇊）的&quot;提&quot;等细节就经常被省略。文字比较复杂的部分可能造成艺术字体重心不稳，也常用省略来简化。 <img src="https://images.xiaozhuanlan.com/photo/2020/03efdfdf2fb2d3494748c78702628a8f.png" alt="" loading="lazy"></p>
+<h2 id="连接">连接</h2>
+<p>连接实际是共用笔画，一般只有相邻的笔画或几个字错落穿插后邻近的笔画才能够共用。连接可以把一些零散笔画，比如：点、提，变成其他笔画的一部分，创造出新的创意笔画。 <img src="https://images.xiaozhuanlan.com/photo/2020/48513ef6761ea7afe4945ab272b93a96.png" alt="" loading="lazy"></p>
+<h1 id="图形替代">图形替代</h1>
+<p>图形替代是将部分笔画替换成图形图像，比方说点可以替换成圆、环、球，还可以是水滴、石子等等。 <img src="https://images.xiaozhuanlan.com/photo/2020/0ea7f408c270fd9cbf2d30cd51dc646e.png" alt="" loading="lazy"></p>
+<h1 id="纹理质感">纹理质感</h1>
+<p>艺术字体之上还经常加上斑驳、发光、蜡笔等多种多样纹理来凸显质感，抖音风文字就是用色彩重叠和故障效果来体现抖动、狂嗨的氛围。 <img src="https://images.xiaozhuanlan.com/photo/2020/6373e71a17a7b13dd2548de53c823506.png" alt="" loading="lazy"></p>
+<h1 id="匹配字体个性与使用场景">匹配字体个性与使用场景</h1>
+<p>书写正经严肃的文档，什么字体更得体大方？制作展示用的 ppt，什么字体更贴合主题？设计电影或产品海报，什么字体更能凸显特征？在不同的使用场景中，选择不同的字体可能会为你的呈现加分。从设计师的角度来看，一般是如何匹配的呢？</p>
+<ol>
+<li>
+<p>需要<strong>明确需求，提取关键词</strong>。比如为产品设计网页，应先了解需求方的要求、产品风格、目标人群等等。假设为手机设计网页，提取的关键词就可以是&quot;手机&quot;、&quot;中高端&quot;、&quot;时尚&quot;、&quot;简约&quot;、&quot;中性&quot;；为女士服装设计网页，关键词可以是&quot;女装&quot;、&quot;质感&quot;、&quot;明丽&quot;、&quot;独立&quot;......</p>
+</li>
+<li>
+<p><strong>根据需求关键词在下表中寻找合适的字体个性，进而找到对应的字形特征</strong>。多用了几次，对字体个性会有大概的掌握，这一步&quot;打腹稿&quot;就 OK 了。 <img src="https://images.xiaozhuanlan.com/photo/2020/62a06af4a057d5d821d6f1aa4b41d4e9.png" alt="" loading="lazy"></p>
+</li>
+<li>
+<p>你需要<strong>在可选范围（版权要求）内，选择尽可能与上一步得到字形特征相符的字体</strong>，像这样： <img src="https://images.xiaozhuanlan.com/photo/2020/59beaef01ae0ffb72a73797a83e7792e.png" alt="手机网站字体个性匹配" loading="lazy"></p>
+</li>
+</ol>
+<p>这样推演下来，手机这种科技感、现代感强的产品比较适合粗体、直笔画的无衬线体，字形较矮胖，转角为尖角或方角。我们来看一下，比较大的几个手机品牌的介绍页是不是选择了这样的字体。 <img src="https://images.xiaozhuanlan.com/photo/2020/f8a78225be1fd78a1a20eb7ad148301f.png" alt="" loading="lazy"> 用错了字体，可能会让整体效果变得很奇怪。女装网站使用粗重硬朗的字体，就会失去柔和感，看起来就像女装图片误入了男装网站。 <img src="https://images.xiaozhuanlan.com/photo/2020/15812da75cf4c0db05048ccd88e4cae1.png" alt="" loading="lazy"></p>
+<h1 id="最后">最后</h1>
+<p>需要说明一点，上述步骤2中列出的汉字设计特征只是从该类型多数字体总结出来的，不一定完全准确，比如复古风也可以是细笔画，衬线体也不一定不简洁。如果你的关键词综合了多个字体特征，一是寻找共性，二是看优先级。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[字体第四课：避坑指南-聊聊字体版权]]></title>
+        <id>https://souffleinspire.github.io/post/font-04/</id>
+        <link href="https://souffleinspire.github.io/post/font-04/">
+        </link>
+        <updated>2020-02-16T17:09:07.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
+<p>2019年，网传一公司实习生因侵权使用&quot;微软雅黑&quot;字体，全公司裁员42人，损失2860万，被戏称&quot;一字千金&quot;。虽然后来版权方出来辟谣，但仍在全网掀起了字体版权热议潮，曾经的&quot;暴雪案&quot;、&quot;飘柔案&quot;等也被重新拿出来讨论。 <img src="https://images.xiaozhuanlan.com/photo/2020/729f6e895bacc22e42b42054a221dba7.png" alt="网传“微软雅黑”侵权事件截图" loading="lazy"> 对设计师来说，字体版权绝对是说不出的痛。我的一位前同事因侵权使用，曾被索赔10万。去年，一个运营同学改动了 banner 上的字体，公司就收到了警告，索性没有造成经济损失。关于字体版权，还有多少坑？又该如何避开？</p>
+<h1 id="什么是字体版权">什么是字体版权？</h1>
+<p>为了说清楚字体版权，我特意去&quot;中华人民共和国司法部&quot;的网站查询了相关资料。严格来说，&quot;字体版权&quot;尚无明确严谨的司法领域概念。从语义上理解，&quot;版权&quot;是指文字、艺术、科学作品的作者对其作者享有的权利。&quot;字体&quot;的定义，在之前的文章里提到过其争议，中国法律中也没有明确解释。 关于字体版权是适用<a href="http://www.moj.gov.cn/Department/content/2009-01/20/592_201422.html">《专利法》</a>还是<a href="http://www.moj.gov.cn/Department/content/2001-12/05/592_201460.html">《著作权法》</a>也是分歧点。我综合查阅了两者法律条款、字体研发流程以及字体公开授权说明的信息，发现《著作权法》在版权保护上更全面、明确，所以应是重点参考的法律（但不意味着《专利法》不适用）。不管怎样，字体是明确受法律保护的，要使用就必须经得著作权人的同意。 <img src="https://images.xiaozhuanlan.com/photo/2020/925aa6d024fba40ca288848dd4cdf835.png" alt="“方正字库”官方授权说明截图" loading="lazy"> 字体为什么需要版权保护呢？一句话：现状就是十几亿国人在用汉字，但做字的却只有几百人。其实造字如同制药，都有一定的公益性。法律授权保护原创药品知识产权，才能鼓励药企研发新药，同理，对字体的版权保护到位了，就会有越来越多字体设计师投身其中。</p>
+<h2 id="字体授权类型">字体授权类型</h2>
+<p>字体授权方式主要有以下几种:</p>
+<ul>
+<li>商业字体（Commercial）：<strong>用于商业发布（商业发布基本可以等同为公开发布，比如我写文章也算），应通过正规购买方式获得</strong>。</li>
+<li>免费字体（Freeware）：<strong>用户可以无限制（包括：个人使用、商业使用）免费使用字体</strong>，也叫做免费可商用字体。</li>
+<li>个人免费字体：<strong>个人用户可以无限制免费使用字体的版本，但不能用户商业发布</strong>。</li>
+<li>共享字体（Shareware）：包括试用字体（Trailware），根据共享字体作者的授权，用户可以从各种渠道免费下载和试用字体，认为满意后再向作者付费，简单说就是<strong>免费试用，付费商用</strong>。</li>
+<li>自由字体（Free Software）：<strong>使用者可以以任何目的使用字体，也可以无需字体开发方同意修改字体并可共享传播</strong>，甚至有时会提供字体源代码，但不能简单修改后申请版权。</li>
+</ul>
+<p>当然，字体公司还可以根据使用范围等进行授权细分，方正字库就将授权分成 A、B、C、D 四类，每一类都有详尽的说明，对应的价格也很明确。字体授权的详细情况每个公司都不一样，但这些信息基本都可以在他们的官网上找到。 <img src="https://images.xiaozhuanlan.com/photo/2020/94a6cb626d5e00803eefc5115b84554e.png" alt="“方正字库”官方授权价格表" loading="lazy"></p>
+<h2 id="字体版权的期限">字体版权的期限</h2>
+<p>根据《著作权法》第二十一条，对公民的作品的法律保护期为作者终生及其死亡后五十年，如果是合作作品，截止于最后死亡作者的死后第五十年的12月31日。像黑体、宋体、楷体等，就是因已超过法定著作权保护期而成为开源字体。 <img src="https://images.xiaozhuanlan.com/photo/2020/14f1fc9af208b5fdd1e3c21f573cda21.png" alt="" loading="lazy"></p>
+<h2 id="那些号称免费商用的字体能放心使用吗">那些号称免费商用的字体能放心使用吗？</h2>
+<p>当然不能。虽然我们在网络上可以很方便的找到不少开源字体，但这里其实有很多的坑。</p>
+<ol>
+<li><strong>很多下载资源本身就是盗版</strong> 搜索&quot;字体下载&quot;，可以得到大量资源，但是很多网站本身就是四处收集盗版字库的平台，所以你下载的也很可能是盗版。</li>
+<li><strong>字体版权是动态变化的</strong> 字库和手机 app 一样，也是可以更新迭代的，设计师千辛万苦打磨、完善的字体，可能就从原来的免费变成了收费，因此一些文章中推荐的免费商用字体也要注意准确性和时效性。</li>
+<li><strong>中文简体与繁体的版权区分</strong> 中国大陆和中国台湾在繁体字的基础字形规范方面多有不同，繁体字一般更为复杂，因此即使是同一字体，简体和繁体的版权也可能不同。</li>
+<li><strong>使用平台、使用场景区分</strong> 苹方是苹果公司研发的开源中文字体，但仅限于在苹果系统上使用。相应的，也有一些字体只能在安卓系统中使用。</li>
+</ol>
+<figure data-type="image" tabindex="1"><img src="https://images.xiaozhuanlan.com/photo/2020/03fc6cf75e2eec9c408a804220584e7e.png" alt="" loading="lazy"></figure>
+<h2 id="侵权的后果">侵权的后果</h2>
+<p>侵权最直接的后果当然是赔钱，侵权赔偿数额需要综合考虑字体的商业用途、使用数量、使用范围等因素，目前，法院对这类侵权的判决一般为一个字3000-10000元。如果字体设计在产品营利方面起到关键作用，赔偿金额还会更多。</p>
+<h1 id="如何使用字体而不侵权">如何使用字体而不侵权？</h1>
+<p>针对字体版权侵权问题，我们可以有3种措施来规避：</p>
+<ol>
+<li>使用开源或已授权可以免费商业使用的字体 再次提醒，<strong>一定要确认版权后才能在商用场景下使用这些字体，最直接有效的方式就是去字体官网上查询</strong>。此外，也有相对简单一点的查询途径，比如：<a href="https://fonts.safe.360.cn/">360查字体</a>和<a href="http://www.hellofont.cn/font-list">字由</a>。前者偏保守、不全面，主要作用是能检测电脑已安装字体的版权，建议查到没有免费商业版权的就可以停止使用了。后者全面，不过为保险起见，对于所谓的&quot;免费可商用&quot;字体也需要经过验证。 <img src="https://images.xiaozhuanlan.com/photo/2020/724ef3759c70c423f1e80d94bc51ad20.png" alt="360查字体 截图" loading="lazy"></li>
+<li>购买正版字体或单字做商业性使用 不要心存侥幸，现在靠投诉字体侵权捞金的人很多，<strong>拿到商业授权书且在规定范围内使用</strong>才能避免接到律师函。顺便一提，为减少不必要的打扰，有正版授权的话，可以适当通过一些途径&quot;宣誓主权&quot;。</li>
+<li>自创或者在他人字体基础上进行修改再创作（<strong>达到30%的区别度</strong>） 在原本就是开源字体基础上修改创造，基本不用担心侵权；在有商业版权保护的字体基础上修改，必须达到30%以上的区分度才可以；自创字体也需要像写论文一样查重，避免与版权字体区分度不明显。像下面这样简单的更改有版权字体万万不可！ <img src="https://images.xiaozhuanlan.com/photo/2020/5f18938c5abbd17340882c17aae88a5a.png" alt="" loading="lazy"></li>
+</ol>
+<h1 id="最后">最后</h1>
+<p>从上一篇《字体第三课：绽放中文字体之美》中，你应该可以感受到中文字体开发的难度，很欣慰的是，现在有一些优秀的字体设计师开始自发地研发字体并且免费开源。在之后的文章中，我也会告诉大家我是如何制作艺术字体。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[字体第三课：绽放中文字体之美]]></title>
+        <id>https://souffleinspire.github.io/post/font-03/</id>
+        <link href="https://souffleinspire.github.io/post/font-03/">
+        </link>
+        <updated>2020-02-09T17:33:01.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
+<p>上篇文章介绍西文，今天接着讲讲中文。同样，我们从历史演进的角度切入，以便更好地理解汉字构型，在制作艺术字体时也能发挥作用。</p>
+<h1 id="汉字发展史">汉字发展史</h1>
+<p>汉字由零散的、个别的字符逐渐积累，达到一定数量后再通过人为统一规范，从而成为一种文字体系。目前已知的原始汉字在新石器时代产生，经过6000多年的演变，中国汉字字体大致经历了从甲骨文-金文-大篆、小篆-隶书-草书-楷书-行书-现代汉字的演变过程。 <img src="https://images.xiaozhuanlan.com/photo/2020/8a485ce251d5062e8d00a522dba909ad.png" alt="" loading="lazy"> 商朝时，刻在龟甲、兽骨上的文字称为「甲骨文」，是目前为止发现最早的较成熟的文字。随着采矿和冶炼技术的发展，古人在青铜器上浇铸或刻凿铭文，古代称铜为金，这些文字就是「金文」。 <img src="https://images.xiaozhuanlan.com/photo/2020/bcb582cf1f68da38975e19e771cdb21c.png" alt="" loading="lazy"> 西周晚期，金文形体趋向线条化，笔画整齐匀称，这种字体叫「大篆」。秦统一后，又对汉字进行整理和简化，指定了新的文字标准，在全国推行，这种新字体为「小篆」。&quot;小篆在于整，大篆在于散&quot;书法家言恭达的话很好的概括了这两种篆体的特点。 小篆使文字规范化，但书写还是不方便，因此在民间逐渐流行起一种更简单的字体----「隶书」。隶书时连接古文字和近现代文字的桥梁，它把小篆的均匀线条抽象成了平直有棱角的点、横、竖、撇、捺、挑、勾等笔划。 <img src="https://images.xiaozhuanlan.com/photo/2020/59765c578f3977d634ac72b54000312e.png" alt="" loading="lazy"> 到了汉朝后期，隶书演变为「楷书」，其字形更加方正平直，书写更为简便。与楷书并行的还有「草书」和「行书」。草书笔画连带、结构简约、字体奔放。行书则介于楷书和草书之间，易于辨认且简单，被广泛使用。 <img src="https://images.xiaozhuanlan.com/photo/2020/d253121f3194fc5790001416d8a11cc4.png" alt="" loading="lazy"> 随着雕版印刷术的发明，横平竖直、方方正正的「宋体」更适合印刷书目，逐渐形成了宋体体系，包含仿宋、长宋等变体。近代西方印刷术传入中国后，在西文字体影响下，又出现了黑体、美术字体等多种新型字体。 <img src="https://images.xiaozhuanlan.com/photo/2020/f3ee53652f826b99168706a67d233bdd.png" alt="" loading="lazy"></p>
+<h1 id="汉字基础知识">汉字基础知识</h1>
+<h2 id="宋体-黑体">宋体、黑体</h2>
+<p><strong>西文字体有衬线体和非衬线体两大类，在中文字体中对应为 宋体 和 黑体</strong>。文字最初刻在石碑等坚硬物上，要先用方头笔刷写好样子，再照样雕凿。方头笔刷书写会导致笔画头尾处出现毛糙，所以在笔画开始、结尾以及转角处增加了收尾的笔画，后演进成衬线，宋体的形成过程也类似。无衬线体没有首尾装饰，在同等字号下，无衬线体看上去比衬线体更大，结构也更清晰，所以电子设备屏幕上便好无衬线体，如：黑体。 <img src="https://images.xiaozhuanlan.com/photo/2020/7c2e0337e07fc90b12d7b12d465ab739.png" alt="" loading="lazy"></p>
+<h2 id="字体构造">字体构造</h2>
+<p>汉字字体的空间构造可分为「单体字」和「合体字」。单体字只有一个部件，没有偏旁部首等，如：人、入、日、月、刃等。合体字则主要分为以下几种： <img src="https://images.xiaozhuanlan.com/photo/2020/c3d94b9676cadad2c65f6f8ec198a6d8.png" alt="" loading="lazy"></p>
+<h2 id="字面">字面</h2>
+<p>字面是汉字所占字面框的比例大小。<strong>字面决定字体的高矮胖瘦，同样字号下，字面大的字看起来就大，字面小的字看起来就小</strong>。字面除以字格面积得到「字面率」，一般简体中文字体有 92 % 左右的字面率。 <img src="https://images.xiaozhuanlan.com/photo/2020/5fdd67260a0b73b58395ecf7680c7f8a.png" alt="" loading="lazy"></p>
+<h2 id="重心">重心</h2>
+<p>汉字是方块字，每个字都有其重心，<strong>重心是是整个字的视觉中心点，一般在几何中心偏左上方一点的位置</strong>，把握重心就能把握文字的平衡。根据汉字结构简单来说：上紧下松、横细竖粗、左窄右宽，通常可以平衡重心。 <img src="https://images.xiaozhuanlan.com/photo/2020/52450e1911974109291d558a65eb7e7e.png" alt="" loading="lazy"></p>
+<h2 id="中宫">中宫</h2>
+<p>为了了解中宫，需要先引入两个概念。</p>
+<ol>
+<li><strong>第一中心线</strong>：汉字字体通常是在一个25*25的方格内设计，方格最中间的一列格子连成的竖线就是第一中心线，它的位置是不变的。方格的中心点位于这条竖线的中间，部分汉字的重心与方格中心点重合，比如：&quot;王&quot;、&quot;田&quot;等。 <img src="https://images.xiaozhuanlan.com/photo/2020/3038292880158b81a882919b49d4a836.png" alt="" loading="lazy"></li>
+<li><strong>第二中心线</strong>：对于合体字来说，结构的每一部分都受一条中心线支配，这便是第二中心线，因此第二中心线往往不止一条。<strong>对于一套字体来说，相同结构的字第二中心线的位置一般是相同的</strong>，例如&quot;得&quot;、&quot;体&quot;、&quot;提&quot;都是左右结构，下面几种字体中，左部结构和右部结构的第二中心线都相同。其他合体字结构也是如此。 <img src="https://images.xiaozhuanlan.com/photo/2020/57961e683c0e8352bccd4b8293267494.png" alt="" loading="lazy"></li>
+</ol>
+<p>横竖第二中心线构成了中心格叫「中宫」，中宫的大小可以用来评判字体的松紧程度。<strong>中宫大字形饱满，中宫字形秀气</strong>，因此中宫对字体的性格影响很大。 <img src="https://images.xiaozhuanlan.com/photo/2020/b5315cd7c5e8c9dc28b35219367a55ee.png" alt="" loading="lazy"></p>
+<h1 id="免费可商用的汉字字体">免费可商用的汉字字体</h1>
+<p>西文用一个字母代表一个字音，单词由多个字母构成，一般是多音节。与西文非常不同的是，一个中文字只有一个发音。因此，英文只靠26个字母的排列组合就能组成无数的单词，表达无数含义，而汉字表达一百个意思可能就需要一百个不同的字。这就导致研发中文字体的难度远远大于西文字体，只有极少的汉字字体是完全开源，下面列举一些常用的免费可商用中文字体（没有附传送门的是没找到官方渠道）。</p>
+<h2 id="思源系列">思源系列</h2>
+<p><a href="https://github.com/adobe-fonts/source-han-sans/blob/master/README-CN.md">思源黑体</a>、思源真黑体、思源柔黑体、<a href="https://source.typekit.com/source-han-serif/cn/">思源宋体</a> <img src="https://images.xiaozhuanlan.com/photo/2020/c06785d19925b85d7ca065835a9cd061.png" alt="" loading="lazy"></p>
+<h2 id="庞门正道系列">庞门正道系列</h2>
+<p>庞门正道标题体、庞门正道粗书体、庞门正道轻松体 链接：<a href="https://pan.baidu.com/share/init?surl=r8-nahe4EvG-HxY4NZN_Cw">百度云链接</a> 提取码：4lj0 <img src="https://images.xiaozhuanlan.com/photo/2020/90e08d2343542eb0212a7413d51e729a.png" alt="" loading="lazy"></p>
+<h2 id="站酷系列">站酷系列</h2>
+<p><a href="https://www.zcool.com.cn/special/zcoolfonts/">站酷酷黑、站酷高端黑、站酷快乐体、站酷快乐体新版、站酷庆科黄油体、站酷文艺体、站酷小薇 logo 体</a> <img src="https://images.xiaozhuanlan.com/photo/2020/fe27c8681d1ca61076555a109eb69378.png" alt="" loading="lazy"></p>
+<h2 id="阿里巴巴普惠体">阿里巴巴普惠体</h2>
+<p><a href="https://ics.alibaba.com/project/Hn8mXx/49b2F7">阿里巴巴普惠体</a> <img src="https://images.xiaozhuanlan.com/photo/2020/679714dbc623c8bce56ba22538e17dc2.png" alt="" loading="lazy"></p>
+<h2 id="胡晓波系列">胡晓波系列<a href=""></a></h2>
+<p><a href="https://www.zcool.com.cn/work/ZNDE3NjcwMTY=.html">胡晓波真帅体、胡晓波男神体、胡晓波骚包体</a>（没有看错，这些就是一个很牛逼的人做的很臭美的字体） <img src="https://images.xiaozhuanlan.com/photo/2020/acdff4abd557c475a011f8c0e40d4e6b.png" alt="" loading="lazy"></p>
+<h2 id="沐瑶系列">沐瑶系列</h2>
+<p><a href="https://www.zcool.com.cn/work/ZMjg5MjAwMDQ=.html">沐瑶软笔手写体</a>、<a href="https://www.zcool.com.cn/work/ZMzYwMzk2MjA=.html">沐瑶随心手写体</a> <img src="https://images.xiaozhuanlan.com/photo/2020/879f121a47b6dce811ec95f787b86e33.png" alt="" loading="lazy"></p>
+<h2 id="其他">其他</h2>
+<p><a href="http://reeji.com/font/rui_zi_zhen_yan_ti/">锐字真言体</a>、<a href="http://www.sucaijishi.com/font-37-792-1.html">素材集市康康体</a>、<a href="https://www.uisdc.com/uisdc-first-free-font">优设标题黑体</a>、<a href="https://www.wencang.com/font.jsp">问藏书房体</a>、、<a href="https://sites.google.com/view/jtfoundry/">台北黑体</a> <img src="https://images.xiaozhuanlan.com/photo/2020/dc5b3a9413d6d388440bbc925ef909f2.png" alt="" loading="lazy"></p>
+<h1 id="最后">最后</h1>
+<p>这是2020年的第一篇文章，多年以后，我们一定会记得这个时间，怀抱平静的心情去回忆。愿世界安好......</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[字体第二课：常用der英文字体]]></title>
+        <id>https://souffleinspire.github.io/post/font-02/</id>
+        <link href="https://souffleinspire.github.io/post/font-02/">
+        </link>
+        <updated>2020-01-05T17:31:00.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
+<p>在第一课，已经介绍了中西文字体基础，今天再进一步讲讲西文（英文）字体以及我在工作中如何使用它们。</p>
+<h1 id="西文字体的历史">西文字体的历史</h1>
+<p>很久很久以前，为了记录生活中的信息，人类开始用木炭等在岩石上写写画画，这些符号成为原始象形文字的雏形。 <img src="https://images.xiaozhuanlan.com/photo/2020/4408d0c882b58d53737bde9774b25e0c.png" alt="" loading="lazy"> 为了让更多人看懂内容，起到沟通和传播的作用，人们需要使用一致的语言体系，岩壁上的文字也慢慢标准化。 <img src="https://images.xiaozhuanlan.com/photo/2020/da8238d3e3ac83916ff3f49e9f2c1c65.png" alt="" loading="lazy"> 随后，易于携带的纸张被发明出来，但是制作成本高昂，用来书写复杂的文字很浪费。这一阶段，人们开始摸索如何简化文字。 <img src="https://images.xiaozhuanlan.com/photo/2020/dedb27d2101aea8ca60b3dd4045bb81c.png" alt="" loading="lazy"> 而在古罗马，文字系统已经比较发达，但仍以雕刻形式存在。彼时小写字母还没发明出来，字母是全大写。Trajan、Stempel、Hercvlanum 等字体就是古罗马风格（Old roman），全大写的衬线体。 <img src="https://images.xiaozhuanlan.com/photo/2020/dbd7852005027051ab7acac7923bfe88.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2020/db4342f8e76831b4f8d1f026ed63e2e0.png" alt="" loading="lazy"> 四世纪，文字主要书写在羊皮纸上，因为造价昂贵，所以当时的字体高度小，字距也小，代表字体是 Uncial（安色尔）体，到八世纪成为圣经的主要字体。从图片可以看出来，这一时期字体是大小写混用的。 <img src="https://images.xiaozhuanlan.com/photo/2020/8a127f55cd51c936b0f475fe2d13c974.png" alt="" loading="lazy"> 卡洛林王朝时期兴起的 Carolingian（卡洛林）字体，外形上已接近现代英文字体，也开始大小写成对使用。查理曼时期，为保证抄本内容的准确性，Carolingian 小写字体成为中世纪的&quot;官方字体&quot;。 <img src="https://images.xiaozhuanlan.com/photo/2020/b5dc20a76f7d150f8fd2590632791a71.png" alt="" loading="lazy"> 到了十二世纪，大学兴起，越来越多学生接受高等教育，对书本的需求量也增加了，市场很需要快速复制书籍的办法。十五世纪，古腾堡发明活字印刷，实现了标准、可重复的印刷生产。当时已开始文艺复兴，带有明显平头笔书写特征的 Blackletter （哥特黑体）、x 字高（字母 x 的高度，是用来度量字体基本高度的标准）更小的意大利斜体和复古的古罗马体是潮流字体。 <img src="https://images.xiaozhuanlan.com/photo/2020/7542858b8fec4e6e44608205c9a57266.png" alt="" loading="lazy"> 随着纸媒的发展、人们创意的爆发以及新力量的崛起，越来越多的英文字体诞生。比如，十八世纪的洛可可（Rococo）风格，字体细腻柔美、曲线繁杂，有很明显的女性感。 <img src="https://images.xiaozhuanlan.com/photo/2020/d21dd39c257e574e49a29bcb34c110ca.png" alt="" loading="lazy"> 二十世纪，互联网开始崭露头角，字体设计也迎来新的繁荣期。屏幕上用花哨的字体会有一定的虚化，所以无衬线体更加吃香，出现了 Helvetica 这样的经典字体。当然，线下场景的丰富性同样催生了更多艺术字体。 <img src="https://images.xiaozhuanlan.com/photo/2020/a4d60da77c132567455fe9f2cad97531.png" alt="" loading="lazy"></p>
+<h1 id="英文字体分类">英文字体分类</h1>
+<p>除了第一课里的两大基本分类----衬线体和无衬线体，还有这两者之外的其他字体，但不做介绍了，我们来细化下衬线体、无衬线体。</p>
+<p>按照风格分类，衬线体可分为旧体（old style）和现代体（modern style）。「旧体」带有手写风，笔尖有固定倾斜角度的书写痕迹，字母 O 的较细部分连线是斜线。「现代体」字母 O 的较细部分连线是垂直的，比例工整，没有手写痕迹。「旧体」并不过时，其中一些字体反倒比「现代体」更适合长文阅读。 <img src="https://images.xiaozhuanlan.com/photo/2020/9af0b807cee62a5098c79e8d3dbdccf4.png" alt="" loading="lazy"> 按照衬线不同分类，还可分为三类：</p>
+<ul>
+<li>曲线角度的&quot;支架衬线体&quot;，字体风格亲切、传统，代表字体有：Times New Roman，Baskerville，Caslon，Georgia。</li>
+<li>连接处为细直线的&quot;发丝衬线体&quot;，现代感很强，适合大标题用，比如 Didot，Bodoni。</li>
+<li>连接处粗厚的&quot;板状衬线体&quot;，显得粗壮有力，也适合标题使用，有些怀旧氛围。 <img src="https://images.xiaozhuanlan.com/photo/2020/536000956895bf34d48198c732df3c32.png" alt="" loading="lazy"></li>
+</ul>
+<p>无衬线体也有一些分类，个人认为不需要掌握，看到不同字体时的感觉能指导你使用它们。</p>
+<h1 id="个人常用英文字体">个人常用英文字体</h1>
+<p>下面是我个人常用的英文字体，但是不意味着任何情况下都可以尽情使用。强调一下，使用字体一定要注意版权信息，避免侵权使用遭受损失，所以即使是设计师，电脑上也不用装很多字体，反正不能用也白搭。关于字体版权的问题，我会写另外一篇文章。</p>
+<h2 id="衬线体">衬线体</h2>
+<ul>
+<li>Times New Roman <strong>Times New Roman 是我大多数使用衬线体时的首选字体</strong>。它是现代-支架衬线体，最初为泰晤士报设计，清晰易辨认，感觉上属于中性的衬线体。 <img src="https://images.xiaozhuanlan.com/photo/2020/9cd9310454fd157daf05ece317047d70.png" alt="" loading="lazy"></li>
+<li>Didot 现代-发丝衬线体，粗细对比强烈，具有现代、时尚之美。敲重点，<strong>时尚、高档的字体</strong>。 <img src="https://images.xiaozhuanlan.com/photo/2020/02051155eb409e76fa6193be4a573b15.png" alt="" loading="lazy"></li>
+<li>Garamond Garamond 这套字体看着很古老，实际上也很古老，可以追溯到16世纪，但是它线条匀称流畅，可读性强而且优雅，<strong>需要一些复古感的时候会用这个字体</strong>。下图其实是 Adobe Garamond Pro，其斜体比 Garamond 要好看些。 <img src="https://images.xiaozhuanlan.com/photo/2020/7dd3df277cb767226235907d709778eb.png" alt="" loading="lazy"></li>
+</ul>
+<h2 id="非衬线体">非衬线体</h2>
+<ul>
+<li>Helvetica 经典中的经典字体，结构严谨，因为没有什么特点反倒是被广泛使用，<strong>不会错的字体</strong>。字重从细体到粗体，很全面。雀巢（Nestle），丰田（Toyota），宝马（BMW）等众多企业的商标都曾使用 Helvetica。 <img src="https://images.xiaozhuanlan.com/photo/2020/20a9e292e7918a2ac2792c576b16c0d8.png" alt="" loading="lazy"></li>
+<li>Robot <strong>安卓系统默认英文字体</strong>，字型挺不错的（不过我不太喜欢它的 Q 字母），Robot 字体中数字偏窄，比较简洁。 <img src="https://images.xiaozhuanlan.com/photo/2020/4a20512a95a071125b3393ee13cecba6.png" alt="" loading="lazy"></li>
+<li>Futura Futura 字体跟随者包豪斯设计浪潮流行开来，具有完全的几何感。Futura 的字母里所有弯曲都被去掉了，比如 t、j 的勾勾都没有，所以 j 很像 i，有一定的辨识难度，<strong>平常主要用在标题、装饰上</strong>。Futura 还有窄体，在字体设计中很少见，很喜欢这点。 <img src="https://images.xiaozhuanlan.com/photo/2020/677740cf96245fb96027c4c2b61d972f.png" alt="" loading="lazy"></li>
+<li>Avenir 用 Futura 显得过于尖锐和硬朗的时候，Avenir 则是很好的替代，<strong>它的数字也很优秀，用来展示英文为主的界面效果非常好</strong>。 <img src="https://images.xiaozhuanlan.com/photo/2020/f6aeaba3d5863adb0ba1b49050989ed4.png" alt="" loading="lazy"></li>
+<li>San Francisco <strong>OS 系统默认英文字体</strong>，比 Robot 更饱满一些，但从数字上看，不是很现代。 <img src="https://images.xiaozhuanlan.com/photo/2020/ee0e91a7ad291766e2492dd2545eb9e9.png" alt="" loading="lazy"></li>
+</ul>
+<h1 id="总结">总结</h1>
+<p>通过了解英文字体的发展历史，让我们了解了英文的主要分类及其特征。&quot;字体不在多，实用则灵&quot;，不做字体设计，没必要下载各种花式字体。最后再次提醒，字体千万种，版权第一要重视。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[字体第一课：字体基础知多少]]></title>
+        <id>https://souffleinspire.github.io/post/font-01/</id>
+        <link href="https://souffleinspire.github.io/post/font-01/">
+        </link>
+        <updated>2019-12-27T19:00:45.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
+<p>上一阶段，写了为期十四课的排版基础，知识树中关于排版的内容都介绍完了。我们暂不往下深挖，从这篇文章开始，开始说字体啦～</p>
+<h1 id="字形-字体-字型">字形、字体、字型</h1>
+<p>对于这三个看着有些混淆的词，我们先看看对应的英文分别是： <img src="https://images.xiaozhuanlan.com/photo/2019/029787452fbee541676ee23e13e9d0cb.png" alt="" loading="lazy"> Glyph 的说法，我们可能比较陌生，可以简单理解为表达某个意思的抽象符号，比如户、戶、戸都是一个字形。Font 和 typeface 比较眼熟，下面这两段话说明了两者的区别： <img src="https://images.xiaozhuanlan.com/photo/2019/9a180586995beac5fcd65ec9a48bf69f.png" alt="" loading="lazy"></p>
+<blockquote>
+<ul>
+<li>字体 是指整个字型设计（风格、字重、变体）的集合或系列，比如 Georgia，Helvetica，FF Meta 和 Chaparral Pro。这些都是不同的字体，也经常被称为 字体家族。</li>
+<li>字型 是指原始字体设计的版本，像是极细体、粗体、极粗体（字重），常规体、斜体（风格），小体大写字母（变体）。一个字体家族经常就有不同的版本（字型）。</li>
+</ul>
+</blockquote>
+<p>再举个例子你可能就明白了，宋体是一种字体（typeface），宋体中的细体、常规体、粗体等是不同的字型（font），不同字型打包在一起能成为一个字库。</p>
+<h1 id="字体大小">字体大小</h1>
+<p>字体大小（font-size）是指字在屏幕或印刷介质上表现出来的大小。大多数人认为字体大小就是字号，其实不然。<strong>字号只是度量字体大小的一种单位</strong>，Word 里的初号、五号、小五等是中文字号。除了字号外，<strong>磅、点、像素、em、rem、英寸等都是能表示字体大小的单位</strong>，它们分别代表：</p>
+<ul>
+<li>磅：磅值是指打印的字符的高度的度量单位的数值，英文是 point，缩写 pt，也就是&quot;点&quot;，1磅 = 1点 = 1/28厘米 = 1/72英寸</li>
+<li>像素：pixel，即 px，相对长度单位，根据不同分辨率，像素和磅的倍率关系不等</li>
+<li>em\rem：相对长度单位，网页设计中常用单位，默认情况下，1em = 1rem = 16px</li>
+<li>英寸：1英寸=2.54厘米</li>
+</ul>
+<p>下面提供了字体大小单位换算表，用这个<a href="https://www.fontke.com/tool/fontunitconverter/">换算网站</a>也能帮你。 <img src="https://images.xiaozhuanlan.com/photo/2019/89c3e6fb94b0400aecd24406a1eeada2.png" alt="" loading="lazy"></p>
+<h1 id="字重">字重</h1>
+<p><strong>字重指的是笔画的粗细</strong>，字重的划分根据不同字体厂商各有不同，不同的字重称呼也可以不一样，常见的划分如下： <img src="https://images.xiaozhuanlan.com/photo/2019/170bf068a0c2d7250d08557fb99036af.png" alt="" loading="lazy"></p>
+<h1 id="字间距-字偶间距">字间距、字偶间距</h1>
+<p>字间距（Spacing）是字符之间的间距。 <img src="https://images.xiaozhuanlan.com/photo/2019/3bea56b5ddc1de51ce00fe4979ad0593.png" alt="" loading="lazy"> 不同字母有不同外形，如果字母之前只有字间距便会显得不协调，因此西文中创造了字偶间距（Kerning）的概念。举例来说，左侧的单词中，字母之间没有字偶间距，即使字间距相同，但看上去 A 和 V 的间距比其他字母之间间隔更大，右侧在 A 和 V 之间增加字偶间距，视觉上就协调很多了。 <img src="https://images.xiaozhuanlan.com/photo/2019/69d7637c02e463f1171b23ee88da3a1e.png" alt="" loading="lazy"></p>
+<h1 id="字体结构">字体结构</h1>
+<p>下图表示西文字体结构，主线与基线之间是字母 x 的高度，主线与升部线之间被称作「上伸部」，基线和降部线之间是「下伸部」。一般情况下，<strong>同一行的英文要求基线对齐</strong>。 <img src="https://images.xiaozhuanlan.com/photo/2019/b5671bf2d057aa738deb8f372ce00ddf.png" alt="" loading="lazy"> 中文的结构则很不相同，方块字的字形结构可分为：上下结构、上中下结构、左右结构、左中右结构、半包围结构、全包围结构、品字形结构等。 <img src="https://images.xiaozhuanlan.com/photo/2019/9b706e4320284ee4c02f9a221b7b98e4.png" alt="" loading="lazy"></p>
+<h1 id="衬线体与非衬线体">衬线体与非衬线体</h1>
+<p>西文文字分为衬线体（serif）和无衬线体（sans-serif）。「衬线」又被称为「字脚」，指的是字形笔画在首尾的装饰和笔画的粗细不同，而非衬线体则没有装饰，笔画粗细也相同。<strong>在中文中，宋体和黑体，分别对应着衬线字体和无衬线字体</strong>。 <img src="https://images.xiaozhuanlan.com/photo/2019/d9d6c3b3d6a623943c3bdbbe9e31fdba.png" alt="" loading="lazy"></p>
+<h1 id="总结">总结</h1>
+<p>本文介绍了什么是字体、字体大小、字重、字间距，最后讲到了字体的主要风格分类，下文将会更详细的说说中西文的差别，最后展示整个字体模块内容： <img src="https://images.xiaozhuanlan.com/photo/2019/68ec072691e86c7b07c311f663992b4e.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[排版第十四课：捋一下「视觉动线」]]></title>
+        <id>https://souffleinspire.github.io/post/typesetting-14/</id>
+        <link href="https://souffleinspire.github.io/post/typesetting-14/">
+        </link>
+        <updated>2019-12-08T19:55:41.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
+<p>人不能同时把视线停留在两处或两处以上的地方，只能依照先后顺序进行，因此眼睛在处理信息时候是有一定顺序的，这就叫「视觉动线」。视觉动线的概念来自于建筑学，那为何要引入平面和界面设计领域呢？</p>
+<h1 id="扫描而非阅读">扫描，而非阅读</h1>
+<p>十多年前，用户体验专家雅各布·尼尔森回答&quot;人们如何在线阅读？&quot;的问题时说到，&quot;人们很少逐字阅读网页，相反，他们扫描页面，挑选单个单词和句子&quot;。这种情况在用户身上几乎永远不会改变，他们总是<strong>快速地扫描内容，判断自己需要的东西，然后做出行动</strong>。 <img src="https://images.xiaozhuanlan.com/photo/2019/d946f103ae7bef81719c90edceb08046.png" alt="" loading="lazy"> 在扫描的过程中，遵循几种常见的视觉动线规律。精心设计过视觉动线的页面可以：</p>
+<ol>
+<li>帮助用户快速完成任务，实现用户目标；</li>
+<li>帮助用户了解页面结构和布局逻辑；</li>
+<li>减少用户的犯错率，提高留存；</li>
+<li>吸引用户注意，提高营销效率。</li>
+</ol>
+<p>总的来说，了解用户的视线规律，并因此创造更好的体验，可以让设计更成功，那么视觉动线包含哪几种类型呢？</p>
+<h1 id="视觉动线类型">视觉动线类型</h1>
+<h2 id="z-型">Z 型</h2>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/27c10a4747baf9531df2b71f59841c4e.png" alt="" loading="lazy"> 如上图，用户按照<strong>从左到右，从上到下</strong>的 Z 型顺序扫视阅读。这种动线经常应用在<strong>平面作品和视觉层次较少的网页上</strong>，可以突出主要内容，比如下面两张海报。 <img src="https://images.xiaozhuanlan.com/photo/2019/0c2edcda383f236cb6fa206eef5a5388.png" alt="" loading="lazy"> <strong>Z 型的重复排序叫之字型动线</strong>，<strong>具有明显视觉分割的页面</strong>常用这种动线，用户的视觉路径重复从左到右。 <img src="https://images.xiaozhuanlan.com/photo/2019/aeb049a7f318245075f77bd4d4d7dde7.png" alt="" loading="lazy"> 之字型动线是网页设计中的经典布局方式，一般用在网页中间部分强调产品的特色或功能，且常是图文结合，能给用户带来视觉上的一致节奏，使之关注到重点而不觉得疲劳。 <img src="https://images.xiaozhuanlan.com/photo/2019/2e4d5f9fa3fc8ff027ce97252733cfbc.png" alt="" loading="lazy"> 不知道你有没有注意到，以大量图片或视频为主要信息流的 APP 界面，用户自然的浏览顺序也是之字型的。再加上一些错落感，会更加舒适，而且用户会顺着这个视觉轨迹一直看下去。 <img src="https://images.xiaozhuanlan.com/photo/2019/6f3cd2594a2d98e95aa45fd52581f087.png" alt="" loading="lazy"> 下面的海报作品也巧妙地利用了 Z 型或者之字型布局。 <img src="https://images.xiaozhuanlan.com/photo/2019/a06d6c51c1891f4ff91d051cdcc844db.png" alt="" loading="lazy"> Z 型设计的原则就是<strong>把重点内容放到 Z 的节点上</strong>，比如下面这个网站，第一个节点处是 logo，右上角的按钮是主要行为点，接下来是网页主题，介绍产品的作用，最后右下角注册登录。 <img src="https://images.xiaozhuanlan.com/photo/2019/c7f305dd9e9338b807c1aec87af58f4d.png" alt="" loading="lazy"> Z 型结构也有缺点，用户在浏览的时候总是容易被图片或者明亮的元素吸引，所以视线很容易受到干扰，可能脱离设定好的轨迹。在设计 Z 型动线的时候，就需要平衡这些元素，不要影响到核心操作。Uber 官网使用黑色为主色调，首屏采用 Z 型视觉动线，但笑容灿烂的大叔很容易吸引用户的注意力，从而打乱了视觉浏览顺序。 <img src="https://images.xiaozhuanlan.com/photo/2019/0066a77e01195770e50887479b58bc19.png" alt="" loading="lazy"></p>
+<h2 id="f-型">F 型</h2>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/e938a56b4e950f6ff7d143b58e819ad3.png" alt="" loading="lazy"> 2006年，尼尔森·诺曼发表了一篇人们扫描和阅读习惯的文章，他们的研究给超过2000名用户做了眼动测试。测试的结果发现几乎每个人都采取了相同的浏览顺序，即先从顶部开始先水平移动，然后扫描屏幕左侧的垂直线，寻找文章中的兴趣点，当发现感兴趣的内容时，会重复从左到右水平移动的阅读。随着路径越来越长，阅读区域会一次比一次短，因此形成了 F 型的阅读顺序。 <img src="https://images.xiaozhuanlan.com/photo/2019/ab1b6784da493ab130ae3ea4ed8197f4.jpg" alt="" loading="lazy"> F 型动线可以很好地帮我们<strong>创建视觉层次结构</strong>，人们可以轻松舒适地扫描设计。运用 F 模式很重要的一个原则就是<strong>把最重要的内容放置于顶部</strong>，第一屏外则需要通过视觉刺激，打破常规的元素，去引导用户寻找兴趣点。USAToday 把 logo 放在顶部，几乎每次浏览都能看到，从而加深品牌印象，接着用户会注意到大版幅的头条新闻，次要新闻用户则可以根据兴趣查看。顶部区域常放置的元素还有搜索、导航、banner 等。 <img src="https://images.xiaozhuanlan.com/photo/2019/09d38e13978447e07d07e3c896290a86.png" alt="" loading="lazy"> 设计 F 型时，必须要<strong>先确定内容优先级排序</strong>，除了排版头部元素外，还要给其他重要信息增加视觉重量以突出重点，如用明显的颜色、高亮等，减少用户漫无目的地浏览。</p>
+<h2 id="l-型">L 型</h2>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/296f3372fcc90a6b2242d041490fc209.png" alt="" loading="lazy"> 移动端设备屏幕小，用户很快能扫视整个页面的内容，不需要复杂的视觉移动。<strong>移动场景下，视觉路径更多呈 L 型</strong>，这也是手机界面右上角容易被忽视的主要原因。因此，重点操作或内容放在左上角和底部，不希望用户点击或非常次要的操作放在右上。 <img src="https://images.xiaozhuanlan.com/photo/2019/af40175f6db2cf70f98847502a433cd1.png" alt="" loading="lazy"></p>
+<h2 id="对角型">对角型</h2>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/36a98825e11e0e946e070edefc1c9bdd.png" alt="" loading="lazy"> 比 L 型更简单的是对角型动线，指人们在浏览页面或布局时视线趋于<strong>从左上角移动到右下角</strong>。它来自于一个非常经典的设计原则----古腾堡图表法，是一种对角线平衡的和谐状态，但四个角并不能受到同等的视觉关注度。 <img src="https://images.xiaozhuanlan.com/photo/2019/56296cccc85722996a6641a76040dac1.png" alt="" loading="lazy"> 对角型布局常见于<strong>内容简单的页面</strong>，运用较多的是海报、启动页之类。将重点元素放在左上角视觉起点和额右下角视觉落脚点处，以顺应用户视觉流，还能让页面结构稳定。 <img src="https://images.xiaozhuanlan.com/photo/2019/50cb886f29a3cb9b97b0697718519c9a.png" alt="" loading="lazy"></p>
+<h1 id="总结">总结</h1>
+<p>本篇介绍了四种视觉动线，是基于设计心理，顺应人们自然浏览顺序的轨迹。最后再提醒一下，在设计布局之前，需要确定信息的优先顺序，所以不妨问自己几个问题：</p>
+<ol>
+<li>用户需要做什么？</li>
+<li>希望用户注意到什么信息？</li>
+<li>希望用户以什么样的顺序查看这些信息？ 得出结论后再选择合适的动线类型，把重要信息安排在节点上。</li>
+</ol>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[排版第十三课：留白——恰到好处的化繁为简]]></title>
+        <id>https://souffleinspire.github.io/post/typesetting-13/</id>
+        <link href="https://souffleinspire.github.io/post/typesetting-13/">
+        </link>
+        <updated>2019-12-01T17:43:54.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
+<p>今天说的是排版设计中的「留白」，一般与&quot;留白&quot;搭配的是&quot;简约&quot;、&quot;朴素&quot;，甚至是&quot;极简&quot;。简约风是当前大为推崇的设计风格，设计师也将其奉为圭臬，很多人认为受 Apple、MUJI 等产品理念的影响，留白才兴起与国内，殊不知「留白」一词恰恰起源于中国。</p>
+<h1 id="留白">留白</h1>
+<p>&quot;留白&quot;来源于中国传统画，是一种<strong>以少胜多</strong>的设计语言。唐代张彦远首次提出&quot;白画&quot;理论，宋元时期进一步发展，至清朝成熟。传统意义中的留白包含着&quot;天人合一&quot;的人与自然的和谐统一，以无相表达意象。最具代表性的便是宋代马远的《寒江独钓图》，渔翁独坐扁舟上垂钓，除几道波纹外，四周全为空白，但我们能感受到水的存在。 <img src="https://images.xiaozhuanlan.com/photo/2019/a00d1ca4cbf384efe4fd307dd839c254.png" alt="" loading="lazy"> &quot;留白&quot;通常还被称为&quot;负空间&quot;。&quot;留白&quot;的说法现多用在排版印刷和界面设计中，而&quot;负空间&quot;其实是源自于摄影，吸引人注意的视觉主体被称为正空间，相应的留白就成了负空间。 <img src="https://images.xiaozhuanlan.com/photo/2019/9a276f850d9e900a79cc431a8e0b3284.png" alt="" loading="lazy"> 与&quot;留白&quot;对立的一个名词叫&quot;恐惧留白&quot;。没有开玩笑哦，这个词源自拉丁语和希腊语，意思是用细节填充整个空间或艺术品的表面。最典型的就是欧洲的维多利亚风格，不仅仅是印刷品，连家装、服饰也是极为繁琐，充斥着各种细节点缀。 <img src="https://images.xiaozhuanlan.com/photo/2019/42efb971f8bee645c1722d5d53260e95.png" alt="" loading="lazy"></p>
+<h1 id="留白的作用">留白的作用</h1>
+<p>在杂物房找到一样东西是很难的，但是那件东西摆放在干净整洁的桌面上，你就能毫无费力的拿到它，这就是留白的作用。我把画面、界面上的留白类型统称为3种：</p>
+<ul>
+<li>
+<p><strong>单位元素内的留白</strong>，即图形图像和文字自身的留白，具体包括：图像构图留白，行间距、字间距留白。合适的行距比过小的行距<strong>更易阅读和理解</strong>。大留白的构图比拥挤的构图<strong>更能凸显主体</strong>，也显得<strong>更为高级</strong>。 <img src="https://images.xiaozhuanlan.com/photo/2019/8168cea652b045e6a0404dc483e369e0.png" alt="" loading="lazy"></p>
+</li>
+<li>
+<p><strong>单位元素间留白</strong>，比如，列表、按钮内文字与边缘的留白，相册中图片与图片间的留白，近似于 padding 的含义。某些单位元素可以组合成模块，通过相关元素的亲密性（留白的多少），能<strong>说明关系</strong>。下图右的9个方形，7-9的与1-6的留白明显不同，所以我们不会把它们看成一个模块。 <img src="https://images.xiaozhuanlan.com/photo/2019/65965fe22afae28aefbbbb3b137ba04b.png" alt="" loading="lazy"></p>
+</li>
+<li>
+<p><strong>模块间留白</strong>，对应的是 margin，比如，图片区和文字区之间的留白，banner 和列表间留白。除了<strong>美观和呼吸感</strong>，还能<strong>创造视觉层次</strong>，引导视觉线。下图仅仅依靠留白，也知道哪段文字对应哪张图片，不会混淆。 <img src="https://images.xiaozhuanlan.com/photo/2019/15dba21a9e2ca04ac078e483edb702df.png" alt="" loading="lazy"></p>
+</li>
+</ul>
+<h1 id="恰到好处">&quot;恰到好处&quot;</h1>
+<p><strong>高留白率对应低版面率</strong>，也就说留白越多，内容区域就越少，所表达的信息可能就越少。因此，留白不是越多越好，而是要恰到好处。</p>
+<h2 id="留白不等于极简">留白不等于极简</h2>
+<p>虽然&quot;极简&quot;常常与&quot;留白&quot;联系，但两者并不相等。&quot;极简&quot;是如非必要，其他一切都不要有，如果展示电商产品展示，就只需要一张图、一个名字、一个购买入口就可以了。&quot;留白&quot;则是留出适当的空白，对于内容的要求不会如此苛刻，可以添加描述性的话语、烘托氛围的背景等。 我认为<strong>极简适合少量内容的纯展示场景或产品设计</strong>，比如无印良品的极简海报、Apple 官网产品展示和其他一些 banner 之类的。对于信息量大、重功能的场景，应该用留白思维设计，比方浏览器中条目展示量和美观度、清晰度平衡的留白。 <img src="https://images.xiaozhuanlan.com/photo/2019/bc879f0eae13b5c9a3bd19a2bcaa4132.png" alt="" loading="lazy"></p>
+<h2 id="留白不等于一味增加空白">留白不等于一味增加空白</h2>
+<p>有些人会觉得内容不变，那么增加留白的方式不就是要增大空白面积吗？未必。举个例子，Gmail 今年的改版后，页面显得简洁了很多，留白面积看起来也增大了，但是一屏展示的邮件条目不减反增。是怎样做到的呢？首先，<strong>去掉了分割线</strong>，采用全白背景，就不会把空白区域切割成一块一块的。其次，<strong>缩小了字号</strong>，从下面的对比图就能看出来。此外，不再出现有彩色的控件（未知头像的显示不算在内），留白更加完整。 <img src="https://images.xiaozhuanlan.com/photo/2019/234b1d6b56bbb79a28164aed853a8bd0.png" alt="" loading="lazy"> 再来看微信的改版，虽然列表的高度增加了，但同时也缩小了列表组之间的间距（红色部分），减淡了顶部和底部的背景色，分割线没有以前明显，宽度也缩短了，还把面性图标换成了线性，这些技巧都让留白面积增大，对信息表达的影响却不大。 <img src="https://images.xiaozhuanlan.com/photo/2019/bbfb82aa07d711166a0dc9b622b06d0f.png" alt="" loading="lazy"></p>
+<h2 id="留白是增加空间的透气口">留白是增加空间的透气口</h2>
+<p>为了空间的开阔，还可以通过<strong>增加空间的透气口</strong>来实现。以下版面在四个角上都放置了元素，空间显得不开阔，留白被严重分割，给人局促感。 <img src="https://images.xiaozhuanlan.com/photo/2019/f9cfb38a093d818aa118bf8eafc44287.png" alt="" loading="lazy"> 如果要最大限度发挥留白的作用，向外扩展版面，在四个角落的两三个角落上摆放元素即可，这就是有意识留下了透气口。下面三个修改案例除了图片外，其他元素内容都是相同的，上两个是三角上有元素，最后一个是两角有元素。画面是不是显得开阔很多呢？ <img src="https://images.xiaozhuanlan.com/photo/2019/cd7d177feac4f4129eb2f182aca1cb02.png" alt="" loading="lazy"></p>
+<h1 id="总结">总结</h1>
+<p>本文简述了留白的发展历史，用3种留白类型说明了留白的作用，最重要的是，留白一定要&quot;恰到好处&quot;，既不是一味增加留白，也不是一味删减内容，而是通过合适的排版技巧，把空间保留下来。做设计的时候，需要去衡量简洁和信息表达何者更为重要，再确定用什么样的留白方式。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[排版第十二课：对比的艺术]]></title>
+        <id>https://souffleinspire.github.io/post/typesetting-12/</id>
+        <link href="https://souffleinspire.github.io/post/typesetting-12/">
+        </link>
+        <updated>2019-11-24T17:43:25.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
+<p>今天这篇，我们先来回顾一下设计知识树：排版设计。四大排版原则只剩「对比」原则，本文来为你介绍介绍。 <img src="https://images.xiaozhuanlan.com/photo/2019/327e4b600301d2a925df1020d5745dec.png" alt="" loading="lazy"></p>
+<h1 id="对比">对比</h1>
+<p>对比其实就是<strong>差异化</strong>。人类对差异很敏感，这是进化中形成的生存机制，一个原始人会通过对比不同时间居住环境的差异来判断是否有潜在危险，对比吃了某种食物前后的身体反应来判断是否有毒。</p>
+<p>对比越大，越会引起我们的注意。在一群体型差不多的人潮中，突然出现一个特别高大的大个儿，你的目光一定会瞬间聚焦在他身上。 <img src="https://images.xiaozhuanlan.com/photo/2019/da429b93eae42bfe97bd7211546b627e.png" alt="" loading="lazy"> 白天鹅群中的黑天鹅格外醒目： <img src="https://images.xiaozhuanlan.com/photo/2019/86e050d7f43c25e221a68fa425688a0b.png" alt="" loading="lazy"> 对比是视觉设计中最常用的设计手法之一，没有对比或对比不明显，画面就会平平无奇，无法抓住用户的眼球。你看，下面哪张海报更有意思一些呢？ <img src="https://images.xiaozhuanlan.com/photo/2019/861afda69b79fd2e457ce4cf40710013.png" alt="" loading="lazy"> 除了<strong>形成视觉冲击力</strong>之外，对比还有一个很重要的作用，也是之前反复提到的----<strong>建立信息层级</strong>。有了对比，才谈得上谁是主角，谁是配角。 <img src="https://images.xiaozhuanlan.com/photo/2019/d8b2afd28f0ecfd4eedd1f4f9e69f3f2.png" alt="" loading="lazy"></p>
+<h1 id="对比的类型">对比的类型</h1>
+<p>从上一节课其实可以感知到，万物皆可对比。设计中的对比技巧自然也是多种多样，比如说：大小、形状、颜色、纹理、位置、方向等等，今天主要给大家介绍4种直观简单的对比方法。</p>
+<h2 id="1-大小对比">1. 大小对比</h2>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/28f8b47b05d108e5138f6f29890bc3d9.png" alt="" loading="lazy"> 大小对比的目的是第一时间聚焦到重点信息----形成对比的物体上，大小对比需要<strong>明显的差异</strong>。左图大大的&quot;月亮&quot;和小小的&quot;骑自行车的人&quot;之间强烈的冲突，反而让人注意到小人物。右图放大局部而缩小整体，突出的是人物关系。 <img src="https://images.xiaozhuanlan.com/photo/2019/fe8dc396a79655946848917f8f0e87fc.png" alt="" loading="lazy"> 大小对比的方法是<strong>先打散内容，然后把重点信息提炼出来，放大展示</strong>。比如下面这个案例： <img src="https://images.xiaozhuanlan.com/photo/2019/9e515f2e29596014799a6852d1f26c57.png" alt="" loading="lazy"></p>
+<h2 id="2-颜色对比">2. 颜色对比</h2>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/b455fcb9e073911967156f798a0f5ab7.png" alt="" loading="lazy"> 所有的颜色属性都能拿来对比，比如：色相、明暗度、显色度、冷暖感......下面三幅图都包含色相对比、明暗对比和冷暖对比，通过色彩比例的搭配，视线更能聚焦起来。 <img src="https://images.xiaozhuanlan.com/photo/2019/e7dee1fe1ddc1b6b4082f15e40a7e767.png" alt="" loading="lazy"> 还是这个例子，冷色背景下用暖橙色突出重点，不仅形成强调，还能营造温暖的感觉。 <img src="https://images.xiaozhuanlan.com/photo/2019/0ce6124e0ade583684d90625cc5e9ac7.png" alt="" loading="lazy"></p>
+<h2 id="3疏密对比">3.疏密对比</h2>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/5385e2ab70ea0cd3ee2bb0629ac0bda8.png" alt="" loading="lazy"> 文字是稀疏更顺眼，还是密集更顺眼呢？其实过于疏和过于密都不合适，但是总的来说，<strong>太密集给人带来的不适感是更强烈的</strong>，所以多数情况下，<strong>主题内容相对稀疏，次要内容相对密集</strong>，比如下面两张图。 <img src="https://images.xiaozhuanlan.com/photo/2019/cb9add265bd1dd12c291f8296a9b526f.png" alt="" loading="lazy"> 运用疏密对比重新设计上面的案例，可以明显感觉到更具有呼吸感，留白的增多也让其看起来更高级。 <img src="https://images.xiaozhuanlan.com/photo/2019/19de0c5adbfcb6c45be762e6698e9d10.png" alt="" loading="lazy"> 再举一个特别简单的例子，这样的疏密对比能帮助我们解决生活中的一些常见设计问题。 <img src="https://images.xiaozhuanlan.com/photo/2019/f0f14aff03c5982a2b5c0abd8567f5e9.png" alt="" loading="lazy"></p>
+<h2 id="4虚实对比">4.虚实对比</h2>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/5d27b8465ccd088472fef412f94358b2.png" alt="" loading="lazy"> 自然环境中的前后景同时也带来虚实感。在人眼中，过于靠近和过于远离的东西都是发虚的，处于中间的事物才是轮廓清晰的。这种对比常常被用在设计中，<strong>虚的内容主要烘托氛围，实的内容才是信息主体</strong>。左图除了主体人物外其他都是虚的，令杂乱的画面呈现出秩序感。右上前景是虚的，说明离视线很近，用户会自然的通过这个视角来看画面。右下图中运动物体是虚的，静止物体是实的，这种&quot;真实感&quot;也会将人带入画面。 <img src="https://images.xiaozhuanlan.com/photo/2019/8e910312bc9354fe8686b103718f53a5.png" alt="" loading="lazy"> 当然，也有一些别的东西能带来虚幻的感觉，比如毛玻璃、沙尘、雾、光等，我们也可以巧妙地模拟这些效果。 <img src="https://images.xiaozhuanlan.com/photo/2019/12beea7bef657dde950ab908a6045fdc.png" alt="" loading="lazy"> 增加虚实对比就像添加调味品，经常能使设计变得有趣，或者可以烘托画面气氛，从而更加吸引人。 <img src="https://images.xiaozhuanlan.com/photo/2019/3b4264b6ce2bbfe66df29d224635a827.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/87f89e7273e161714220422ef1eb7cf3.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/c18a8606e1bbc88d86664be61c34a227.png" alt="" loading="lazy"></p>
+<h1 id="总结">总结</h1>
+<p>本文介绍了「对比」为什么会成为排版非常重要的原则，它的两个主要作用是：形成视觉冲击力 和 建立信息层级。接着讲述了4种对比技巧，同时还列举来一些案例。最后留个小作业，下面这张图运用了哪些对比呢？答案可以是上面说到的，也可以不是，开动你的小脑袋想想吧～ <img src="https://images.xiaozhuanlan.com/photo/2019/262f072bdac73b619052301efb3a91a6.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[排版第十一课：无处不「重复」]]></title>
+        <id>https://souffleinspire.github.io/post/typesetting-11/</id>
+        <link href="https://souffleinspire.github.io/post/typesetting-11/">
+        </link>
+        <updated>2019-11-12T16:08:37.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
+<p>四大排版原则中「对齐」、「亲密性」已经介绍过了，今天讲「重复」。重复，又称作&quot;反复&quot;，在设计里就是说某些元素反复出现，这些元素可以是任何东西，比如：颜色、字体、造型、符号......</p>
+<h1 id="无处不重复">无处不重复</h1>
+<p>目之所及的任何地方都有重复。一个地方同一路公交车的颜色、车型、标志是相同的，这是重复；一个餐厅菜单上的排版方式、同一层次文字的字体字号一致，这是重复；一个酒店同一价位房间的装修、摆设几乎同样，这是重复。 <img src="https://images.xiaozhuanlan.com/photo/2019/1d8213ebb0d7bbbacf1daf1d4281762d.png" alt="" loading="lazy"> 在设计里，一套 ppt 会出现重复的颜色；一本杂志会出现重复的装饰元素；一个 app 会出现重复的控件。 <img src="https://images.xiaozhuanlan.com/photo/2019/b9934e8d51a890b2c4e1afeb0e8660ac.png" alt="ppt里的重复" loading="lazy"></p>
+<figure data-type="image" tabindex="1"><img src="https://images.xiaozhuanlan.com/photo/2019/7bf49c4544295cc95490ee41d46edda9.png" alt="app 里的重复" loading="lazy"></figure>
+<h1 id="重复的作用">重复的作用</h1>
+<p>我们都知道「重复」有助于保障设计的<strong>一致性</strong>和<strong>条理性</strong>，对主体进行重复还能起到<strong>强调作用</strong>，但是人们为什么普遍倾向于使用重复的东西呢？我认为这是因为「重复」是<strong>最能保证稳定输出效率的一种方式</strong>。放在生活里就很好理解了，比方说，如果我们掌握了快速建筑一栋楼的技术，重复建造相同的楼就是最稳妥、效率最高的，而且在重复建造的同时，工人的秩序、原料的供应等等就能越来越标准化，成本也会越来越低。 <img src="https://images.xiaozhuanlan.com/photo/2019/016d3dd1a7a747aeaac6b718cd124cb4.png" alt="" loading="lazy"> 设计师为什么要用大量的重复？道理是一样的，类似功能的控件共用一个是最&quot;节省成本&quot;的，设计规范也就是这么来的。</p>
+<h1 id="排版元素的重复">排版元素的重复</h1>
+<p>还记得排版的两大要素吗？分别是 <strong>图形图像</strong> 和 <strong>文字信息</strong>，所以「重复」实际上就是指对这两者的反复使用。</p>
+<h2 id="图形重复">图形重复</h2>
+<p>这里说的「图形」是一个广义的概念，包括矩形、线形、心形、圆形、多边形......把各种图形堆叠在版面或者页面上的，一般是抽象画，不是设计。设计在多数时候是<strong>重复使用少量的图形</strong>，下面这个案例中就使用了太多的图形表现商品，让人觉得每一个商品的属性都是完全不一样的。用户还会简单的看哪个的视觉效果比较重，而选择优先注视哪个，但其实它们都只是椅子的不同款式而已。 <img src="https://images.xiaozhuanlan.com/photo/2019/802ebaf987dcf3cba682a45b587cf701.png" alt="过多的“非重复”" loading="lazy"></p>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/d0e07c8de50e978cf3ed6a0fd72a51bb.png" alt="利用“重复”原则改稿" loading="lazy"> 图形重复还是 logo 设计中百试不厌的方法，有时单纯的重复未免太过无聊，使用重复+突变、重复+渐变、重复+旋转、重复+对称等技巧能让重复也变成巧思。 <img src="https://images.xiaozhuanlan.com/photo/2019/dab9fe0808f82eeae3b8e2bd23d7cba7.png" alt="" loading="lazy"></p>
+<h2 id="图像重复">图像重复</h2>
+<p>图像重复经常被用在艺术创作、平面作品中，比如这两张海报： <img src="https://images.xiaozhuanlan.com/photo/2019/82c6d79be18f2098b10a55392276c766.png" alt="" loading="lazy"> 当然，图像重复也不只一种表达方式，构图的重复、色调的重复、图像内容形态的重复等也属于。 <img src="https://images.xiaozhuanlan.com/photo/2019/a19a43a728235d444db1c406cac40646.png" alt="" loading="lazy"></p>
+<h2 id="文字重复">文字重复</h2>
+<p>文字的属性包括：字体、字形、字号、字重、文字的颜色等，重复利用文字的这些属性能够很好的体现文字层次，一个 APP 内不同页面的信息层级结构也依赖于文字的&quot;重复性&quot;体现。除此之外，像是文字的对齐、图文排版的结构等也能够&quot;重复&quot;起来。 <img src="https://images.xiaozhuanlan.com/photo/2019/468274eb7f928303c16ec0877c77b6ad.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/c0dc7c46365132ac6d89909d5214f2d9.png" alt="" loading="lazy"></p>
+<h1 id="案例分析">案例分析</h1>
+<p><img src="https://images.xiaozhuanlan.com/photo/2019/22c0d31d8387836d06626d50fd724b33.png" alt="" loading="lazy"> 上图是以前我为一个项目倒饬的引导页，这里面就运用了很多重复，可以列举几个：</p>
+<ol>
+<li>
+<p>文字重复：不同层次的文字字号、颜色、位置重复</p>
+</li>
+<li>
+<p>图形重复（没有用到图片，插画归为图形）： · 内容重复：同一个人物，拿着同一部手机，同样视觉化了手机里的内容 · 构图重复：都是前、中、近景构图 · 颜色重复：每张引导页的配色是基本&quot;重复&quot;的</p>
+</li>
+</ol>
+<p>单从「重复」角度来说，其实也有做得不够好的，比如中间这张人物占用的面积、场景的氛围就明显与左右两张不&quot;重复&quot;，这些都是可以改进的。</p>
+<h1 id="总结">总结</h1>
+<p>总结下，「重复」能起到保证 一致性、条理性、强调性、高效率稳定输出 的作用，在 PPT、海报、界面、书籍、各种产品上随处可见，思考重复元素的时候可以回到排版的两大元素----文字信息重复和图形图像重复。最后请大家留心观察一下，身边还有哪些重复呢？</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[设计知识树]]></title>
         <id>https://souffleinspire.github.io/post/design-tree/</id>
@@ -23,291 +374,6 @@
 <p>因为我自己是一个需要做 UI 的交互设计师，所以我把知识树分成了四大部分：<strong>视觉设计、UI 设计、交互设计 和 通用能力</strong>。从图上看起来 视觉设计 模块的内容是最多的，其实不是。一方面是视觉设计写的最为详细，其他模块很多点没有展开了，这个“树”我也会不断完善。另一方面，按照 视觉设计--UI 设计--交互设计 的顺序，后一层的知识体系都建立在前一层的基础之上，因此 UI 设计需要掌握视觉设计的知识，以此类推。还有一点，视觉设计包含的大部分内容也是本专栏的主要内容，大家会注意到，“色彩构成”的内容我都介绍过了，现在“排版设计”也写了一部分了，我还开设了另一个小专栏<a href="https://xiaozhuanlan.com/sketch-go">《设计行录：Sketch 快速入门》</a>来专门介绍软件，它们都在知识树内，这个小专栏我会持续输出文章，直到把视觉设计的知识点讲完。</p>
 <p>写作逻辑原本只在我自己的脑子里，但是设计的知识体系实在太细碎了，我自己写着写着也有一点迷失方向，感觉和大多数人写的没什么区别，所以还是明明白白记录下来比较好，而且大家也可以理解我的意图，甚至走在我的专栏前面去学习更多知识。</p>
 <p>还想说一句，有学习设计想法的各位，不论你是否从事设计师行业，或者是否想要进入设计行业，都不应该成为你看设计类文章的阻碍，尤其是了解这些基础设计知识。因为设计就在你的生活里，多看一点，就能多提升一点审美能力。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[色彩第二十课：色彩重心]]></title>
-        <id>https://souffleinspire.github.io/post/color-20/</id>
-        <link href="https://souffleinspire.github.io/post/color-20/">
-        </link>
-        <updated>2019-05-26T15:55:27.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/73a781722df7787d49e60ee991aa5742.png" alt="" loading="lazy"> 上图来自于一个网站，勾勒出一副类似香港街头的画面，虽然是线条画，但画的很细致，有节奏，也有秩序。但是，画面中黑色线条与橙红色线条交错，显然抓住眼球的橙色却没有一处特别突出，也就是说，这张图有一个缺点----<strong>缺少视觉重心</strong>。这是因为这张图是 banner 配图，本应有个大标题的，缺少这个元素，即使是美图一张也会失去一定的魅力。 <img src="https://images.xiaozhuanlan.com/photo/2019/5813fe6485bf763865ad90b84c6d9d15.png" alt="" loading="lazy">前面一篇文章中，我表明过自己的观点：<strong>色彩和版式是密不可分的，抛开排版谈色彩就是耍流氓</strong>，所以今天我要普及一下&quot;色彩重心&quot;的知识。</p>
-<h1 id="色彩重心">色彩重心</h1>
-<p>首先，什么是色彩重心呢？说白了，就是<strong>用色彩表达视觉重心</strong>。版面的视觉重心其实没有什么限制，图片、图形、色块甚至是文字都 OK。无论外形怎么变化，我们都能把它看成一个点或者一个组，起到<strong>引导视线、突出重点</strong>的作用。比如说下面的几张图，就有明显的重心点，而且它们主要都是通过与周围环境形成色彩差异形成聚焦效果。 <img src="https://images.xiaozhuanlan.com/photo/2019/59a86626522439952b0b4e873bd7160d.png" alt="" loading="lazy"> <strong>色彩的对比造成色彩重心强度不同</strong>。你看，一模一样的版式，因为灰色更深，右侧这个重心就比左侧的重，带来的视觉冲击力也更大。 <img src="https://images.xiaozhuanlan.com/photo/2019/5c53d04646b9e21c9dd7a9a3f8a44f66.png" alt="" loading="lazy"> 加个颜色看看，是不是对比更强烈了？<strong>色彩差异越大，重心越突出</strong>。 <img src="https://images.xiaozhuanlan.com/photo/2019/a4968287fde60aa9cc340557d5e00995.png" alt="" loading="lazy"></p>
-<h1 id="寻找重心点">寻找重心点</h1>
-<p>上面所有的案例都是理想&quot;模型&quot;，可是很多时候，视觉重心可能不是一个形态相对完整的元素，而是元素上的某个区域。咱们来看一些例子，找找它们的重心。 <img src="https://images.xiaozhuanlan.com/photo/2019/8cf000a67f492e1a540bc058f1339730.png" alt="" loading="lazy">形态完整的元素，无论是图片、图形还是文字等，重心点就是在主题元素的中心。</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/cbc81ed9fba69a94a4cc65128af9492c.png" alt="" loading="lazy">这张 banner 中元素多且呈现非连续的形态，但有很明显的视觉引导效果，所有元素指向中心茶杯的区域，视觉重心便在于此。</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/66198b2dcd4d365259b47aa01e5e2691.png" alt="" loading="lazy">对于非均衡形态的元素，通常会在视觉聚焦的区域寻找重心。</p>
-<h1 id="重心的设置与平衡">重心的设置与平衡</h1>
-<p>能找到重心，再去看更多的设计作品，就能发现一些设置重心的&quot;套路&quot;了，我也为你总结了一些。不仅限于平面作品，插画、UI 中都适用。</p>
-<h2 id="版面中心">版面中心</h2>
-<p>找中心点的方法很简单，因为它就是<strong>版面对角线的交点</strong>，这种重心更适合相对独立的元素。 <img src="https://images.xiaozhuanlan.com/photo/2019/ace90c1d860f209cc2e52736bf902560.png" alt="" loading="lazy"> 简单举个例子看一下。 <img src="https://images.xiaozhuanlan.com/photo/2019/b9c7f60cf2cccb4959bc2289ed37b635.png" alt="" loading="lazy"></p>
-<h2 id="版面中心线">版面中心线</h2>
-<p>中心线指的是<strong>对称线</strong>，这种方式能创造更多的可能。除了交点（也就是中心点），还可以在偏离中心的一些位置上。 <img src="https://images.xiaozhuanlan.com/photo/2019/aa86affe77e4accb85defa748b465baf.png" alt="" loading="lazy"></p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/2b64a4e4eaa9809f9da23ee514fa6bad.png" alt="" loading="lazy">重心元素位于版面水平中心线左侧的设置，比较符合从左到右的阅读习惯，能起到强化主题的作用。</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/66c2cb398e3e569f4eab8b7a487508ca.png" alt="" loading="lazy">重心元素位于版面水平中心线右侧的设置，可以让左右版面受到同等的关注。</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/d78206c7b3b69ba0d4a202aa066015ec.png" alt="" loading="lazy">重心元素位于版面垂直中心线的上方，会根据重心元素的状态呈现不同的效果。如果元素较其他部分更重的话，会有下坠、衰落的感觉。反之，如果元素更轻，感觉是积极向上的。 <img src="https://images.xiaozhuanlan.com/photo/2019/af0208498f165f763c05003d9e552694.png" alt="" loading="lazy"></p>
-<p>重心元素位于版面垂直中心线的下方也是类似的。元素重，让人感觉踏实、可靠；元素轻，产生上升、不稳定感。 <img src="https://images.xiaozhuanlan.com/photo/2019/a67756b8d578b048f42b00524a268ebf.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/bc61c4128b528198b0431f32ef6780a4.png" alt="" loading="lazy"></p>
-<p>如果色彩重心不止一个，也不用担心，版面中心线还是能解决问题。</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/54a0831b0b6916a634cacc9865826c63.png" alt="" loading="lazy">重心元素均匀排列在水平中心线上，可以引导观者视线左右移动，容易带来平静、缓和的感受。<img src="https://images.xiaozhuanlan.com/photo/2019/97d760503232787c4a8e3841d868da45.png" alt="" loading="lazy"></p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/6acf88b669cc876b9ed92f9b81eabb0c.png" alt="" loading="lazy">重心元素均匀排列在垂直中心线上，版面会被拔高，能一定程度提高纵深感。<img src="https://images.xiaozhuanlan.com/photo/2019/9415d927b88c07732a835f8dbae223f9.png" alt="" loading="lazy"></p>
-<p>多个重心元素在中心线上分布的可能性还有很多，就不一一具体分析了。 <img src="https://images.xiaozhuanlan.com/photo/2019/e73bca4fbd6c7689eb62fe91661a21ce.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/b44b108ecc5a2f2f5fffe236a0d8ef55.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/d295822e6098463c0061bb0f13b92ae0.png" alt="" loading="lazy"></p>
-<p>虽然大部分在中心线上设置重心点的版式都不会引起大问题，但需要特别注意以下这种排版。看似稳定的排列，但实际上在中心形成了一个视觉空区，很难让人找到焦点，应该慎用。 <img src="https://images.xiaozhuanlan.com/photo/2019/e6576da06cac33951af213c9caa6dafc.png" alt="" loading="lazy"></p>
-<p>在中心加上一个重心就完全没有问题了，几乎是一种最稳定的结构，而且可以很好地扩展版面。 <img src="https://images.xiaozhuanlan.com/photo/2019/e2d4391db905999665ec812a2b0db3b4.png" alt="" loading="lazy"></p>
-<p>还有需要提醒的是<strong>色彩重心越多，就越需要重视重心平衡</strong>。过于偏向一侧的重心，不便于阅读或者观看，那么就需要更多的技巧去中和。</p>
-<h2 id="版面对角线">版面对角线</h2>
-<p>对于规则的版面来说，除了中心线之外，还有另一种特殊线----对角线。在对角线上设置重心点也是冇问题滴，不同的分布也会带来不同的视觉感受。</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/71b9c9dcd6d1703e330dd6e7440b6445.png" alt="" loading="lazy">左上角、右上角的位置，通常留给人积极的印象。左下角、右下角的视觉重心则展现低调、克制的气质。 <img src="https://images.xiaozhuanlan.com/photo/2019/996e29f2d00174cedc5b42c64127acb2.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/566cc3734559a44f73f7e266ee072008.png" alt="" loading="lazy"></p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/b09eceaf64880f03f8e62f7a5ab5b25c.png" alt="" loading="lazy">多个重心元素出现在同一条对角线上时，观者的视觉会围绕这根线移动，虽然营造了不稳定感，但是能极大地发挥动感。<img src="https://images.xiaozhuanlan.com/photo/2019/bd42b8c9e949b4f64621f1f3cfa56389.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/2f5719bb2dbad7aae06ebc8d21cda507.png" alt="" loading="lazy"></p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/396e1b392c5a4b6972749df1c7da95d5.png" alt="" loading="lazy">当重心形成三角形时，画面效果趋于稳定且不死板。<img src="https://images.xiaozhuanlan.com/photo/2019/608e0198dfafd2d25ac1377bdc81890c.png" alt="" loading="lazy"></p>
-<p>除了这些排版方式外，版面边角区域的色彩重心布局还可以更加多样，感兴趣的小伙伴可以自己常识摸索一下。</p>
-<h1 id="一点想法">一点想法</h1>
-<p>很多人觉得设计师是完全感性主导的群体，甚至认为像我在金融行业中做设计，是不是会存在感性和理性的冲突。 每次被问到这种问题，我都觉得挺奇怪的。感性和理性本来就是一个人性格的两部分，跟从事什么行业关系好像并不大呀。而且无论从观察还是经历来说，我都认为<strong>理性</strong>和<strong>逻辑</strong>对个人职业发展非常重要，设计师也是如此。有些设计师做出来的东西让人感觉很舒服或者感受极佳，就是因为他们会自觉不自觉地运用上一些理论和逻辑。 所以我希望大家不要对任何行业抱有偏见，也希望设计师不要对一些基本理论视而不见。一个人能走多远，在于他看到的远方有多远。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[色彩第十九课：这份色彩测试题，请收好]]></title>
-        <id>https://souffleinspire.github.io/post/color-19/</id>
-        <link href="https://souffleinspire.github.io/post/color-19/">
-        </link>
-        <updated>2019-05-12T16:01:10.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
-<p>五一去马来西亚-沙巴逛了一圈（偷了个小懒😁）。旅行中，除了清澈美丽的海、热情洋溢的当地人令我印象深刻，还有就是五彩缤纷且搭配适宜的房子（居民楼也是哦～），相比之下，国内的建筑物就显得高冷许多。在好的色彩氛围下，人们对颜色的感知力一般不会太差，而色感也是对设计师的一项基本要求。今天这篇文章想给你做一套测试题，试试自己的色彩力强弱，也看看在哪方面有待加强，建议用手机看。</p>
-<h1 id="色彩力测试">色彩力测试</h1>
-<p><strong>第一 part</strong>，先来个<strong>基础版</strong>，请看题： <img src="https://images.xiaozhuanlan.com/photo/2019/23f4b46ffa707098e9edc2e72670a0d9.png" alt="" loading="lazy"> 第一道题选膨胀色。颜色可以&quot;放大&quot;或&quot;缩小&quot;物体，像黄色、红色、橙色等暖色，可以使物体看起来更大一些，称为膨胀色。而蓝色、紫色等冷色的作用相反，能起到&quot;收缩&quot;物体的功能，称做收缩色。但是，物体在视觉上的大小，还和明度相关。同色相中明度更高者膨胀感更强。大家根据常识应该也知道答案选 B。</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/db259b2935a5e8c8e1ee713ab05e253a.png" alt="" loading="lazy"> 第二题选后退色，前进色和后退色的知识点可是敲过黑板的。同一平面上，某些颜色看上去会比另一些颜色退后，相应就会有一些颜色显得凸出。与膨胀色类似，红色、黄色等暖色彩度高，一般为前进色；低彩度的冷色，如：蓝色、蓝紫色等为后退色。所以最终答案选 D。</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/3aa67b80f0b60b66c9a6c54333869548.png" alt="" loading="lazy"> 第三题考色彩带来的时间效应。这个我在<a href="https://xiaozhuanlan.com/topic/3450812697">《色彩第五课：色彩解析之红色》</a>的文章中有说过，原文是：</p>
-<blockquote>
-<p>餐店的装潢以红色、黄色等暖色为主，除了可以让人兴奋、刺激食欲之外，还能让人觉得时间过得很慢，所以在快餐店等人是很难熬的。这大概是因为我们的血液是红色的，人们看到外界的红色容易加速脉搏，升高血压，在这样的环境中待得越久，会让人越发焦躁。反之，冷色调能让人内心平静、心情舒缓、放松，和适合用在咖啡馆、高档餐厅或者会议室里。</p>
-</blockquote>
-<p>答案不言而喻，让人觉得时间漫长的是 B 选项。</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/835a4961ef48cb986c29e6fe171cb1a5.png" alt="" loading="lazy"> 第四题需要在组合中挑选可视性最高的一组颜色，&quot;可视性&quot;也就是容易分辨的意思。首先，纯度和明度高的颜色肯定是更好辨认的。其次，两种颜色的差异越大，可视性就越高，差异性主要体现在色相差异、明度差异、纯度差异上。上面几组配色中，最亮眼的无疑是黄黑搭配，如果留心观察，会发现生活中很多警示标志就是用的这种配色。答案是 C。</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/5406031bf76a363bfde4ba144ab5cebb.png" alt="" loading="lazy"> 第五题选择橙色的互补色，这是考验色相关系。光学上的互补色是指以适当比例混合能产生白光的两种色光。在色轮上就是指互成180°夹角（互相面对）的一组颜色。调动一下脑子里的色轮图，橙色的互补色是蓝色哦～应该选择 A。</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/628dbfc7e193a78513e4a798f6f3c9e5.png" alt="" loading="lazy"> 第六题不仅考察色彩力，还需要有一定的观察力。题干上的颜色从左至右的明度是越来越低的，纯度没有变化，应该还是比较简单的，正确答案是 C。</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/a5d344e23458e129388c8f7d2b42cb8c.png" alt="" loading="lazy"> 第七题还是和明度有关。比较难分辨的应该在暖色和中性色中选择，颜色越亮的明度越高。明度从高到低排列应该是 D &gt; A &gt; B &gt; C，所以是选 D。</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/54ba5b3b3e240e1e43222df2f0873244.png" alt="" loading="lazy"> 第八题选纯度最高的，也就是色彩最纯的。四个选项中，B 和 D 显然颜色是比较淡的，其中 B 最淡。A 的明度更低，有经验的话会发现低明度的颜色会感觉纯度高一些，但事实并非这样，假设 A 和 C 的明度相同的话，是 C 的纯度更高，答案就选这个啦。</p>
-<p>现在进入<strong>第二 part，进阶版</strong>： <img src="https://images.xiaozhuanlan.com/photo/2019/e5d5fe1e7a40a66ff369a4fd857f1d2a.png" alt="" loading="lazy"> 进阶版第一题，选出最适合用于儿童产品设计的颜色。儿童，尤其是幼童，对色彩的辨识能力还没有那么成熟，他们会更喜欢黄色、粉色之类的暖色，而且明度要高，所有暗沉的色彩都被认为是不适合儿童类产品的。那么就应该选择 A。</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/42647ba56f8f22d34844959e1d131213.png" alt="" loading="lazy"> 第二题选择最适合西式面包店包装的颜色。西点店几乎都是面粉制品，烤出来的糕点呈焦黄色，香味很浓郁。为了最大体现食物的美味，最好就是用和面包、糕点差不多的颜色来唤起大众的心理印象，也就是偏暗一点的黄色调，选择 B。</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/1b4b209c3839615e2c4498d2e571f8dc.png" alt="" loading="lazy"> 第三题需要结合常识，看哪个颜色和新版5元人民币的主色最接近。先来一张高清图让你看清5元钱上毛爷爷的英姿： <img src="https://images.xiaozhuanlan.com/photo/2019/40b647b28c9616fee138f5b78144a669.png" alt="" loading="lazy"> 所以是偏低明度的紫色，选 D。A是10元纸币主色，B是1元纸币，C的明度太高了，你有没有选对？</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/b1f6053fd9a880bfced58ac50b942996.png" alt="" loading="lazy"> 第四题选出2019年的年度潘通色----珊瑚橙。与近几年的年度潘通色不同，珊瑚橙是一种浓艳又充满活力的颜色。而潘通研究机构选择这个颜色可不仅仅是为好看，还是想借以警醒世人珊瑚的严峻生存状况，小编本人在浮潜的时候就发现来很多白化的珊瑚。话说回来，珊瑚橙是长这样的： <img src="https://images.xiaozhuanlan.com/photo/2019/1fa348572b4ba72b55534ca63680c2f4.png" alt="" loading="lazy"> 选项中 B 就是珊瑚橙本橙了，A、C分别是2017和2018年的潘通色，D的颜色比较&quot;脏&quot;，是很难当选潘通色的。</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/96af05a42c8f6480ac28112d0e0199d4.png" alt="" loading="lazy"> 第五题选出题干两个颜色混合后的颜色。青色+深蓝灰色混合后色相值是在两者之间的，而且明显青色的纯度高一些，所以颜色应该偏青。另外，明度的差别也比较大，最后的颜色肯定比青色深，比深蓝灰色浅。这么分析还是不清楚的话，我来模拟一下： <img src="https://images.xiaozhuanlan.com/photo/2019/864d96b7c2d229de1f960b4e4419c09d.png" alt="" loading="lazy"> 结果显而易见了，选择 A。</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/0c277404fc659b70f5fca533bb362ff9.png" alt="" loading="lazy"> 第六题也是颜色的混合，只是换了一种描述方式。按照上一题的分析，青色和品红混合后，色相应该是介于两者之间的蓝色至紫色之间。青色的比例是50%，而品红是100%，所以颜色偏向红色，结果呈紫色，选 D。 <img src="https://images.xiaozhuanlan.com/photo/2019/409d3ac90fd7a1b6d30f1f3f43bc1409.png" alt="" loading="lazy"> 模拟结果如上图。</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/5ef269367596cb73c95ffe24d13fc574.png" alt="" loading="lazy"> 前面两题是颜色的混合，第七题考察颜色的分解，会稍难一点，但是依旧可以用第五题的思路倒推。绿色在色带中介于黄色和青色之间，所以基本可以锁定答案在 C、D之间。绿色比较亮，D 选项里的两个颜色明度都较低，不可能产生高明度色彩，答案只能选 C。</p>
-<p><img src="https://images.xiaozhuanlan.com/photo/2019/f6cd6ddd29c3215dfff6690b28159464.png" alt="" loading="lazy"> 最后一题依照 RGB 色值匹配对应的颜色。做这一题，首先需要知道 RGB 分别代表红色R、绿色G、蓝色B。其次，RGB 是一种加色模型，三色以适当比例组合可以产生白色。再有就是，在 RGB 模式中三个值在0～255之间。因为涉及到三个颜色，所以我们拆开来想。R（红色）的值为210，G（绿色）的值100，红色和绿色混合为黄色，红色更多，那就会偏橙色。因为是加色，加入B 值为56的蓝色基本主要影响的就是明度，会比之前的橙色更暗一点。这样得出的结论是选择 C。让我们来验证一下，bingo！ <img src="https://images.xiaozhuanlan.com/photo/2019/0fa8867237e25b94a5bc5982bcaf3c92.png" alt="" loading="lazy"></p>
-<h1 id="一点想法">一点想法</h1>
-<p>上面的16道测试题你做对了多少呢？如果有全对的，可以在留言区举个爪哦～～如果没有全对，那在哪个地方卡壳了呢？相信你心里对色彩的把握度已经有数了，对症下药慢慢改善吧。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[色彩第十八课：我的快速配色法]]></title>
-        <id>https://souffleinspire.github.io/post/color-18/</id>
-        <link href="https://souffleinspire.github.io/post/color-18/">
-        </link>
-        <updated>2019-04-14T15:51:40.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
-<p>上篇说过，对我来说最简单的配色方法：<strong>找准风格 → 找同风格的作品 → 吸色填充 → 微调</strong>。但这并不意味着不需要有自己的思路，今天用几个例子示范一下。</p>
-<h1 id="案例一">案例一</h1>
-<p>下图是案例一中的插画草图。对于简单的构图，我多数情况下是参考其他一些插画里的元素，在 PS 里直接用钢笔勾勒轮廓，复杂的画会用画笔打底稿。你可以看到，我就是用黑白灰来占位的，因为比较习惯构图结束之后专门配色（毕竟不是专业插画师，没有那个底气）。 <img src="https://images.xiaozhuanlan.com/photo/2019/3456f0e4598d0eefd45388279383d7fe.png" alt="" loading="lazy"> 这个插画构图非常简单，抱着钥匙的人物是前景，问号是中景，房子是后景，重点是问号和钥匙。整体的风格希望是<strong>明丽、清新</strong>的，忽略不必要的细节，突出重点。根据这些特征，在平时收集的图片中找了一些比较相符的图片。 <img src="https://images.xiaozhuanlan.com/photo/2019/0854d6b4b552b55004e20fdfbdac5294.png" alt="" loading="lazy"> 接下来要分析一些更加具体的配色细节了。</p>
-<ul>
-<li>在自然光线中，<strong>越靠近自己的事物光影越强、越清晰</strong>。为了保持画面的风格，我会选择色调淡但是较明亮的颜色填充后景，用比较明艳的颜色处理前景。</li>
-<li>因为不追求细节，所以不用太讲究光影效果，但也要体现出主要物体<strong>适当的体积感</strong>，因此参考中最好是包含同色系的颜色。</li>
-<li>重叠部分需要用色彩对比区分开来，所以需要有<strong>一定的色相差异</strong>。 做了这些初步的考虑后，我选择了下面这张图的配色作为主要的参考。它虽然也是平面插画，但层次感处理得非常好，色彩也比较丰富。当然，我的构图简单得多，不会用到这么多颜色，按需选择。 初步配好颜色之后是这样的： <img src="https://images.xiaozhuanlan.com/photo/2019/28ee872bbe319b30dbaf86d3b16f95a9.png" alt="" loading="lazy"></li>
-</ul>
-<p>还是会有一些问题，比如说：问号正面和侧面色彩区分度不够导致体积感较弱；背景建筑物太暗，和整体色调不搭；前景不够突出，抱钥匙的&quot;大哥&quot;裤子太显眼；缺少必要的细节。</p>
-<p>针对问题慢慢调整，增添必要的细节。效果如下，基本满足要求。除了调整色彩之外，还给钥匙增加了闪光，给人物添了影子。 <img src="https://images.xiaozhuanlan.com/photo/2019/68ffcde0b611b7578e647b4d48bc3fe3.png" alt="" loading="lazy"></p>
-<h1 id="案例二">案例二</h1>
-<p>接下来这个案例是我平时练习的海报，全部由长方形、三角形、圆等几何元素构成。设计上没有什么特殊的含义，所以可以充分发挥色彩的魔力。 <img src="https://images.xiaozhuanlan.com/photo/2019/cd8e0695e9c81de7c2283a91f69194c1.png" alt="" loading="lazy"> <a href="https://images.xiaozhuanlan.com/photo/2019/1ccbcd26bf0a5a04445851f43c0109d7.png"></a> 我想尝试用尽可能少的颜色演绎不同的风格，但是也需要注意一些问题：</p>
-<ul>
-<li>因为有不少叠加效果，颜色至少要在<strong>3种以上</strong>；</li>
-<li>配色不用讲究很多，但是色彩之间一定要<strong>有强烈的对比</strong>；</li>
-<li>整体的色彩协调非常重要，尽量让不同色彩的占比舒服。 虽然做的是海报，但参考图片不需要局限在平面作品上，可以来自于 UI 、品牌、插画，甚至是文章。平时看到好的配色，应该毫不&quot;吝惜&quot;地收藏起来。我用这个设计做了三种风格。 首先是时尚风👇。结合上一篇《说风格与色彩》，时尚的色彩纯度高、明度高，一般会出现暖色，还经常使用撞色的技巧。根据这些特点，找了一张 UI 设计图做参考，很喜欢这组搭配，既有色相的强烈对比，也有明度的对比，还有冷暖的对比，完美！ <img src="https://images.xiaozhuanlan.com/photo/2019/b5be148a4ccd386b829ed85f832f764e.png" alt="" loading="lazy"> 然后是一张复古风的👇。我选择了两个暖色+一个冷色的搭配，显然是偏女性的轻复古，所以明度也应稍高一些。参考的是一个冰淇淋品牌设计图，三种颜色整体偏灰调，纯度上的对比非常明显。上面另一边的那组色彩也很不错，感兴趣的同学可以试试。 <img src="https://images.xiaozhuanlan.com/photo/2019/ed63f54ddf59673329666659b18cb863.png" alt="" loading="lazy"> 最后一张是走了偏力量感的风格👇。以冷色系为主，色相变化不是很大，主要靠饱和度和明度来充实。参考图也是平面作品，也是设计时候的参考图之一啦~不过我的色彩比例和参考图的差异很大，主要突出了亮色。 <img src="https://images.xiaozhuanlan.com/photo/2019/73fa5e6788447ec87421ab4786f87d9f.png" alt="" loading="lazy"></li>
-</ul>
-<h1 id="一点想法">一点想法</h1>
-<p>不管对谁而言，免不了要和各种图片啊、文档啊、文件打交道，光凭记忆力去找真是很痛苦的事情，我们也完全没有必要把时间浪费在搜索上，所以养成及时整理的习惯很有必要。而对设计师而言，图片可能占据了我们存储的很大一部分，而图片又是非常难整理好的。我有一个同事就是把各种图片、文件全部堆在桌面上，那叫一个乱啊。所以我墙裂推荐使用 <a href="https://cn.eagle.cool/">Eagle</a> 来收集和整理自己的图片，不是打广告，我自己真的很喜欢用，细节不说了，有需求的读者自行下载吧。</p>
-<p>以上参考图均来自于 dribbble</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[色彩第十七课：说风格与色彩]]></title>
-        <id>https://souffleinspire.github.io/post/color-17/</id>
-        <link href="https://souffleinspire.github.io/post/color-17/">
-        </link>
-        <updated>2019-04-07T17:26:14.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
-<p>上一篇文章分析的是从产品角度选择色彩的思路，不同的产品都会有自己的风格。那么在风格既定的情况下，如何把配色落地呢？今天就来一本正经&quot;传授&quot;一下本&quot;野生设计师&quot;的经验。</p>
-<h1 id="风格与配色">风格与配色</h1>
-<p>「工作导向配色派」并不能随心所欲地用色，而需要依据既定风格。面对这样的局限，肚子里总还是要有点货的，你需要知道什么样的风格对应的色彩特征有哪些。我为你总结了以下一些普遍风格的典型特征：</p>
-<p><strong>鲜明、活力、时尚、张扬</strong> <img src="https://images.xiaozhuanlan.com/photo/2019/c921f785d0873c0f642647847387f61b.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/b037548aca6db489a34b09f7d746a5c2.png" alt="" loading="lazy"> 这类风格的颜色会比较纯且明亮（饱和度S：80~100，亮度B：85 以上），暖色很少会缺席。还常常用撞色来增加醒目感，所以搭配时不用害怕大面积的色块，也可以大胆选择色相差异较大的色彩，比如对比色、互补色。代表APP：美图、淘宝。</p>
-<p><strong>浪漫、梦幻</strong> <img src="https://images.xiaozhuanlan.com/photo/2019/3d547a4bc2bf4af63337b1d7c96ec6b6.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/9832b3d3851fa5d8fb15a590834dfa5a.png" alt="" loading="lazy"> 梦是轻盈的、缥缈的，所以梦幻感的营造应该使用轻薄的颜色（饱和度S：5~20，明度B：最好在95以上）。在这种风格中，冷色和暖色的区分不再那样明显，所以搭配相对比较自由，很适合渐变效果。代表APP：有期、岛读。</p>
-<p><strong>纯净、可爱、清新</strong> <img src="https://images.xiaozhuanlan.com/photo/2019/a8a61cf92083e053be6778a3099b40ac.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/3bad7288f004928556bf039ceccbcb6d.png" alt="" loading="lazy"> 这种甜而不腻的色彩比梦幻风的色彩浓重一些，明度也不会过于刺激（饱和度S：多在30<sub>60之间，明度B：80</sub>90），看上去更沉稳一点，算是使用比较多的风格吧。代表APP：Headspace、滴答清单。</p>
-<p><strong>文艺、极简、品质感、平静</strong> <img src="https://images.xiaozhuanlan.com/photo/2019/c96c3efe358f0abdb661a290ad5ffa05.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/3aaa968c6f73b019034548538bdef1aa.png" alt="" loading="lazy"> 纯色中加少许灰调是文艺类风格的典型特征。作为背景的颜色，明度B多在90以上，饱和度S一般小于10。而视觉重点上的用色，明度B高于80的都比较少，饱和度的跨度就可以比较大了。代表 APP：网易严选。</p>
-<p><strong>沉稳、复古、文化感、成熟、典雅</strong> <img src="https://images.xiaozhuanlan.com/photo/2019/fffe08e030f51fee094696439fa1bb53.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/bf1a1e1479248311641885b4b9e28255.png" alt="" loading="lazy"> 颜色偏暗沉，看上去有些年代感（明度B：30<sub>65，饱和度S：20</sub>70较多）。配色时一般少与亮色搭，如果要避免太闷，画面中可以保留一两个类似风格的暖色。如果偏向女性些的风格中，暖色比例应适当多一些，明度稍高一点。代表 APP：网易蜗牛读书。</p>
-<p><strong>商务、严肃、力量感、男性</strong> <img src="https://images.xiaozhuanlan.com/photo/2019/7cddc3e97647ec21552f5c4e2984e5e3.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/dc310f90dbcfc2ba3162b3199cf2f42f.png" alt="" loading="lazy"> 商务感强的设计，在用色上会比较节制，多数使用冷蓝色、冷紫色、灰色、咖啡色等等。除此之外，金色的使用率也比较高，在商务风格中是一种很好的调和色。配色时色相H 一般在较小范围内变化，充分发挥饱和度和亮度的作用。代表 APP：Keep。</p>
-<p><strong>科技、智能、虚拟</strong> <img src="https://images.xiaozhuanlan.com/photo/2019/bb50ce874c60c8005ecb89d5ecf08c38.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/d5dd00a690c628aa4cbc99dbfe5c954b.png" alt="" loading="lazy"> 很多文章会把科技风和商务风放在一起，但是在我看来，科技风配色中往往不失亮色的点缀，而且这些亮色的饱和度S 多数还比较高，所以和商务风是有区别的。亮紫色、亮蓝色、青色能在明度B 较低的环境下突出出来，体现虚拟感。代表 APP：Design+Code。</p>
-<h1 id="我到底怎么配色">我到底怎么配色？</h1>
-<p>说明一下，以上风格和色彩特征并非绝对一一对应，有时候复古风色彩也能营造极简风，鲜亮的颜色也能显得可爱。<strong>配色也是离不开排版的</strong>，排版不同，选择就可以不同。那为什么花这么多的篇幅将风格的色彩特征呢？因为对我来说，最简单的配色方法就是：<strong>找准风格 → 找同风格的作品 → 吸色填充 → 微调</strong>。虽然看似很粗暴，但确实是亲测最高效的方法。先别急着说我是&quot;大猪蹄子&quot;，事实上当然不会这么简单，只有一定的知识存货，才能真正让做出来的东西既美观又实用。下一篇再通过几个🌰来详细说明。</p>
-<h1 id="一点想法">一点想法</h1>
-<p>好多设计师都告诉新手设计师要多去临摹别人好的作品。嗯，临摹确实是绝大多数设计师必经历的过程，我也这么和别人说过，但是我也不会忘提醒一句，临摹的意义在于<strong>培养设计思维</strong>。所有不带脑子思考的临摹都是耍流氓，止步于学习画图的都是机器，透过设计作品探索到设计师的脑回路才是王道。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[色彩第十六课：APP 配色之路]]></title>
-        <id>https://souffleinspire.github.io/post/color-16/</id>
-        <link href="https://souffleinspire.github.io/post/color-16/">
-        </link>
-        <updated>2019-03-31T16:04:52.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
-<p>想写这个话题是因为很多人跟我说过，关于配色的道理我都懂，但用起来还是不会。我倒觉得，这不应该成为焦虑的来源，因为极少有人天生对配色那样敏锐，无非是看得多、练得多、想得多罢了。看和练不说了，但我想聊聊&quot;想&quot;这件事。 关于这点，我个人是深有体会的。市场上从来不缺教授方法和技巧的教程，想当初初涉设计界时，半年内学了9个软件，做了一堆图标、界面，甚至动效，但心里完全没底气。因为几乎没人教我该按照什么方式思考、在什么时候该干什么.......而这些问题，在工作中简直&quot;无孔不入&quot;。缺少这种产品思维，才是前行路上真正的阻碍，就连配色这样看似感性的方面也不例外。Here we go!</p>
-<h1 id="用户在面对什么样的产品">用户在面对什么样的产品？</h1>
-<p>一个APP，不论你对它熟悉还是陌生，从看到它的第一眼开始，你的心里就会层出不穷地出现一些形容词。你所感受到的这些，就是这个 APP 「调性」的一部分。不妨试一试，我把手机里的部分电商 APP 首页截图放在了一起，请你想想会用什么形容词来描述它们。 <img src="https://images.xiaozhuanlan.com/photo/2019/6b504d9ebb187c0ebc75ef10462ddd02.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/b2ae8beebf08c57e3c2c6194cc351a60.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/ad352b23de69ebd76a0ce30ba41d3d51.png" alt="" loading="lazy"> 首页，我们已经不难感受到「淘宝」、「京东」的热闹非凡，「小米商场」的青春洋溢，「网易严选」、「一条」、「有品」的淡雅别致，「想去」的简洁个性、「公路商店」的大胆张扬。 我们的这些感受源自设计方方面面的传达，其中配色发挥着巨大的作用。 <img src="https://images.xiaozhuanlan.com/photo/2019/2187319b03cd3303ef0e3fd5e5acf044.png" alt="" loading="lazy"> <strong>用户只能看到你给他们看到的。作为产品方，需要用我们的理念、特质感染同样认同我们的用户，也需要根据用户的特点来表达自己的产品。<strong>映射在配色上，第一步就是</strong>通过研究产品和用户，认真选择主题色</strong>。 <img src="https://images.xiaozhuanlan.com/photo/2019/ceeb1157c0632f27566501612c316028.png" alt="" loading="lazy"> 主题色不仅是整个 APP 设计的灵魂之一，还往往关乎到一个公司的形象，需要有足够的逻辑支撑。设计师可以经常性拿一些熟悉的产品刻意练习，增强自己对配色的理解。用「淘宝」和「网易严选」举个例子：</p>
-<ul>
-<li>首先，它们都是电商品牌，当然希望用户能有购买欲。<strong>暖色系比冷色或中性色更能激发人的情绪</strong>，所以两者都选择了暖色作为主色。再看看其他 APP，主题色多数也是暖色。</li>
-<li>从产品的角度看，淘宝的 slogan 是「淘！我喜欢」。第一人称视角具有<strong>亲和感</strong>，把&quot;我喜欢就淘&quot;的观念传递给每一个用户，尽显<strong>活力</strong>和<strong>鲜明</strong>的个性。在所有的色彩中，橙色算是&quot;活力&quot;的代表了。另外，饱和度和明度高的颜色更能烘托活跃的氛围。 而网易严选的 slogan 是「以严谨的态度，为中国消费者甄选天下优品」，以第三人称突出「严谨」、「甄选」、「优品」，无处不透露着&quot;节制&quot;二字。对于严选而言，偏灰调的纯色更适合。</li>
-<li>不同的理念，吸引来的消费者一定是不同的。 根据淘宝的用户分析，主力用户越来越年轻化，这意味着无论从个人偏好、消费水平，还是使用场景上来说，都要更加多样。<strong>丰富的色彩和渐变都是增加多样性的方法</strong>。 相比之下，网易严选对目标用户的要求要高一些，来这里的人们追求品质生活。严选希望能传递出<strong>品质、简约、平静</strong>的感觉，所以淡色调会比较符合要求。 <img src="https://images.xiaozhuanlan.com/photo/2019/871421720e308e1d6b9d276093b03daa.png" alt="" loading="lazy"> 总结一下，看看我们从分析产品和用户中得到了哪些对配色的指导？ <img src="https://images.xiaozhuanlan.com/photo/2019/da11f12637047bcf0f2a1c32b5d2a399.png" alt="" loading="lazy"></li>
-</ul>
-<h1 id="颜色看起来怎么样">颜色看起来怎么样？</h1>
-<p>想象是丰满的，但现实可能是骨感的，你想要的颜色与你实际要用的颜色之间还差了十万八千里。一来，一个颜色包含无数色相，每个色相可以用不同饱和度和明度呈现，细微之处能显示大不同。二来，不同屏幕的显像效果不同，需要综合考虑。三，主题色不止会出现在按钮、背景等大色块上，还很可能用在文字、图标上，这就要考虑到显色度、普适性之类的问题。当然，还有其他一些问题，比如说视觉缺陷用户能不能快速找到他想去的地方等等。 <img src="https://images.xiaozhuanlan.com/photo/2019/9239cc7f4e70b9b277607c9047d5d1c5.png" alt="" loading="lazy"> 在这个过程中，任何想象都是虚妄的，<strong>必须去试，反复去试</strong>。可以先在几个页面里调试，充分照顾到上述的一些情况，直到选出的颜色能在屏幕上传达出你想要的&quot;味道&quot;。 <img src="https://images.xiaozhuanlan.com/photo/2019/e06d02f7563f645288636b401f10f2b2.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/8477c599a56caa81e19744a02730e0b9.png" alt="" loading="lazy"> 提醒一个小细节哦，关于<strong>显色度</strong>，也叫对比度，就是在背景色上一个颜色有多明显。可以借助这个网站：<a href="https://contrast-ratio.com/%E3%80%82%E4%B8%80%E8%88%AC%E8%AE%A4%E4%B8%BA%E5%AF%B9%E6%AF%94%E5%80%BC%EF%BC%9E3%E6%97%B6%EF%BC%8C%E5%AF%B9%E8%89%B2%E5%BD%A9%E7%BC%BA%E9%99%B7%E7%94%A8%E6%88%B7%E6%89%8D%E6%AF%94%E8%BE%83%E5%8F%8B%E5%A5%BD%E3%80%82">https://contrast-ratio.com/。一般认为对比值＞3时，对色彩缺陷用户才比较友好。</a> <img src="https://images.xiaozhuanlan.com/photo/2019/5a3d48e0da87e786febe8f4a666ff547.png" alt="" loading="lazy"></p>
-<h1 id="辅助色-装饰色">辅助色、装饰色</h1>
-<ul>
-<li>辅助色的重要度仅次于主色，用于弥补单色搭配的缺陷。<strong>辅助色主要依据需求选择</strong>。当主色使用面积较大，辅助色要用在强调或者引起用户注意的位置时，那么它和主色之间的差别应该大一些，重点考虑主色的互补色、对比色。如果辅助色只是起到陪衬主色的作用，那视觉上应该比主色弱，这时低饱和度色会更合适。 <img src="https://images.xiaozhuanlan.com/photo/2019/cef33a8595f4c573675de0ea94b6af54.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/632bc1b240a4d79fb373fc5a575a9737.png" alt="" loading="lazy"> 当然，功能简单、以无色系为主、图片或文字占比多的时候，也不需要特定的辅助色，比如：「ONE一个」、石墨文档等等。 <img src="https://images.xiaozhuanlan.com/photo/2019/f4b1958b6d8c4d025a1a1c488f9f0de0.png" alt="" loading="lazy"></li>
-<li>装饰色主要在一些需要多种色彩的位置，比方说主入口图标、图表之类的。按照整个色彩的风格走，注意风格一致、视觉舒适即可。还有一些行业有敏感颜色，也要注意避免，像金融行业就要注意绿色系和红色系的使用。 <img src="https://images.xiaozhuanlan.com/photo/2019/4a50364b7ee6c064d4ef3ef7af0255d8.png" alt="" loading="lazy"></li>
-</ul>
-<h1 id="一点想法">一点想法</h1>
-<p>这篇文章篇幅很长，希望能帮你拨开一些迷雾，最后分享一篇网易资深设计师的文章----《<a href="https://xiaozhuanlan.com/topic/3201784965">新人设计师该如何提升设计思维？</a>》。其中展示了一个设计思维金字塔，产品思维是自上而下的第一层。</p>
-<blockquote>
-<p>三个层面就像一艘要开往远处的船，产品思维能帮助我们知悉最终要去的目的地，而视觉策略就是那张航海图，指导船员如何避免航行障碍物（礁石、浅滩等），保证航行的顺利。视觉驱动是舵手、水手的专业技能。要想顺利航行到目的地，三者缺一不可。 <img src="https://images.xiaozhuanlan.com/photo/2019/8c6614af5b3b24fadeff2a3186150abb.png" alt="" loading="lazy"></p>
-</blockquote>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[色彩第十五课：色彩解析之金色、银色]]></title>
-        <id>https://souffleinspire.github.io/post/color-15/</id>
-        <link href="https://souffleinspire.github.io/post/color-15/">
-        </link>
-        <updated>2019-03-16T17:47:58.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
-<p>我觉得金色和银色是假得真实又真得很假、有点偏门又广泛可见的颜色。为什么这么说呢？金色、银色被称作材质色，就是模仿现实生活中部分金属的颜色。而人们之所以认为是金色和银色，靠的其实是联想力。可是你会发现，世界各地的人们都十分青睐它们，所以&quot;出镜率&quot;往往还不低。</p>
-<h1 id="金色-银色的特性">金色、银色的特性</h1>
-<p>金色和银色也属于无色系，但像上面说的，它们就是与众不同的色彩。别急，让我慢慢跟你说。</p>
-<p><strong>渐变方有金、银</strong> 下面是色彩中定义的金色、银色以及对应色值。 <img src="https://images.xiaozhuanlan.com/photo/2019/ea113372554f3ddcdb6468a1246ffc42.png" alt="" loading="lazy"> 希望没看跌你的眼镜。嗯，没唬你，这么一看，金色就是黄色，银色就是灰色而已，一点没有高大上的气质。别急，再看看这一组。 <img src="https://images.xiaozhuanlan.com/photo/2019/dfcd8d51e5695e8bc929e1a338f08cf3.png" alt="" loading="lazy"> 同样的色相，明显第二组更符合我们平时对金色和银色的认识，相信你也找到了原因----渐变。如果接触过 3D 模型，就会知道材质色之所以呈现不同的光泽基本都是源于「反射」，比如说银色的反射值就很高，大概是0.98左右。所以，我们看材质色其实是一种 3D 的视觉经验。</p>
-<p>稍微展开讲讲。光照射到物体上之后会分成两个主要部分，一部分被物体吸收，另一部分反射出来。如果反射出来的光被人眼捕捉到了，那我们就能看到颜色。不同物体反射出这两部分光的比例是不一样的，一般来说，金属会有50%以上反射出来，非金属的绝缘体在20%以下。 <img src="https://images.xiaozhuanlan.com/photo/2019/3a9ff99d6ff89dabae1f589da3e4b1c9.png" alt="" loading="lazy"> 物体总归是有形状和体积的，金属各个部分接收到的光的数量都不一样，而反射又很强，因此眼睛接收到的光也就有差异，这种差异就导致了渐变。</p>
-<p><strong>夜与光芒</strong> 如同皎洁的月光，银色代表夜晚的力量，神话中只有银制的步枪子弹才能杀死变成了人的狼，银质的家庭财物具有强大而神奇的防御力量。 <img src="https://images.xiaozhuanlan.com/photo/2019/2145841e5fa67b6149ae13b175f14dc1.png" alt="" loading="lazy"> 银色给人寒冷的感觉，这是因为它和白色、灰色、蓝色等冷色接近，让人联想到冰凉的勺子、皑皑的白雪等等。金色也一样，因为属于暖色系，不由地想起温暖的火焰、阳光之类的，暖意油然而生。 <img src="https://images.xiaozhuanlan.com/photo/2019/9150241c25c6585666ad60cccf8aac58.jpg" alt="" loading="lazy"> 浅色的物体容易反射光，降低自身热度，所以很多需要避免高温的金属制品，在满足必要条件的情况下，会尽量选择银色金属，比如：高速移动的飞机、疾驰的汽车，甚至是古代的箭。就这样，银色成为了「快」的标志色。</p>
-<p><strong>因为高级，所以高级</strong> 黄金和白银是储量相对稀有金属，但是又还没到没得用的地步。再加上化学性质稳定不易生锈、熔点较低容易塑性、密度适中方便携带、光泽度高 blingbling 等因素，从而被世界各国作为高档奢侈品。 <img src="https://images.xiaozhuanlan.com/photo/2019/5cb2751ad7776aad03fa17f1177f8f5b.png" alt="" loading="lazy"> 进一步来说，黄金的颜色是金色，金色也就代表着至高无上，因此世界上大多数国家的皇族颜色都是以金色为基调, 金色更能象征着高贵、光荣、华贵和辉煌。 <img src="https://images.xiaozhuanlan.com/photo/2019/77d639de3df44c9e767852e17f049e52.png" alt="" loading="lazy"> 如今，金色和银色依旧保留着高贵的形象，被运用到方方面面。比如：引领数码潮流的苹果公司，在2002年开始大规模使用银色，当年主推的 iPod 就是前白后银的工业设计，苹果官网首页上的蓝色苹果Logo被更换成了银色。11年后，iPhone 5s 推出，新增了「土豪金」色，一经推出，就被大量消费者喜爱。 <img src="https://images.xiaozhuanlan.com/photo/2019/00dca79931a88998a97d16bcbdca7cac.png" alt="" loading="lazy"></p>
-<p><strong>两种色彩，两类性格</strong> 我们听说过「沉默是金」，但是你可能不知道还有一句「雄辩为银」。不过，咱们联系一下实际，反倒会觉得金色比较张扬、夸张，银色更为寂静和理智。</p>
-<p>这是因为金色具有极醒目的作用和炫辉感。它具有一个奇妙的特性，就是在各种颜色配置不协调的情况下，使用了金色就会使它们立刻和谐起来，并产生光明、华丽、辉煌的视觉效果。但如果大片的运用金色，对空间和个体的要求就非常高，这是因为金色属于膨胀色，非常容易放大优缺点，如果用在着装上，一不小心就像个暴发户。相比之下，银色更加内敛含蓄，不会显得如此炫耀。 <img src="https://images.xiaozhuanlan.com/photo/2019/0f7d23dae8284428ed626779eb015f8c.png" alt="" loading="lazy"></p>
-<p><strong>金银铜奖牌制度</strong> 在大多数比赛中，都用金、银、铜分别表示冠军、亚军和季军。究其原因，你可能想到了这三种金属的稀有性，甚至想到了稳定性。可是比黄金更珍贵的金属多得是，为什么偏偏是它们？ 这就要说到我们全球最盛大的运动会----奥运会的历史了。其实，奥运会奖牌也并不是一开始就是这样的，直到第三届，也就是1904年，才开始启用「金银铜牌制度」并延续至今。 <img src="https://images.xiaozhuanlan.com/photo/2019/0c2d0c020f8da23f1641a8442d0298b8.png" alt="" loading="lazy"> 金银铜的次序来源于公元前800年的古希腊著诗人「赫西奥德」在&quot;Works and Days&quot;一诗中的&quot;Ages of Man&quot;。他认为上古最美好的三个时代是：人类和神混居的黄金时代 Golden Age、青春不老的白银时代 Silver Age、英雄辈出的青铜时代 Bronze Age。象征着勇敢、智慧和坚韧的奥运会奖牌就这样诞生了。 <img src="https://images.xiaozhuanlan.com/photo/2019/4e25399449e00212080fb68f61444063.png" alt="" loading="lazy"></p>
-<h1 id="金色银色的搭配">金色/银色的搭配</h1>
-<p>那么问题来了，如何才能&quot;优雅&quot;地使用金色和银色呢？注意，我们不谈质感，只谈色彩。</p>
-<p>金色和银色是无色系，按理说就几乎是百搭色。但是这两种色彩有自己的特殊含义，所以适用性上并不如黑白灰广泛。</p>
-<ul>
-<li>
-<p>在使用金色的时候，尤其在 UI 设计中，不用完全按照规定的色相设计，可以一定程度上弱化质感。比如<strong>偏橙色、明度偏低的金色会更加舒服</strong>，但是不要忘记渐变。 <img src="https://images.xiaozhuanlan.com/photo/2019/cfea284f4bc5e7ac16ee88c93c13a6c4.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p>金、银两色自带反光感，运用在实物上，本就吸引眼球。这时<strong>如果和明度、饱和度相对较高的颜色放在一起</strong>，如：大红、橙色，<strong>那视觉点就太多了，容易让人眼花缭乱</strong>。如果要用，银色会比金色要好，暗金色比亮金色好。 <img src="https://images.xiaozhuanlan.com/photo/2019/b82d951d09a4bb22c9a792450aa520d7.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p>金色／银色无疑是华贵高雅的不二之选，为了做到豪而不土，那<strong>最好与暗色系颜色搭配</strong>。像咖啡色、黑色、灰色之类的暗色系带有沉稳、冷静、成熟的感觉，会与金色、银色的强烈表现力相得益彰，显得高贵典雅。 <img src="https://images.xiaozhuanlan.com/photo/2019/282d52f2eef199779ac923973662199f.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/bd4c169254a3106b70374d37e57b953b.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p>金色和白色，是一组更加清透的搭配，在清新、素雅中体现品质。这个时候可以用一些比较亮的金。如果觉得色彩过于清淡，可以加上少量彩色进行修饰。 <img src="https://images.xiaozhuanlan.com/photo/2019/5de735f42181636e37f7394b57831178.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/4fe444207b1dcc2a1eed380dc3e2e026.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p>银色担当主体的情况，在产品和平面设计中较常见，这时可以用亮的材质或者渐变体现光泽感。作为背景色的话，一般颜色偏浅灰，降低光泽度好。 <img src="https://images.xiaozhuanlan.com/photo/2019/193dcfb81b2ac91ea3ee2f6141a1df2c.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/10c0bd636eb5d59dd22d241c665c2918.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/ef2d770dd373d53dfa909f515fe11bcd.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p>金色、银色可以与其他颜色相陪衬，但它们尽量不要同时存在，在同一空间使用金或银的一种。</p>
-</li>
-</ul>
-<h1 id="一点想法">一点想法</h1>
-<p>世上很多人或事物，因为一些附加在之上的故事，而广为人知，比如：被当做奖牌的金、银，被奉为神的关羽，被当做传奇的企业家等等。不少人会觉得 ta们那叫「幸运」，可能这些人也宣称自己是因为「幸运」。 但是，金、银如果不能很好地被锻造、不能方便地携带、没有好的光泽感，我相信不会被如此多的人喜爱。它们能有这些特性，也是因为不断地积累、转化。 对于人也一样，没有人永远幸运，也不会有人只靠幸运就能达到如此境地。彩票中大奖的人足够幸运吗？你应该听过到最后依旧一贫如洗的实例。说自己只是因为幸运，99%都是骗人的，你如果相信，那可能只会羡慕别人、哀叹自己。 最后是马爸爸的一句话：</p>
-<blockquote>
-<p>永远不要跟别人比幸运，我从来没想过我比别人幸运，我也许比他们更有毅力，在最困难的时候，他们熬不住了，我可以多熬一秒钟、两秒钟。</p>
-</blockquote>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[色彩第十四课：色彩解析之灰色]]></title>
-        <id>https://souffleinspire.github.io/post/color-14/</id>
-        <link href="https://souffleinspire.github.io/post/color-14/">
-        </link>
-        <updated>2019-01-16T15:58:07.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
-<p>有人说，生活时而阳光，时而灰色，时而黑暗。灰色在日常表达中仿佛就是&quot;阴郁&quot;的代名词，然而在设计中，灰色却能发挥着举足轻重的作用。它是一种介于黑与白的中间色，是一种美丽的平衡。</p>
-<h1 id="灰色的特性">灰色的特性</h1>
-<p>灰色是介于黑白之间的无彩色，没有色相，也没有饱和度，只有明度的变化。正如上面提到的，灰色有着某种不够注目又不可或缺的价值。</p>
-<p><strong>简单优雅</strong> 灰色不会给人强烈的感觉，大大削弱了色彩对感官情绪的影响，这是黑色、白色和其他所有颜色都做不到的。相信你听过高级灰，这种高级感在于灰色营造出的低调、安静、简雅的格调，简单即优雅。 <img src="https://images.xiaozhuanlan.com/photo/2019/f952d9e1df7a8c8048c5d67e99143530.png" alt="" loading="lazy"></p>
-<p><strong>&quot;灰姑娘&quot;</strong> 在中世纪之前，灰色的主要来源是未经过染色的羊毛，而且灰色耐脏，所以大多数农民和穷人穿的都是灰色衣服，灰色也自然成为社会地位低下的色彩象征，甚至影响到对较底层人们一些称呼，比如&quot;灰姑娘&quot;。许多宗教僧侣也会穿戴灰色服饰 ，比如英格兰的灰色修道士、中国的僧人。 <img src="https://images.xiaozhuanlan.com/photo/2019/f1e5db63e40448a718642b114694398e.png" alt="" loading="lazy"></p>
-<p><strong>灰色之于艺术</strong> 到了文艺复兴时期，黑色成为贵族最青睐的颜色，由于黑色兴起，白色和灰色也变得重要起来，灰色开始在艺术和时尚领域扮演重要角色。灰色对油画非常重要，当时诞生了一种叫做&quot;纯灰画法&quot;的绘画技巧----先用灰色和白色画图，然后用带色彩的颜料作为一层薄釉铺在画面上，现在看来......好像就是在黑白画上加了一层蒙层。 <img src="https://images.xiaozhuanlan.com/photo/2019/b755dbe1bc4bf8dee634be3ebbccc860.png" alt="" loading="lazy"> 19世纪，艺术家们更是将使用不同灰度来创作的技法&quot;发扬光大&quot;，这些融入了蓝灰调、绿灰调等各种灰色的油画，不似以往印象派那样的色彩明丽，反而呈现了柔和的质感，深深影响了后世的油画创作风格。 <img src="https://images.xiaozhuanlan.com/photo/2019/aa6b1b5faa19f1a59af9528fae529c19.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/83f6c30d707c4a319360618bbfbb3c52.png" alt="" loading="lazy"></p>
-<p><strong>灰色与战场</strong> 相比于蓝色、红色等艳丽的色彩，灰色在战场上显然是不易突出的，所以在步枪时代。灰色是有效的伪装色。美国内战期间，南方同盟军（下图右）的制服是灰色的，北方的制服（下图左）以蓝色为主，所以这场内战又被称为蓝色和灰色的战争。 <img src="https://images.xiaozhuanlan.com/photo/2019/867266f142ffde672df4e74ffbe1ece6.png" alt="" loading="lazy"></p>
-<p>正因灰色与战争的联系，在20世纪，灰色成为了战争和工业化的象征，同样反映在艺术领域上。新世纪的艺术大师----毕加索在这一时期的绘画主色调便是灰色，比如在那副著名的《西班牙内战·格尔尼卡》中，毕加索就利用灰调、支离破碎的器官和躯体展现战争的恐怖和失望（表示小时候完全看不懂）。 <img src="https://images.xiaozhuanlan.com/photo/2019/07022b4939abccc5ebe7c63517a99309.png" alt="" loading="lazy"></p>
-<p><strong>日本的灰色</strong> 日本人非常善于运用灰色，这在日系创作中显而易见。其实早在江户时代，以&quot;鼠色&quot;为主的灰色就在百姓中流行起来。江户幕府禁止百姓生活过于奢侈，甚至对衣服的材料和颜色都作了限制。于是，在百姓中产生了以&quot;鼠色&quot;为主的灰色文化。日本有&quot;四十八茶百鼠&quot;这样一个颜色谱系，指的就是灰色的各种变化。实际上，并没有480种灰色，这只是江户时代的人们一种夸张的表达方式。当时，人们大多使用银鼠、利休鼠、深川鼠和梅鼠等灰色。这些灰色系深深影响着现代时尚圈。 <img src="https://images.xiaozhuanlan.com/photo/2019/4c5419ad86b59634f46b74a12383ffc7.png" alt="" loading="lazy"></p>
-<p><strong>年迈之色</strong> 灰色还是代表年迈的色彩，因为大家觉得死亡是黑色的，通往&quot;黑色&quot;的道路就该是灰色的。 <img src="https://images.xiaozhuanlan.com/photo/2019/64c25c54ec648c1e97e3c7baccd79c61.png" alt="" loading="lazy"></p>
-<p><strong>边缘颜色</strong> 灰色不仅有正面和负面的含义，还能表示处于边缘地带的情况。灰色行业指触及违法边缘，但又一般不违法的行业，灰色收入指获得工资、津贴之外或者不完全符合法规的收入。 <img src="https://images.xiaozhuanlan.com/photo/2019/5c4834637ddb4fa86e4431091d614ab4.png" alt="" loading="lazy"></p>
-<p><strong>忽视</strong> 在 UI 设计里，禁用的按钮、未能加载的页面是灰色的，原因很简单，灰色不被重视，可以降低用户的注意力。 <img src="https://images.xiaozhuanlan.com/photo/2019/7749a1477c52bcd55234cd84fcad00fa.png" alt="" loading="lazy"></p>
-<p><strong>Grey or Gray？</strong> 标题上的 Gray 我原本是写的 Grey，一直觉得 grey？gray？傻傻分不清楚。其实可以 don't care，因为 it just depends on where you live，grey 是英式英语的&quot;灰色&quot;，gray 是美式英语中的表达。</p>
-<h1 id="灰色的搭配">灰色的搭配</h1>
-<p><strong>1. 充当背景色</strong> 在 UI 设计中，把灰色作为背景色屡见不鲜，甚至不一定比白色为背景色的情况要少。相比于白色，灰色更温和、不刺眼，更易营造高级感。在灰色背景下，无论是明艳的颜色还是比较淡的颜色，甚至连白色和黑色都有前进感，只是少量使用就能引起视觉关注。 <img src="https://images.xiaozhuanlan.com/photo/2019/0884be1943664a343bac68c9c809accf.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/6a9099e5d70abfa8f537e2d634465083.png" alt="" loading="lazy"> 在卡片式和模块化大行其道的今天，偏灰色的背景既不明显，又容易把不同模块区隔开来，体现信息的层级关系。 <img src="https://images.xiaozhuanlan.com/photo/2019/890b1ef3e61ac0cd8f17faf2111a9e40.png" alt="" loading="lazy"></p>
-<p><strong>2. 营造简约风</strong> 简约风主张化繁为简，这种风格大量依赖无色彩，白色和黑色相对单调，而灰色因为明度范围很广，能创造更多的可能性，而更受到青睐。无论背景还是图片，都可以以各种灰调，尤其是明度偏高的灰调为主。这种色调，给人距离感但不严肃，显得简约高雅有内涵。 <img src="https://images.xiaozhuanlan.com/photo/2019/213e09d66ef6044ca2811955132844f8.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/8bb3e47ececbea9fdbedf2baebf566c6.png" alt="" loading="lazy"></p>
-<p><strong>3. 灰色+有色彩</strong> 相比色彩缤纷的画面，纯灰色还是太过黯淡，所以在设计中直接使用灰色的情况较少，大部分灰色其实是带有色彩的，而且灰色的含量和明度都会影响到整体的色调。 <img src="https://images.xiaozhuanlan.com/photo/2019/462040fb8abc855c24fcddbf65f5ee18.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/06961e81ed3545f46b314c5a561d0e3b.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/716f5c60bfe110e6a34cdbabfcf41743.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/858b4fbe816ec079ade27e035aa8203a.png" alt="" loading="lazy"> 在灰色明度较高时，无论是清凉舒适的绿灰色、安静沉稳的蓝灰色、优雅理性的紫灰色还是甜美温柔的粉灰色、温润恬静的黄灰色、温暖平和的橙灰色，都让人觉得舒服、高贵。前段时间因为《延禧攻略》火起来的莫兰迪色系大多属于这种。 <img src="https://images.xiaozhuanlan.com/photo/2019/3962670badd2e428e8c8c738e98826d0.png" alt="" loading="lazy"> 而明度较低的时候，混在什么颜色中都会比原本这个颜色低沉黯淡许多。 <img src="https://images.xiaozhuanlan.com/photo/2019/a71bb425b7fb0fa37ffade8989c7a0c2.png" alt="" loading="lazy"><img src="https://images.xiaozhuanlan.com/photo/2019/6545229b04d6b0a5c911949307425a3a.png" alt="" loading="lazy"></p>
-<h1 id="一点想法">一点想法</h1>
-<p>许多人常会出现消沉颓废，郁闷不乐等不良心理状态，尤其是中年人，这种状态被称之为&quot;灰色心理&quot;，用今年的流行语来说，就叫做&quot;丧&quot;。然而，&quot;丧&quot;绝不仅仅出现在中年人身上，我就认识这样一个我觉得很丧的人，经常抱怨生活和工作，觉得所有的心想事成都和自己没什么关系。 其实这种&quot;丧&quot;主要还是源于内心不够自信，可能是暂时的，也有可能相伴一生。但，&quot;灰色&quot;的人于自己痛苦，于他人，会觉得你太脆弱，不如&quot;开心点，人间不值得&quot;。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[色彩第十三课：色彩解析之黑色]]></title>
-        <id>https://souffleinspire.github.io/post/color-13/</id>
-        <link href="https://souffleinspire.github.io/post/color-13/">
-        </link>
-        <updated>2019-01-10T02:38:50.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
-<p>今天继续聊聊无色彩系中的黑色。所谓&quot;无彩色&quot;是指不包含在可见光谱中的颜色，先说明一点，尽管在之前写过有色彩与无色彩的搭配，但不意味着无彩色系只包含黑白灰，金色和银色也是属于这类。 无色彩太过常见，又是白搭色，所以存在感很低，但是就像前面说过的，每种颜色都有自己的个性，无色彩的作用在设计界无可撼动的，同时也不是那么轻易能驾驭的。如果仔细观察，就会发现无色彩完全可以扭转设计传递出的感觉。</p>
-<h1 id="黑色的特性">黑色的特性</h1>
-<p><strong>世界最黑</strong> 当物体不反射任何颜色的光的时候，吸收了光谱内的所有可见光，人眼的感觉就是黑色的。如果将三原色的颜料以恰当的比例混合，反射的色光也会降到最低，也会被认为是黑色。 目前人类制作的最黑的物质是用碳纳米管制作的，碳纳米管之间的间隙的不规则表面会降低反射率，从而使表面能吸收99.9%的可见光，总反射率只有0.045%。所以，这种物质可用于制造隐形武器。 <img src="https://images.xiaozhuanlan.com/photo/2018/3470f85fa1e0e00dead36d4f032c93d3.png" alt="" loading="lazy"></p>
-<p><strong>时尚宠&quot;色&quot;</strong> 黑色是一个很强大的色彩。在时尚界，黑色被誉为&quot;永不过时的颜色&quot;，它表现出来的庄重和高雅是其他任何颜色都不能代替的。我大赫本就是将小黑裙演绎到极致的女神之一，很喜欢黑色衬托出来的她那种高贵典雅的气质。黑色还被视为收缩色，能将目光分散到四周较光亮的范围，从而达至视觉上&quot;纤瘦&quot;的效果。 <img src="https://images.xiaozhuanlan.com/photo/2018/050063a9208a2cc27206579e29b6590b.png" alt="" loading="lazy"></p>
-<p><strong>刚正之色</strong> &quot;唱黑脸&quot;在京剧中代表的是刚正不阿的包拯包公，所以黑色是正直、严肃、无私的象征。 <img src="https://images.xiaozhuanlan.com/photo/2018/da83397ee9081dda1f7a78b60b52a123.png" alt="" loading="lazy"> 在正式场合，男士们往往穿黑色的西装、袜子和皮鞋，体现着一个人的严谨、沉稳以及对场合的尊敬。 <img src="https://images.xiaozhuanlan.com/photo/2018/f18b260a8f82068e82aced94f0282b2e.png" alt="" loading="lazy"></p>
-<p><strong>水德</strong> 前面提到过，在中国古代，权势阶层崇尚五德三统，每一个朝代都有与金木水火土五行相应的德，五德相生相克，每一德都有对应的一色，金德对白、木德对青、水德对黑、火德对红、土德对黄，每一个称帝之人，都会给自己的朝代赋予一种&quot;德&quot;，整个国家的颜色随之改变。在历史中，秦朝则尚水德，所以军旗、帝服、皇宫装饰等，一律以黑色为主。 <img src="https://images.xiaozhuanlan.com/photo/2018/bcd1ff1d87cf6f1546b72fbe97a9f90e.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/b7ed1546869f96b866ebbae4e67e893f.png" alt="" loading="lazy"></p>
-<p><strong>青红皂白</strong> 我们已经知道古代的&quot;青&quot;是黑色的一种名称，但你可能不知道&quot;皂&quot;也有黑色的意思。所谓&quot;青红皂白&quot;的含义，其实是来自于青和红、黑和白两类相对的颜色。 <img src="https://images.xiaozhuanlan.com/photo/2018/dccb4b83ec54f4d8a0f9a6be1d00c651.png" alt="" loading="lazy"></p>
-<p><strong>邪恶与神秘</strong> 虽然实际上是因为没有可见光才会使人看到黑色，但在人们的联想中，黑色是一种能够吞噬万物的邪恶、隐秘的力量，宛如&quot;黑洞&quot;一般。在日常用语中，常常用&quot;黑&quot;这个字来表示一些不好的现象或人，比如：试图恶意破坏电脑网络安全的人叫&quot;黑客&quot;；内心邪恶、表里不一的人是&quot;腹黑&quot;；良心泯灭、道德沦丧的人被称为&quot;黑心&quot;；没有公开散发信息的系统或操作叫做&quot;黑箱&quot;等等。 <img src="https://images.xiaozhuanlan.com/photo/2018/5aeb112dcfb24e5df3498ecaada519f5.png" alt="" loading="lazy"></p>
-<p><strong>黑五</strong><br><br>
-在美国，&quot;黑色星期五&quot;指的是感恩节（11月第四个星期四）的后一天，因为感恩节是不营业的，所以这一天会有很多人购物，慢慢演化成了大型购物节，不亚于中国的&quot;双十一&quot;。 <img src="https://images.xiaozhuanlan.com/photo/2018/c8a26bd20908e37531328bd08c8cf23e.png" alt="" loading="lazy"> 那为何一个买买买节日会是黑色的呢？我们都知道在西方，13一般被认为是一个不吉利的数字。且宗教信徒认为耶稣死于星期五。而圣骑士团（法国中世纪天主教军事组织）是在1307年10月13日遭到屠杀，这一天也是星期五，两者结合令人相信13号又恰逢星期五的日子就是不幸的。 在绘画、文学作品和电影中，黑色常被用来渲染死亡、恐怖的气氛。因此，人们在这个特殊的星期五前冠以&quot;黑色&quot;来表达悲伤和凄凉。 <img src="https://images.xiaozhuanlan.com/photo/2018/996e55ee186a48d4d6054e8ee08ea636.png" alt="" loading="lazy"></p>
-<p><strong>黑色幽默</strong><br><br>
-Black Humor 黑色幽默指在荒诞不经、冷嘲热讽的玩笑中包含了苦闷和痛苦、忧郁和残酷，可能在苦涩的笑声中包含着泪水，甚至愤怒。 <img src="https://images.xiaozhuanlan.com/photo/2018/de2d4f584ffb0a2dcf62db860f96d457.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/cd5ea2bd8dee114d3fb97d6ad4a33d52.png" alt="" loading="lazy"></p>
-<h1 id="黑色的搭配">黑色的搭配</h1>
-<p><strong>1. 作为背景色</strong> 晴朗的白天和静谧的夜晚对立，彩色跟黑色也是对立的。黑色或暗色占比较多，画面传达的信息往往更加高端商务范，同样的内容换成白色背景会明显清新简约一些，因此除非产品调性要求，大部分 UI 设计还是以白色或浅色系背景为主。 <img src="https://images.xiaozhuanlan.com/photo/2018/a1df151500978641d1ad87f4c2a8eeeb.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/f78e1ebe9806dec0cc6d9aeeb858b1fe.png" alt="" loading="lazy"> 但如果把黑色看做一类人，那么它一定是一个深沉而睿智的长者形象，是一个甘于退居后线、充当绿叶衬托主色的人。这是因为黑色具有强烈的沉积感和后退感，可以包容任意亮色，同时亮色又能给黑色带来热闹活泼。这一点有别于白色，白色本身明度高，所以自然会分散一部分视觉。把亮色用在重点信息处，将黑色作为画面的背景色，能起到突出画面主题，强化视觉焦点的作用，并呈现出大气、直率的视觉效果。常与黑色搭配的亮色有：金色、红色、绿色、黄色、青蓝色、橙色等。 <img src="https://images.xiaozhuanlan.com/photo/2018/5317673d4e5a8efafa025ff8866c5ce6.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/d659df0acbf88769f78832aa7ccb212c.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/021d46ef3fd4f1e646c98a0a30fa62f3.png" alt="" loading="lazy"> 如果产品也是黑色，那是不是就不能用黑色背景呢？未必，黑色产品配合黑色背景一般更能凸显质感，这时应该把产品亮度提高，但这种做法对产品和图片的细节要求非常严格。 <img src="https://images.xiaozhuanlan.com/photo/2018/2e5c299c42f4f477573c17aaf0df15e9.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/fa0781f76a6f4dbd3fb0b6f99131041c.png" alt="" loading="lazy"></p>
-<p><strong>2. 作为主角登场</strong> 在提倡&quot;简风格&quot;的今天，无色彩系发挥了重要的作用，他们不再是配角，转而被搬上了&quot;大银幕&quot;上，黑白灰的重要性也在舍弃色环后显现出来。日本平面设计大师福田繁雄、原研哉、佐藤晃一等都非常善于利用黑白灰关系进行设计，在他们的作品中至少运用了一种无彩色系颜色进行设计。 <img src="https://images.xiaozhuanlan.com/photo/2018/d65d15ccb347e13bc6e2491583efa757.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/72e00cb3324cc753470f12a004946d55.png" alt="" loading="lazy"> 在中国，其实早就有利用黑白灰结构丰富画面结构的作品----水墨画，所以黑色有时也能带来深厚的文化气质。 <img src="https://images.xiaozhuanlan.com/photo/2018/d0c71362eda44d20679117b7f7cb0176.png" alt="" loading="lazy"> 同时，全黑白灰的设计容易让人觉得是没做完的设计，所以这也要求无色彩设计向情感化或文化感方向走，让大家感受到黑白背后蕴藏的丰富想象空间。 <img src="https://images.xiaozhuanlan.com/photo/2018/a52d627c1a8ec6d473b2212e15bb487c.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/baf2b98c021f9668ba71218e69293fd2.png" alt="" loading="lazy"> 久而久之，黑色就有了这样的优势，所以一些极简风格的电商和一些阅读类、音乐类应用往往会充分利用这个优势来体现独特性和文艺特质。 <img src="https://images.xiaozhuanlan.com/photo/2018/bf9c1ab22d3e25f21212999315e5ee0f.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/ae0c4192afd7ad693255db9809ab60ef.png" alt="" loading="lazy"></p>
-<p><strong>3. 黑色的空间属性</strong> 除却色彩属性，黑白灰还是美术上空间结构组成的要素。素描画体现透视感和空间感依赖的就是明暗度的对比，白色表示最亮的位置，黑色则表明最暗部。营造空间感的黑白灰能使画面主体物与背景拉开距离，形成虚实、前后的对比关系，突出视觉焦点。 <img src="https://images.xiaozhuanlan.com/photo/2018/ea6541b53c2c05858f41cbb3007e999b.png" alt="" loading="lazy"> 设计上也有不少需要注意光影的地方，比如拟物化中的阴影、电商产品的投影等等。如果弄错了，虽然表面看起来没大问题，但是容易让人觉得很不自然。关于光影的学问，我们以后再专门讲讲。</p>
-<h1 id="一点想法">一点想法</h1>
-<p>文前我们提到&quot;无彩色&quot;，这是一类往往被忽视的颜色，但是不可或缺。在设计中，黑白灰能发挥极大的作用，比如：当白色的字放在浅色背景上很不显眼，不一定就得换掉白色，可以尝试很多方法：复制文字，改为一种显眼的颜色，然后放在白色字的下方，向右下或左下或其他方向偏移一点；给文字加上较深色的投影；在文字和背景之间增加蒙版...... 在工作中我笃信一点：给我一个需求，我就能做出设计，重要的是这个需求值不值得做。当然，其中妥协是一定会有的，各方的调整也是不可避免，这都不是重点，如何拿有限的资源做出合适的&quot;产品&quot;却是每个人都可以努力的方向。思考是个好东西，记得每天带着。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[色彩第十二课：色彩解析之白色]]></title>
-        <id>https://souffleinspire.github.io/post/color-12/</id>
-        <link href="https://souffleinspire.github.io/post/color-12/">
-        </link>
-        <updated>2019-01-01T15:54:41.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="前言">前言</h1>
-<p>2019年了，大家新年快乐啦~~19年第一天，在家颓废...立了不少 flag，但是还没写 plan🤣。南方又遇了近几年难得的大雪纷飞，然而身在北京的我还在萧索的冷风中瑟瑟发抖。想起前段时间看到被收容在加拿大的非洲难民孩子在初雪下欢呼雀跃的视频，感觉好像不管是没见过雪的还是经常看见雪的，对它都有一种特殊的情怀，或许这种情怀并不来自于那些雪花，而是在于白色带给我们的浪漫而纯净的感受吧。我在期待着2019年的第一场雪，也为大家带来这一篇关于白色的文章。</p>
-<h1 id="白色的特性">白色的特性</h1>
-<p>光谱中，所有可见光混合便是白光。光的三原色：蓝色、红色和绿色，按一定比例混合也能得到白光。白光是全色光，代表着光明，但白色通常被认为是无色的。在绘画中，白色无法被调出来，只有白色颜料能描绘白色。</p>
-<p><strong>贵气&amp;干净</strong> 白色是明亮、干净、朴素的，它没有强烈的个性，但会让人觉得清洁、雅致，所以酒店会大量使用白色，主打清洁的护肤品也越来越多使用白色包装，白色的建筑物令人觉得干净圣洁。 <img src="https://images.xiaozhuanlan.com/photo/2018/7454f6df0661b91ddde9789cd4fa3c2f.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/79081caccc707c2127affe74bfd56fdc.jpg" alt="" loading="lazy"> 在西方国家中，白色还常常和贵气、财富扯上关系，几乎成为古代贵族的专用色。即使到了现在，英国伊丽莎白女王、凯特王妃，西班牙王后 Letizia 等在重要场合都是身着白色。而原因嘛......一个字：白色容易脏。（just kidding）其实这一点大家应该都深有体会，在没有漂白物、洗衣纯靠手搓的时代，白色衣物绝不是尽沾&quot;人间烟火&quot;的普通人消费得起的。 <img src="https://images.xiaozhuanlan.com/photo/2018/7471d3bae5964440626652d2e53e9f2e.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/6017604daabb3bd9d94287d15bc42e53.png" alt="" loading="lazy"> 世界上最古老的大满贯赛事----温布尔登网球公开赛（温网）秉承传统，为了体现对王室的尊重，球手必须保持整洁，一律要求穿全白，甚至严（bian）格（tai）到内衣内裤也得是白的。去年青少年男双现场，中国选手吴易昺和搭档皮洛斯，就因为内裤颜色不合格，当场被裁判要求换掉... <img src="https://images.xiaozhuanlan.com/photo/2018/62774f7c0e031030b723002d6f3517b0.png" alt="" loading="lazy"></p>
-<p><strong>More space</strong> 我们都知道，素描中用黑白灰来表达光影的变化，从而呈现出空间感，其中白色是高光部分，有凸起效果，所以白色起到在视觉上扩充空间的作用。房间装修成白色，并不只是营造干净整洁的感觉，还能让空间显得稍大一点。 <img src="https://images.xiaozhuanlan.com/photo/2018/c4f9e8b55c6ea2ba3b1a257e9ac805fe.jpg" alt="" loading="lazy"></p>
-<p><strong>留白</strong> 适当的留白是被推崇的艺术表现形式。生活中，一物一景里，素白随处可见；设计里，一屏一幕间，白色不可或缺。白色的角色是多变的，它可以是大多数设计中的背景色，可以是浓重背景下的点睛色，可以是调色过程里的调和色，可以是极简主义中的主题色... <img src="https://images.xiaozhuanlan.com/photo/2018/f03ea3a0c6acdfbba518765b8eaf97a4.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/03b38ed8733f2833334630c33ac3a793.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/1f1fdfa79d8dacee6612ff9e731ea3de.jpg" alt="" loading="lazy"> 不过，极简不一定是白色的，确切地说，极简风格不依赖于任意特定的颜色。同样，&quot;留白&quot;也不代表留的就是白色。 <img src="https://images.xiaozhuanlan.com/photo/2018/daed3c6ec8b245d5ce2c5edfe60071a8.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/f0d0b4fc1725760e015540b1ea24155d.png" alt="" loading="lazy"> <strong>贞洁 &amp; 宽容</strong> 在西方人们心中，白色绝大多数情况下是真诚、贞洁的代表。牧师穿的是白色的袍子，象征着光和神性；刚收到洗礼的基督徒身着白衣，表明他们获得重生的纯洁；受到宗教的影响以及英国维多利亚女王的&quot;带货&quot;，白色婚纱成为婚礼礼服的标志。 <img src="https://images.xiaozhuanlan.com/photo/2018/886e9d64d7eeb9e6d5bda97e8b35fdc5.png" alt="" loading="lazy"> 白色还象征着宽恕，在《以赛亚书》一书中，主说：&quot;你们的罪虽像朱红，必变成雪白；虽红如丹颜，必白如羊毛。&quot; <img src="https://images.xiaozhuanlan.com/photo/2018/e36750d289aef7927af8ebab280d3008.png" alt="" loading="lazy"></p>
-<p><strong>丧色</strong> 与西方相反，在东方，白色才是丧色。在中国古代的五方说（与之前讲的五德是对应的）里，东方青，西方白，南方赤，北方黑，中央黄。古代常常在秋季征伐不义、处死犯人，这就是影视剧中的&quot;秋后问斩&quot;，而西方是刑天杀神，主肃杀之秋，所以白色是枯竭、无生命的表现，象征死亡、凶兆。专制社会中执政者迫害政治异见人士而导致的社会不安氛围也称为&quot;白色恐怖&quot;。 <img src="https://images.xiaozhuanlan.com/photo/2018/986d9de91cd1b8564e7a363d7172b24f.png" alt="" loading="lazy"></p>
-<p><strong>白色的消极意义</strong> 白色是一种经过强化了的&quot;无色彩&quot;，苍白是缺乏力量、虚弱的，又因受到政治功能的影响，故而象征着保守、腐朽、反动、落后，比如说&quot;白专&quot;比喻那种只知道埋头钻研业务不重视政治学习的人，在那个时代，与&quot;红色&quot;对应。 <img src="https://images.xiaozhuanlan.com/photo/2018/7219bd337e41497223b8ff46da7c7207.png" alt="" loading="lazy"> 白色的消极意义中还包括失败、愚蠢、知识浅薄、无利可得，比如：古代将没有知识的平民百姓称为&quot;白丁&quot;、&quot;白衣&quot;；在战争或争斗中失败的一方总是用&quot;白旗&quot;表示投降；称智力低下的人为&quot;白痴&quot;等等。 <img src="https://images.xiaozhuanlan.com/photo/2018/8cce32c23afbdceabd3fda1d53680b1f.png" alt="" loading="lazy"> 白色还能象征奸邪、阴险，京剧中的&quot;白脸&quot;分为&quot;粉（水）白脸&quot;和&quot;油白脸&quot;，粉（水）白脸表示阴险奸诈、善用心计，如曹操、严嵩、赵高；油白脸一般指刚愎自用的武夫，如马稷、高登。</p>
-<p><strong>白色与天祝藏族</strong> 天祝藏族人民最喜爱白色，因为天祝草原四周雪山环绕，地上的羊群、牦牛，喝的羊奶、戴的毡毛等都是白色。藏区人民将白色视为吉祥、昌盛、胜利的颜色。关于此，还有一个传说。</p>
-<blockquote>
-<p>传很久以前，藏区里的一个部落，在一次战斗中被对手围困。对方首领限必须在天亮前投降，否则就要杀光所有人。在天将亮时，从对手背后杀来一支骑白马、穿白衣、戴白帽、手持银剑的人马，杀得对手丢盔弃甲、四处逃散。原来这支人马是两天前被派出打猎的26个男女健儿，他们为了不让对手发现，就穿戴上与冰山雪地一样颜色的白色服饰。从此，白色成了这个部落崇拜的颜色，而天祝藏族便是这个部落的后裔。 <img src="https://images.xiaozhuanlan.com/photo/2018/80b17de48989504d57a0c562cb5cbeca.png" alt="" loading="lazy"></p>
-</blockquote>
-<h1 id="白色的搭配">白色的搭配</h1>
-<p>白色应该是我们司空见惯的颜色了，因为白色有极大的包容度，是公认的百搭色。而且，白色是最亮的色彩，在任何设计中，只需加入少许的白色便能点亮整个画面。在浓重的色彩间，比如暗红色、蓝色、紫色等，白色能凸显重点，形成鲜明的对比效果。将白色作为背景色，比较容易显得干净整洁，就搭配而言，也没有太多好说的，那我还是来说说白色的&quot;同色系&quot;吧。</p>
-<p>尽管白色出现的场景无计其数，但这个色彩对于 产品 设计来说不太好驾驭。先看看下面这张图片，是不是觉得被子、墙壁、花盆都是白色的？那它们之间有没有色差呢？ <img src="https://images.xiaozhuanlan.com/photo/2018/4ba7855b0c2a99dcc3f8af5d08d778a5.png" alt="" loading="lazy"> 与其他色彩相同，白色不单单是指色值为 #FFFFFF 的这一个颜色，它是一个包括纯白、古董白、乳白色、亚麻白、米白色、纸色、雪白、珍珠白以及象牙白等各种白的色域，潘通色卡中的白色就有这么多： <img src="https://images.xiaozhuanlan.com/photo/2018/55e16b0e4430fa9711a8eed4681f976f.png" alt="" loading="lazy"> &quot;白色&quot;种类繁多，而且极易被&quot;玷污&quot;，在将白色实现成产品的过程中，极易出现各种问题造成色差，比如：生产厂商与设计方对白色的理解不够精确统一、生产工艺中环境不够洁净、涂漆不够均匀等。</p>
-<p>屏幕与印刷色彩系统的不同会带来两种设计思维的不同，产品设计会更关注色值和色彩的还原度，而 UI 设计已经基本能保证对色彩的精准掌控，所以反而容易忽视色彩上细微的差别带来的不同效果。 <img src="https://images.xiaozhuanlan.com/photo/2018/4670b84ae0f947190041d7cb67e60947.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2018/de603a9bedb5fd2e8d3da8ee3e6b96ba.png" alt="" loading="lazy"></p>
-<p>一般来说，混入少量其他色彩的白色都会比纯白色显得更温和或者不那么僵硬。比如：在白色中混入少量的红，就成为淡粉色，鲜嫩而充满诱惑。如果与纯白色一同使用，质感轻盈，属于比较清新的少女色。 <img src="https://images.xiaozhuanlan.com/photo/2018/84034d779333856c84b1fcf65655e637.png" alt="" loading="lazy"> 在白色中混入黄色，会成为一种米白色，因为更接近实际上书扉和布料的颜色，所以会比纯白更显文艺和朴素，这种颜色与深色和浅色搭配都很容易，画面简单一些更好。 <img src="https://images.xiaozhuanlan.com/photo/2018/deea4e380933e087f5f5c2f219952148.png" alt="" loading="lazy"> 混入蓝色的白色，清新中透露一些安静的感觉，比粉色更柔和。明度再稍稍低一点，则会更文艺、安宁，当然，这对于其他颜色效果也是类似的。 <img src="https://images.xiaozhuanlan.com/photo/2018/0637a528c105128d9b8e9944485bb9c3.png" alt="" loading="lazy"> 白色掺杂紫色，更诱导人联想到淡淡的芳香（可能是被《丁香花》洗脑），感觉更加清冷、洁净，同样适合在纯白中显示差异。 <img src="https://images.xiaozhuanlan.com/photo/2018/a8f91ca964a46cc0c8e2c41ba19b2f22.png" alt="" loading="lazy"> 白色加橙色，稍显干燥，看起来有点像发黄的纸。如果画面想要显得干净，还是绕道而行吧。 <img src="https://images.xiaozhuanlan.com/photo/2018/f16534646f2b314722cf2f5e044fd0d4.png" alt="" loading="lazy"></p>
-<h1 id="一点想法">一点想法</h1>
-<p>2019年的第一篇文章，在最后说说关于设计的事吧。 设计呢，不同于美术，没有什么美术功底的人（比如本人）也可以做。虽然门槛不高，但我从未将它仅仅看成一份职业，投身设计界是兴趣使然，却不曾想设计会给我带来如此的变化。在学设计以前，我是一个非常粗枝大叶的人，经常犯迷糊，还总以&quot;不拘小节&quot;来伪装自己。而现在的自己被&quot;磨炼&quot;得越来越细致，习惯性地对周围的一切保持关注，有了&quot;强迫症&quot;，更喜欢去探索这个世界的规律。可以说，通过设计，自己思考的维度有了很大的不同。 不论你只是想学习设计以解决生活中遇到的基本设计问题，还是真心想投入这个行业，其实最最重要的不是去学软件、学绘图、学技巧，而是学习这门知识的思维方式。罗振宇在跨年演讲中讲的多元思维模型大抵也是想传达这个意思，通过不同的视角，让很多种认识世界的模型在自己的脑子里并存。 希望你记住现在的自己，待回首，愿不负韶光。</p>
 ]]></content>
     </entry>
 </feed>

@@ -1,0 +1,181 @@
+<html>
+<head>
+    <meta charset="utf-8"/>
+<meta name="description" content=""/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>排版第一课：初识网格系统 | 港姐 Souffle</title>
+<link rel="shortcut icon" href="https://souffleinspire.github.io/favicon.ico?v=1584260987124">
+<link href="https://cdn.bootcss.com/font-awesome/5.11.2/css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="https://souffleinspire.github.io/styles/main.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/highlight.min.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/dockerfile.min.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/dart.min.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/go.min.js"></script>
+<script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+
+<!-- DEMO JS -->
+<script src="media/scripts/index.js"></script>
+
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+</head>
+<body>
+<div class="main gt-bg-theme-color-first">
+    <nav class="navbar navbar-expand-lg">
+    <div class="navbar-brand">
+        <img class="user-avatar" src="/images/avatar.png" alt="头像">
+        <div class="site-name gt-c-content-color-first">
+            港姐 Souffle
+        </div>
+    </div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <i class="fas fa-bars gt-c-content-color-first" style="font-size: 18px"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="navbar-nav mr-auto" style="text-align: center">
+            
+                <div class="nav-item">
+                    
+                        <a href="/" class="menu gt-a-link">
+                            首页
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="https://xiaozhuanlan.com/ui-x" class="menu gt-a-link" target="_blank">
+                            知录
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="https://xiaozhuanlan.com/sketch-go" class="menu gt-a-link" target="_blank">
+                            行录
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="/post/about" class="menu gt-a-link">
+                            我
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="/tags" class="menu gt-a-link">
+                            标签
+                        </a>
+                    
+                </div>
+            
+        </div>
+    </div>
+</nav>
+    <div class="post-container">
+        <div class="post-detail gt-bg-theme-color-second">
+            <article class="gt-post-content">
+                <h2 class="post-title">
+                    排版第一课：初识网格系统
+                </h2>
+                <div class="post-info">
+                    <time class="post-time gt-c-content-color-first">
+                        · 2019-06-02 ·
+                    </time>
+                    
+                        <a href="https://souffleinspire.github.io/tag/pai-ban/" class="post-tags">
+                            # 排版
+                        </a>
+                    
+                        <a href="https://souffleinspire.github.io/tag/WK_8M1c91/" class="post-tags">
+                            # 设计
+                        </a>
+                    
+                </div>
+                <div class="post-content">
+                    <h1 id="前言">前言</h1>
+<p>上一篇文章通过讲视觉重心，把色彩和排版结合起来，其实是一个铺垫。一方面，我想开始主要写关于排版的基础知识。另一方面，希望大家意识到设计基础不是某一类设计师的必修课，而是整个设计行业的必修课，甚至是所有人都值得了解的知识。</p>
+<p>有了这个打算，我最近开始看《平面设计中的网格系统》（下面简称《网格》）。当然，不是想去当平面设计师，而是这本书实在经典，而且我也已经买了很久，再不看可能要发霉了。 <img src="https://images.xiaozhuanlan.com/photo/2019/82a8f05e06d6be24cb70505e00d5b93a.png" alt="" loading="lazy"> 开个玩笑！虽然还没看完，但我之前对网格系统有过了解，越发深入越觉得它是设计界一个伟大的发明。</p>
+<h1 id="网格系统意义何在">网格系统意义何在？</h1>
+<p>延续上篇最后写我自己对于设计之感性与理性的想法，很多时候设计师对&quot;好&quot;的认定是凭直觉，但<strong>凡只关乎直觉的过程，就很难被叙述出来，也就难以传播</strong>。比方说我经常问一些作品非常不错的设计师是如何配色的，大多数给我的答案要么答非所问，要么&quot;不可描述&quot;。对排版来说也是如此，如果我们只能说某个元素摆在这儿比摆在那儿好，那就不能总结成为经验。</p>
+<p>而网格系统就是一个总结，<strong>它让排版变得有理有据，所以能被广泛的设计师或排版者借鉴</strong>。因此，我们有了阅读流畅、观感舒适、使用合理的报纸、书籍、杂志、海报、展板，甚至网页、移动端界面。设计师可以快速有效的通过版面设计，清晰地传达各种层次的信息。 <img src="https://images.xiaozhuanlan.com/photo/2019/2b813c55f00b5e8cce2bb0afabfea1fc.png" alt="" loading="lazy"> 还有一种声音，说网格系统会限制设计师的发挥。我的看法是，<strong>网格是一种秩序</strong>，如果使用者对它很熟悉的话，它就会成为你心里潜移默化的规则。这种规则的限制不能说没有，但是影响应该是不会那么大的。就像一个公司的 UI 会有自己的设计规范，应该说限制多得多，可是我们还是能在其中创造无数的变化。<strong>网格本身就具有多变性，也并不死板，它支持在秩序之下创造新的秩序</strong>，设计师是很难有黔驴技穷的机会的。 <img src="https://images.xiaozhuanlan.com/photo/2019/2dbff78939b9732b2f588e4374f92078.png" alt="" loading="lazy"></p>
+<h1 id="初识网格系统">初识网格系统</h1>
+<p>《网格》专业性很强，&quot;学术气息&quot;浓厚，内容全面且干货满满。请放心，我不打算一一道来，但会尽力总结一下全书的核心知识点，作为下一篇的主要内容（一个血泪 flag）。在此之前，需要你认识几个专有名词。</p>
+<h2 id="单元格">单元格</h2>
+<p>网格系统是由许多水平线和垂直线构成，因此页面被划分成很多小格子，这就是「单元格」。单元格可大可小，但无论大小，都是版面的基本构成单位。 <img src="https://images.xiaozhuanlan.com/photo/2019/293f98f3dea4daa88d76e2a8bed60cec.png" alt="" loading="lazy"></p>
+<h2 id="版心">版心</h2>
+<p>「版心」是用于填写主要内容的区域。名虽学术，实则太简单了，如图所标示的区域就是版心： <img src="https://images.xiaozhuanlan.com/photo/2019/1c90dc23dea697f66455488080fbd187.png" alt="" loading="lazy"></p>
+<h2 id="页边距-vs-外边距">页边距 vs 外边距</h2>
+<p>「页边距」一般是平面作品的说法，是版心与纸张之间的距离，不用我说你也知道二维空间的页边距有四个。左、右页边距不说了，上页边距被称为「天头」，下页边距叫做「地脚」。 <img src="https://images.xiaozhuanlan.com/photo/2019/71cd01081f66de61435e8a3d6335bee1.png" alt="" loading="lazy"> 外边距主要是 UI 的说法，概念和「页边距」相差无几。只是多数时候左右外边距是一样的，上边距......嗯......可能没有。 <img src="https://images.xiaozhuanlan.com/photo/2019/ace23a18e4e500c7a94a7e9a09800d83.png" alt="" loading="lazy"></p>
+<h2 id="出血">出血</h2>
+<p>印刷品在装订时，难免有一部分会被误裁1-3mm，甚至更多，所以印刷标准要求保留这个容错空间，即为「出血」，一般会是5mm。「出血」常常在设置页边距的时候就被考虑了，了解即可。 <img src="https://images.xiaozhuanlan.com/photo/2019/faf4163a1b5fff9a5a7d2a59dc7f8399.png" alt="" loading="lazy"></p>
+<h2 id="栏-水槽">栏 &amp; 水槽</h2>
+<p>如果把「栏」换成「列」你可能好理解，许多条垂直线就能把版面划分成一列一列。对排版来说，紧紧挨着的「栏」是没有价值的，必须要有间隙才能体现出网格，这些间隙叫做「水槽」，可以说是很形象了。 <img src="https://images.xiaozhuanlan.com/photo/2019/b7f92e2eab16ed501d2048e311c3bde1.png" alt="" loading="lazy"></p>
+<h2 id="行-横向间距">行 &amp; 横向间距</h2>
+<p>「行」与「栏」对应，由水平线分割出来。为什么「横向间距」没有一个&quot;炫酷&quot;的名字呢？我猜是因为网格中总是先划分栏，当横向再划分的时候，已经可以用「格」的概念来衡量了，「横向间距」就是格与格之间的距离。 <img src="https://images.xiaozhuanlan.com/photo/2019/efc0a1e8dd8dd9e5c28d1ff20768893d.png" alt="" loading="lazy"></p>
+<h1 id="一点想法">一点想法</h1>
+<p>好几个人跟我说，我的文章太长了，可是我还是把它写得很长。我也曾经怀疑过，想过改变一下，但是我的老板给了很多肯定和鼓励。他说他就喜欢看长文，我也戏称要考考他，现在也还没兑现。 我可能是个理想主义者，会固执的认定自己觉得对或者喜欢的事，会对不喜欢的行为嗤之以鼻。自然，喜欢我这种性格的人会相当接受，不喜欢者会相当不悦。当我发现，如我者在某个空间内被当作异类，惊讶的同时觉得幸福又多了一分。 近来在读的另一本书，提及进步的青年人与保守的老一辈之间的冲突，越发使我认识到社会的包容度于多样性和未来之重要，当前的与众不同经常是将来的常态。</p>
+
+                </div>
+            </article>
+        </div>
+
+        
+            <div class="next-post">
+                <div class="next gt-c-content-color-first">下一篇</div>
+                <a href="https://souffleinspire.github.io/post/color-20/" class="post-title gt-a-link">
+                    色彩第二十课：色彩重心
+                </a>
+            </div>
+        
+
+        
+
+        <div class="site-footer gt-c-content-color-first">
+    <div class="slogan gt-c-content-color-first">A life-long student</div>
+    <div class="social-container">
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    </div>
+    Powered by <a href="https://github.com/getgridea/gridea" target="_blank"> Souffle </a> | <a href="https://souffleinspire.github.io/atom.xml" target="_blank">RSS</a>
+</div>
+
+<script>
+    hljs.initHighlightingOnLoad()
+</script>
+
+
+    </div>
+</div>
+</body>
+</html>

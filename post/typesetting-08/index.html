@@ -1,0 +1,184 @@
+<html>
+<head>
+    <meta charset="utf-8"/>
+<meta name="description" content=""/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>排版第八课：一招对齐，解决排版主要问题 | 港姐 Souffle</title>
+<link rel="shortcut icon" href="https://souffleinspire.github.io/favicon.ico?v=1584260987124">
+<link href="https://cdn.bootcss.com/font-awesome/5.11.2/css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="https://souffleinspire.github.io/styles/main.css">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/highlight.min.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/dockerfile.min.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/dart.min.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.15.10/languages/go.min.js"></script>
+<script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+
+<!-- DEMO JS -->
+<script src="media/scripts/index.js"></script>
+
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
+</head>
+<body>
+<div class="main gt-bg-theme-color-first">
+    <nav class="navbar navbar-expand-lg">
+    <div class="navbar-brand">
+        <img class="user-avatar" src="/images/avatar.png" alt="头像">
+        <div class="site-name gt-c-content-color-first">
+            港姐 Souffle
+        </div>
+    </div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <i class="fas fa-bars gt-c-content-color-first" style="font-size: 18px"></i>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <div class="navbar-nav mr-auto" style="text-align: center">
+            
+                <div class="nav-item">
+                    
+                        <a href="/" class="menu gt-a-link">
+                            首页
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="https://xiaozhuanlan.com/ui-x" class="menu gt-a-link" target="_blank">
+                            知录
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="https://xiaozhuanlan.com/sketch-go" class="menu gt-a-link" target="_blank">
+                            行录
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="/post/about" class="menu gt-a-link">
+                            我
+                        </a>
+                    
+                </div>
+            
+                <div class="nav-item">
+                    
+                        <a href="/tags" class="menu gt-a-link">
+                            标签
+                        </a>
+                    
+                </div>
+            
+        </div>
+    </div>
+</nav>
+    <div class="post-container">
+        <div class="post-detail gt-bg-theme-color-second">
+            <article class="gt-post-content">
+                <h2 class="post-title">
+                    排版第八课：一招对齐，解决排版主要问题
+                </h2>
+                <div class="post-info">
+                    <time class="post-time gt-c-content-color-first">
+                        · 2019-09-24 ·
+                    </time>
+                    
+                        <a href="https://souffleinspire.github.io/tag/pai-ban/" class="post-tags">
+                            # 排版
+                        </a>
+                    
+                        <a href="https://souffleinspire.github.io/tag/WK_8M1c91/" class="post-tags">
+                            # 设计
+                        </a>
+                    
+                </div>
+                <div class="post-content">
+                    <h1 id="前言">前言</h1>
+<p>说到对齐，大家可能会联想到左对齐、居中对齐和右对齐，但对齐方式还远不止这些。「对齐」位列版式设计法则四席之一，足以证明它的重要性。为了更直观地感受，给大家准备了同样内容的两种设计，你认为哪一个更好？ <img src="https://images.xiaozhuanlan.com/photo/2019/db6f24e4ea718d4f59e3e2beff7adf94.png" alt="" loading="lazy"> 一目了然，第二个的设计采用整体左对齐，看起来秩序井然。第一个设计不仅没有对齐，而且使用了不适合的对齐方式，这就是整体看上去凌乱的主要问题。对齐应该怎么做？下面为你介绍。</p>
+<h1 id="文字对齐">文字对齐</h1>
+<p>文字对齐是最重要的基础知识，对齐方式有很多种，下面讲常见的6种。其他的轴对齐、底对齐、斜对齐等等使用较少，就不详细展开了。</p>
+<h2 id="1-左对齐">1. 左对齐</h2>
+<p>左对齐：版面元素以左基准为基础对齐。在观看横向编排的文字时，我们习惯从左往右的阅读顺序，因此<strong>左对齐有利于阅读</strong>。无论印刷品，还是电子屏幕中，涉及的文字量比较大的时候，左对齐最为常用。 <img src="https://images.xiaozhuanlan.com/photo/2019/f4b242c16ce8a89d72b2306a733cca7a.png" alt="" loading="lazy"></p>
+<h2 id="2-右对齐">2. 右对齐</h2>
+<p>右对齐：版面元素以右基准对齐。从左到右阅读时，文字的起点位置不一样，视线需要在版面中不停跳跃，因此阅读右对齐文字的速率会慢一些。右对齐文字通常作为一种艺术表现，用在<strong>文化感较强</strong>的作品中，如：电影海报、展览海报。 <img src="https://images.xiaozhuanlan.com/photo/2019/bdcc77c56b419ef8399b098adc260246.png" alt="" loading="lazy"> 如果<strong>文字在版面右侧，且左边的元素边界是曲线</strong>，也适合使用右对齐（如下图，注意看红线）。 <img src="https://images.xiaozhuanlan.com/photo/2019/b09d54ddbcdd05102bae63b8a128d3e1.png" alt="" loading="lazy"></p>
+<h2 id="3-居中对齐">3. 居中对齐</h2>
+<p>居中对齐：版面元素以元素中线为基准对齐。居中对齐有一种<strong>庄严感和正式感</strong>，常用于书籍封面、官网网页等比较重要的宣传物。 <img src="https://images.xiaozhuanlan.com/photo/2019/a063afccdacaca3dc70a885a6493fa6d.png" alt="" loading="lazy"> <strong>中间区域形成了留白或者中线上有明显的视觉焦点时</strong>，也适合使用居中对齐。 <img src="https://images.xiaozhuanlan.com/photo/2019/8dcd7bd369c9ee7d1104878395a2be47.png" alt="" loading="lazy"></p>
+<h2 id="4-两端对齐">4. 两端对齐</h2>
+<p>两端对齐：版面的元素进行拉伸或者缩放，与同一元素左右两端对齐，往往在<strong>文字量太大，需要尽量增加阅读效率时</strong>使用，比如：报告、论文、报纸之类。 <img src="https://images.xiaozhuanlan.com/photo/2019/8f71bb70226b53db91c82ca088f381fe.png" alt="" loading="lazy"> 两端对齐在纯设计作品中比较少见，部分 banner、创意海报可能会用到。 <img src="https://images.xiaozhuanlan.com/photo/2019/76d62e85a5c8011a8391d4e8c9f079e9.png" alt="" loading="lazy"></p>
+<h2 id="5-顶对齐">5. 顶对齐</h2>
+<p>顶对齐：版面元素以顶部为基准对齐。针对竖向文字，人们观看的顺序是自上而下，与左对齐一样，顶对齐也是符合阅读习惯的。竖排文字基本只在中文排版中使用，用于表现<strong>文化感、中国风</strong>，常用于书籍封面。 <img src="https://images.xiaozhuanlan.com/photo/2019/7d052232101aff3a47701d61b4e5b671.png" alt="" loading="lazy"> 由于竖排版的限制，顶对齐文字有时候会造成阅读障碍，下图框选出来的部分并不适合顶对齐。 <img src="https://images.xiaozhuanlan.com/photo/2019/3549986d861a5e2f6d223a122e1dd524.png" alt="" loading="lazy"></p>
+<h2 id="6-上下居中对齐">6. 上下居中对齐</h2>
+<p>上下居中对齐：版面元素以水平中线为基准对齐，可以理解为竖向上的居中对齐。这种对齐也适合于中国风，但相对于顶对齐来说更加随意些。 <img src="https://images.xiaozhuanlan.com/photo/2019/dcf2a4dc05b53c3a88d65c41166ea043.png" alt="" loading="lazy"></p>
+<h1 id="视觉对齐">视觉对齐</h1>
+<p>设计中追求的对齐不是绝对的对齐（即 物理对齐），而是视觉对齐。先做一个小测试，下面四个形状，视觉上是统一的吗？ <img src="https://images.xiaozhuanlan.com/photo/2019/f07b2ada31d973062c9fac4780b0f2fa.png" alt="" loading="lazy"> 从视觉上来说，并不会觉得它们的大小相同，菱形看上去最小，而方形感觉最大，但是它们的上下边却是对齐的，宽度也一样。 <img src="https://images.xiaozhuanlan.com/photo/2019/df507f4b854d956b0edbaf50e157f7d2.png" alt="" loading="lazy"> 由此看出，对于图形而言，物理对齐并不靠谱，我们还需要追求<strong>面积基本相等</strong>。下图为调整之后的形状，它们的边线虽不再对齐，但看起来和谐多了。这种平衡没有具体的计算公式，需要靠&quot;设计之眼&quot;来发现。 <img src="https://images.xiaozhuanlan.com/photo/2019/7fbe2b9acd96d8c7ac38aad6a5e38314.png" alt="" loading="lazy"> <img src="https://images.xiaozhuanlan.com/photo/2019/12b086f325dbb9eeb45831cb38fd2823.png" alt="" loading="lazy"> 视觉对齐有什么用处呢？例如下图中有一张陶艺展海报，提取出主要的图形元素形状基本相同，现在要用另一些元素进行替换。 <img src="https://images.xiaozhuanlan.com/photo/2019/e9a741c4641bac00f54ccad3ee03eb70.png" alt="" loading="lazy"> 这些元素形状各异，需要用视觉对齐来统一，而非基线对齐。 <img src="https://images.xiaozhuanlan.com/photo/2019/9f435eb1060c50383a41116a7aac360d.png" alt="" loading="lazy"> 再来看一个示例，在版面中，轴对称图形很容易找到对齐基准，使其对称轴居中即可，如下图左。图右换成一个不规则图形，你觉得对齐了吗？ <img src="https://images.xiaozhuanlan.com/photo/2019/39d4bb01f4a399e4d3ce0db0caec98b7.png" alt="" loading="lazy"> 虽然还是整体居中，图形两侧与中线距离相同，但两侧面积（蓝色区域与红色区域）却有很大差别，这就是看上去并未对齐的原因。若使其视觉对齐，需将此图形向左移动到合适位置，使两侧面积基本相当，如下图右。 <img src="https://images.xiaozhuanlan.com/photo/2019/ccf5a9a840022ef880811fdd3d40e903.png" alt="" loading="lazy"></p>
+<h1 id="图片对齐">图片对齐</h1>
+<p>说到图形，其实图片也需要对齐。图片对齐包括两方面：<strong>图片与图片对齐、图片与文字对齐</strong>。下图左出现了两个问题：图片1既未与大图对齐，也没有与文字对齐；图片2未与同层级图片对齐。 <img src="https://images.xiaozhuanlan.com/photo/2019/97953a8723560b7303313eb40a100cd2.png" alt="" loading="lazy"> 整齐的图片给人整洁感，观者获取信息的速度也会加快。不要盲目模仿复杂的设计作品，看似凌乱的背后其实也有严格的对齐。 <img src="https://images.xiaozhuanlan.com/photo/2019/0aec3339132b945898cf62190b0cd9d4.png" alt="" loading="lazy"></p>
+<h1 id="区块对齐">区块对齐</h1>
+<p><strong>对齐也可以体现层级关系</strong>，同一层级的元素使用相同的对齐方式，而很多种元素组合成的区块也需要对齐。下图两个同层级的卡片对齐，卡片的相似元素也全部对齐，卡片内还运用了左对齐。 <img src="https://images.xiaozhuanlan.com/photo/2019/91be68e39ad1ef32b014a68d31104c32.png" alt="" loading="lazy"></p>
+<h1 id="最后">最后</h1>
+<p>对齐主要依赖两点，一是<strong>遵循对齐原则</strong>，二是<strong>选择适合的对齐方式</strong>。如果你的版面感觉别扭，那就先检查一下是否还有可以对齐的地方。</p>
+<p><em>以上图片元素采自于网络，请勿采集商用</em></p>
+
+                </div>
+            </article>
+        </div>
+
+        
+            <div class="next-post">
+                <div class="next gt-c-content-color-first">下一篇</div>
+                <a href="https://souffleinspire.github.io/post/thinking-03/" class="post-title gt-a-link">
+                    聊个五毛钱的，关于我的设计观
+                </a>
+            </div>
+        
+
+        
+
+        <div class="site-footer gt-c-content-color-first">
+    <div class="slogan gt-c-content-color-first">A life-long student</div>
+    <div class="social-container">
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    </div>
+    Powered by <a href="https://github.com/getgridea/gridea" target="_blank"> Souffle </a> | <a href="https://souffleinspire.github.io/atom.xml" target="_blank">RSS</a>
+</div>
+
+<script>
+    hljs.initHighlightingOnLoad()
+</script>
+
+
+    </div>
+</div>
+</body>
+</html>
